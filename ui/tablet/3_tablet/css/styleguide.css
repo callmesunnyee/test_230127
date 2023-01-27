@@ -1,0 +1,29 @@
+:root { 
+  --baby-powder: #fcfcfc;
+  --concrete: #f2f2f2;
+  --quill-gray: #d6d6d6;
+  --shark: #252525;
+  --white: #ffffff;
+ 
+  --font-size-l: 9.8px;
+  --font-size-m: 9px;
+  --font-size-xl: 10.5px;
+  --font-size-xxl: 13.5px;
+  --font-size-xxxl: 14.2px;
+  --font-size-xxxxl: 18px;
+ 
+  --font-family-helvetica: "Helvetica", Helvetica;
+  --font-family-roboto: "Roboto", Helvetica;
+  --font-family-samsungonekorean-600: "SamsungOneKorean-600", Helvetica;
+  --font-family-samsungonekorean-700: "SamsungOneKorean-700", Helvetica;
+}
+.roboto-light-shark-10-5px {
+  color: var(--shark);
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 300;
+}
+
+:root {
+}

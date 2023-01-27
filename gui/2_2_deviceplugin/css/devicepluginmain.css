@@ -1,0 +1,487 @@
+/* screen - devicepluginmain */
+
+.devicepluginmain {
+  background-color: var(--white);
+  height: 100vh;
+  margin: 0px;
+  min-height: 1260px;
+  min-width: 1920px;
+  overflow-x: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.devicepluginmain .group-3-x8si9G {
+  background-color: transparent;
+  height: 770px;
+  left: 420px;
+  position: absolute;
+  top: 290px;
+  width: 514px;
+}
+
+.devicepluginmain .lnb-device-plug-in-x8si9G {
+  background-color: transparent;
+  height: 1305px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.devicepluginmain .rectangle-2H7QaI {
+  background-color: var(--concrete);
+  height: 1305px;
+  width: 320px;
+}
+
+.devicepluginmain .stacked-group-2H7QaI {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  left: 0px;
+  position: absolute;
+  top: 170px;
+  width: 320px;
+}
+
+.devicepluginmain .web-index-title-common-jugiwo {
+  margin: 0;
+}
+
+.devicepluginmain .group-CDxEnN {
+  height: 46px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+}
+
+.devicepluginmain .group-dxxduQ {
+  height: 46px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+}
+
+.devicepluginmain .x1-depth-title-UlrcXV {
+  color: var(--shark);
+  font-weight: 500;
+}
+
+.devicepluginmain .button-bVfekj {
+  left: -1px;
+  top: -1px;
+}
+
+.devicepluginmain .group-lwin4G {
+  height: 46px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+}
+
+.devicepluginmain .x1-depth-title-62Rjh6 {
+  color: var(--shark);
+  font-weight: 500;
+}
+
+.devicepluginmain .button-0vnHvp {
+  left: -1px;
+  top: -1px;
+}
+
+.devicepluginmain .group-xUr4nD {
+  height: 46px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+}
+
+.devicepluginmain .x1-depth-title-xxOgKA {
+  color: var(--shark);
+  font-weight: 500;
+}
+
+.devicepluginmain .button-pknemd {
+  left: -1px;
+  top: -1px;
+}
+
+.devicepluginmain .group-Qg2V1T {
+  height: 46px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+}
+
+.devicepluginmain .x1-depth-title-UBybsf {
+  color: var(--shark);
+  font-weight: 500;
+}
+
+.devicepluginmain .button-xOUOx9 {
+  left: -1px;
+  top: -1px;
+}
+
+.devicepluginmain .group-fiAZNl {
+  height: 46px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+}
+
+.devicepluginmain .x1-depth-title-IxdFtd {
+  color: var(--shark);
+  font-weight: 500;
+}
+
+.devicepluginmain .button-VgxRsO {
+  left: -1px;
+  top: -1px;
+}
+
+.devicepluginmain .group-copy-jugiwo {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginmain .empty-2AcM7O {
+  top: 21px;
+}
+
+.devicepluginmain .empty-4RUxeD {
+  top: 0px;
+}
+
+.devicepluginmain .web-index-title-common-copy-jugiwo {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginmain .group-NlmEwB {
+  height: 46px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+}
+
+.devicepluginmain .web-index-contents1dpeth_open_selected-jugiwo {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginmain .group-Jvs5sP {
+  height: 46px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+}
+
+.devicepluginmain .x1-depth-title-ITLara {
+  color: var(--curious-blue);
+  font-weight: 600;
+}
+
+.devicepluginmain .web-expanded-Jvs5sP {
+  background-color: transparent;
+  height: 7px;
+  left: 27px;
+  position: absolute;
+  top: 20px;
+  width: 11px;
+}
+
+.devicepluginmain .button-N8vjGS {
+  left: 1px;
+  top: -3px;
+  transform: rotate(90deg);
+}
+
+.devicepluginmain .group-xCZdll {
+  height: 46px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+}
+
+.devicepluginmain .group-4g83xQ {
+  height: 46px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+}
+
+.devicepluginmain .group-h2ksY6 {
+  height: 46px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+}
+
+.devicepluginmain .group-V59aaj {
+  height: 46px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+}
+
+.devicepluginmain .group-PnKz7m {
+  height: 46px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+}
+
+.devicepluginmain .group-GIlDWM {
+  height: 46px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+}
+
+.devicepluginmain .group-ExGPL2 {
+  height: 46px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+}
+
+.devicepluginmain .group-G8Td6R {
+  height: 46px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+}
+
+.devicepluginmain .group-tCZ2HF {
+  height: 46px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+}
+
+.devicepluginmain .group-xKAwod {
+  height: 46px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+}
+
+.devicepluginmain .group-MN4Fus {
+  height: 46px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+}
+
+.devicepluginmain .group-RzCRQb {
+  height: 46px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+}
+
+.devicepluginmain .x1-depth-title-yBVQpi {
+  color: var(--shark);
+  font-weight: 500;
+}
+
+.devicepluginmain .button-lkAGtA {
+  left: -1px;
+  top: -1px;
+}
+
+.devicepluginmain .group-jugiwo {
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+}
+
+.devicepluginmain .empty-U2AElq {
+  top: 21px;
+}
+
+.devicepluginmain .empty-cCQTFL {
+  top: 0px;
+}
+
+.devicepluginmain .web-index-title-common-11EQ8a {
+  margin: 0px 0 0 0;
+}
+
+.devicepluginmain .group-Pe2Ykx {
+  height: 46px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+}
+
+.devicepluginmain .group-copy-2-jugiwo {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginmain .empty-gT7xJk {
+  top: 21px;
+}
+
+.devicepluginmain .empty-GrEUH6 {
+  top: 0px;
+}
+
+.devicepluginmain .web-index-title-common-copy-2-jugiwo {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginmain .group-XqUwJ5 {
+  height: 46px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+}
+
+.devicepluginmain .line-2H7QaI {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 154px;
+  width: 275px;
+}
+
+.devicepluginmain .home-net-gui-guidelin-2H7QaI {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 24px;
+  position: absolute;
+  top: 100px;
+  width: 212px;
+}
+
+.devicepluginmain .webgnb-x8si9G {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: fixed;
+  top: 0px;
+  width: 1920px;
+}
+
+.devicepluginmain .rectangle-qlQSyJ {
+  background-color: var(--shark);
+  height: 64px;
+  width: 1920px;
+}
+
+.devicepluginmain .background-qlQSyJ {
+  background-color: var(--shark);
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.devicepluginmain .index-qlQSyJ {
+  background-color: transparent;
+  height: 28px;
+  left: 427px;
+  position: absolute;
+  top: 21px;
+  width: 117px;
+}
+
+.devicepluginmain .web-index-select-5D9Dxx {
+  background-color: transparent;
+  cursor: pointer;
+  height: 22px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 17px;
+}
+
+.devicepluginmain .web-index-unselect-5D9Dxx {
+  background-color: transparent;
+  cursor: pointer;
+  height: 28px;
+  left: 85px;
+  position: absolute;
+  top: 0px;
+  width: 32px;
+}
+
+.devicepluginmain .web-index-unelect_main-qlQSyJ {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 18px;
+  position: absolute;
+  top: 20px;
+  width: 293px;
+}
+
+.devicepluginmain .logo-x8phx9 {
+  background-color: transparent;
+  height: 24px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 293px;
+}
+
+.devicepluginmain .title {
+  background-color: transparent;
+  color: var(--shark);
+  font-style: normal;
+  font-weight: 600;
+  height: auto;
+  left: 30px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 12px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.devicepluginmain .x2-death-title {
+  background-color: transparent;
+  color: var(--sonic-silver);
+  font-style: normal;
+  font-weight: 400;
+  height: 46px;
+  left: 70px;
+  letter-spacing: 0.00px;
+  line-height: 17px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 252px;
+}

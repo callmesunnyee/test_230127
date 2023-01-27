@@ -1,0 +1,984 @@
+/* screen - tabletservicepluinliveviewincomingcallfeature */
+
+.tabletservicepluinliveviewincomingcallfeature {
+  background-color: var(--white);
+  height: 2105px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.tabletservicepluinliveviewincomingcallfeature .group-17-ceQQn2 {
+  background-color: transparent;
+  height: 538px;
+  left: 419px;
+  position: absolute;
+  top: 1367px;
+  width: 680px;
+}
+
+.tabletservicepluinliveviewincomingcallfeature .group-15-ceQQn2 {
+  background-color: transparent;
+  height: 778px;
+  left: 419px;
+  position: absolute;
+  top: 389px;
+  width: 670px;
+}
+
+.tabletservicepluinliveviewincomingcallfeature .group-12-ceQQn2 {
+  background-color: transparent;
+  height: 135px;
+  left: 1140px;
+  position: absolute;
+  top: 389px;
+  width: 680px;
+}
+
+.tabletservicepluinliveviewincomingcallfeature .rectangle-CrkJhh {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 340px;
+}
+
+.tabletservicepluinliveviewincomingcallfeature .title-rznmiu {
+  color: var(--persian-green);
+  font-style: normal;
+  font-weight: 600;
+  height: 20px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: 328px;
+}
+
+.tabletservicepluinliveviewincomingcallfeature .contents-rznmiu {
+  color: var(--lochmara);
+  font-weight: 400;
+  height: 40px;
+  left: 0px;
+  text-decoration: underline;
+  top: 22px;
+  width: 328px;
+}
+
+.tabletservicepluinliveviewincomingcallfeature .rectangle-caJunl {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 50px;
+}
+
+.tabletservicepluinliveviewincomingcallfeature .contents-caJunl {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  top: 11px;
+  white-space: nowrap;
+  width: 38px;
+}
+
+.tabletservicepluinliveviewincomingcallfeature .rectangle-8y1K85 {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 270px;
+}
+
+.tabletservicepluinliveviewincomingcallfeature .contents-8y1K85 {
+  color: var(--science-blue);
+  font-weight: 600;
+  height: 20px;
+  left: 6px;
+  top: 11px;
+  white-space: nowrap;
+  width: 258px;
+}
+
+.tabletservicepluinliveviewincomingcallfeature .table-guide-title-2sWkDP {
+  left: 410px;
+  width: 270px;
+}
+
+.tabletservicepluinliveviewincomingcallfeature .rectangle-UXofW8 {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 270px;
+}
+
+.tabletservicepluinliveviewincomingcallfeature .table-title-text-UXofW8 {
+  width: 258px;
+}
+
+.tabletservicepluinliveviewincomingcallfeature .table-guide-title-VZ4Ypd {
+  left: 60px;
+  width: 340px;
+}
+
+.tabletservicepluinliveviewincomingcallfeature .rectangle-IINhuV {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 340px;
+}
+
+.tabletservicepluinliveviewincomingcallfeature .table-title-text-IINhuV {
+  width: 328px;
+}
+
+.tabletservicepluinliveviewincomingcallfeature .table-guide-title-Ao8wmu {
+  left: 0px;
+  width: 50px;
+}
+
+.tabletservicepluinliveviewincomingcallfeature .rectangle-0L0Gfe {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 50px;
+}
+
+.tabletservicepluinliveviewincomingcallfeature .table-title-text-0L0Gfe {
+  width: 38px;
+}
+
+.tabletservicepluinliveviewincomingcallfeature .group-12-copy-2-ceQQn2 {
+  background-color: transparent;
+  height: 135px;
+  left: 1140px;
+  position: absolute;
+  top: 1367px;
+  width: 680px;
+}
+
+.tabletservicepluinliveviewincomingcallfeature .rectangle-1xYq3n {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 340px;
+}
+
+.tabletservicepluinliveviewincomingcallfeature .title-Z9idws {
+  color: var(--persian-green);
+  font-style: normal;
+  font-weight: 600;
+  height: 20px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: 328px;
+}
+
+.tabletservicepluinliveviewincomingcallfeature .contents-Z9idws {
+  color: var(--lochmara);
+  font-weight: 400;
+  height: 40px;
+  left: 0px;
+  text-decoration: underline;
+  top: 22px;
+  width: 328px;
+}
+
+.tabletservicepluinliveviewincomingcallfeature .rectangle-tyn1Iy {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 50px;
+}
+
+.tabletservicepluinliveviewincomingcallfeature .contents-tyn1Iy {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  top: 11px;
+  white-space: nowrap;
+  width: 38px;
+}
+
+.tabletservicepluinliveviewincomingcallfeature .rectangle-B0QP5Q {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 270px;
+}
+
+.tabletservicepluinliveviewincomingcallfeature .contents-B0QP5Q {
+  color: var(--science-blue);
+  font-weight: 600;
+  height: 20px;
+  left: 6px;
+  top: 11px;
+  white-space: nowrap;
+  width: 258px;
+}
+
+.tabletservicepluinliveviewincomingcallfeature .table-guide-title-Q98lw6 {
+  left: 410px;
+  width: 270px;
+}
+
+.tabletservicepluinliveviewincomingcallfeature .rectangle-4Q2qri {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 270px;
+}
+
+.tabletservicepluinliveviewincomingcallfeature .table-title-text-4Q2qri {
+  width: 258px;
+}
+
+.tabletservicepluinliveviewincomingcallfeature .table-guide-title-3SOSJ5 {
+  left: 60px;
+  width: 340px;
+}
+
+.tabletservicepluinliveviewincomingcallfeature .rectangle-QnT9Cu {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 340px;
+}
+
+.tabletservicepluinliveviewincomingcallfeature .table-title-text-QnT9Cu {
+  width: 328px;
+}
+
+.tabletservicepluinliveviewincomingcallfeature .table-guide-title-C07jQO {
+  left: 0px;
+  width: 50px;
+}
+
+.tabletservicepluinliveviewincomingcallfeature .rectangle-fWWZSb {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 50px;
+}
+
+.tabletservicepluinliveviewincomingcallfeature .table-title-text-fWWZSb {
+  width: 38px;
+}
+
+.tabletservicepluinliveviewincomingcallfeature .web-title-area-ceQQn2 {
+  background-color: transparent;
+  height: 170px;
+  left: 320px;
+  position: fixed;
+  top: 64px;
+  width: 1600px;
+}
+
+.tabletservicepluinliveviewincomingcallfeature .web-tabtablet_service-plug-in-live-view-ceQQn2 {
+  background-color: transparent;
+  height: 94px;
+  left: 320px;
+  position: fixed;
+  top: 187px;
+  width: 1600px;
+}
+
+.tabletservicepluinliveviewincomingcallfeature .rectangle-xerTxP {
+  background-color: var(--white);
+  height: 94px;
+  width: 1600px;
+}
+
+.tabletservicepluinliveviewincomingcallfeature .x3rd-depth-copy-xerTxP {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1600px;
+}
+
+.tabletservicepluinliveviewincomingcallfeature .incoming-call_-flow_m-xerTxP {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  left: 703px;
+  position: absolute;
+  top: 0px;
+  width: 250px;
+}
+
+.tabletservicepluinliveviewincomingcallfeature .flow_-front-door-xerTxP {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  left: 1003px;
+  position: absolute;
+  top: 0px;
+  width: 104px;
+}
+
+.tabletservicepluinliveviewincomingcallfeature .flow_-back-key-xerTxP {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  left: 1325px;
+  position: absolute;
+  top: 0px;
+  width: 92px;
+}
+
+.tabletservicepluinliveviewincomingcallfeature .flow_-home-screen-xerTxP {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  left: 1157px;
+  position: absolute;
+  top: 0px;
+  width: 118px;
+}
+
+.tabletservicepluinliveviewincomingcallfeature .tab-copy-xerTxP {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  height: 17px;
+  justify-content: flex-start;
+  left: 100px;
+  position: absolute;
+  top: 0px;
+  width: auto;
+}
+
+.tabletservicepluinliveviewincomingcallfeature .live-view_-feature_-ca-2tfNxs {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0;
+  position: relative;
+  width: 148px;
+}
+
+.tabletservicepluinliveviewincomingcallfeature .live-view_-feature_-po-copy-2tfNxs {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 159px;
+}
+
+.tabletservicepluinliveviewincomingcallfeature .incoming-call-_-feat-2tfNxs {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 147px;
+}
+
+.tabletservicepluinliveviewincomingcallfeature .x3rd-depth-copy-2-xerTxP {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  position: absolute;
+  top: 47px;
+  width: 1600px;
+}
+
+.tabletservicepluinliveviewincomingcallfeature .feature_-main-entranc-yWIdDx {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  left: 331px;
+  position: absolute;
+  top: 0px;
+  width: 176px;
+}
+
+.tabletservicepluinliveviewincomingcallfeature .feature_-basic_layout-yWIdDx {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  left: 100px;
+  position: absolute;
+  top: 0px;
+  width: 181px;
+}
+
+.tabletservicepluinliveviewincomingcallfeature .feature_-front-door-yWIdDx {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  left: 557px;
+  position: absolute;
+  top: 0px;
+  width: 121px;
+}
+
+.tabletservicepluinliveviewincomingcallfeature .feature_-call-end-yWIdDx {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  left: 728px;
+  position: absolute;
+  top: 0px;
+  width: 105px;
+}
+
+.tabletservicepluinliveviewincomingcallfeature .feature_-back-key-yWIdDx {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  left: 883px;
+  position: absolute;
+  top: 0px;
+  width: 110px;
+}
+
+.tabletservicepluinliveviewincomingcallfeature .feature_-exceptional-yWIdDx {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  left: 1043px;
+  position: absolute;
+  top: 0px;
+  width: 160px;
+}
+
+.tabletservicepluinliveviewincomingcallfeature .title-ceQQn2 {
+  height: 40px;
+  left: 1140px;
+  top: 339px;
+  width: 283px;
+}
+
+.tabletservicepluinliveviewincomingcallfeature .title-copy-2-ceQQn2 {
+  background-color: transparent;
+  height: 40px;
+  left: 1140px;
+  opacity: 0.8;
+  position: absolute;
+  top: 1317px;
+  width: 283px;
+}
+
+.tabletservicepluinliveviewincomingcallfeature .lnbtablet_serviceplugin-ceQQn2 {
+  background-color: transparent;
+  height: 1351px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.tabletservicepluinliveviewincomingcallfeature .rectangle-jU993n {
+  background-color: var(--concrete);
+  height: 1351px;
+  width: 320px;
+}
+
+.tabletservicepluinliveviewincomingcallfeature .line-jU993n {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 154px;
+  width: 275px;
+}
+
+.tabletservicepluinliveviewincomingcallfeature .home-net-gui-guidelin-jU993n {
+  background-color: transparent;
+  cursor: pointer;
+  font-weight: 700;
+  height: auto;
+  left: 24px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: left;
+  top: 100px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.stackedgroup27 {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 170px;
+  width: 320px;
+}
+
+.stackedgroup27 .web-index-title-reference-copy-2-xFDYuX {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup27 .group-xFDYuX {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup27 .empty-AFDIuK {
+  bottom: 0px;
+}
+
+.stackedgroup27 .empty-RNvp36 {
+  top: 0px;
+}
+
+.stackedgroup27 .web-index-title-reference-copy-xFDYuX {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup27 .group-copy-xFDYuX {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup27 .empty-yk3guN {
+  bottom: 0px;
+}
+
+.stackedgroup27 .empty-A8VgRK {
+  top: 0px;
+}
+
+.stackedgroup27 .web-index-title-reference-xFDYuX {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup27 .group-copy-2-xFDYuX {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup27 .empty-copy-CFOS1e {
+  background-color: transparent;
+  bottom: 0px;
+  height: 48.78%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  width: 100%;
+}
+
+.stackedgroup27 .line-copy-2-CFOS1e {
+  background-color: transparent;
+  height: 2.44%;
+  left: 7.19%;
+  opacity: 0.2;
+  position: absolute;
+  top: 48.78%;
+  width: 85.62%;
+}
+
+.stackedgroup27 .empty-copy-2-CFOS1e {
+  background-color: transparent;
+  height: 48.78%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.stackedgroup27 .web-index-title-reference-copy-3-xFDYuX {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup27 .web-index-contents2dpeth-copy-3-xFDYuX {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup27 .web-index-contents2dpeth-copy-2-xFDYuX {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup27 .web-index-contents2dpeth-copy-xFDYuX {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup27 .web-index-contents2dpeth-copy-4-xFDYuX {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup27 .web-index-contents2dpeth-copy-5-xFDYuX {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup27 .web-index-contents2dpeth-copy-6-xFDYuX {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup27 .web-index-contents2dpeth-copy-16-xFDYuX {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup27 .web-index-contents2dpeth-copy-15-xFDYuX {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup27 .web-index-contents2dpeth-copy-14-xFDYuX {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup27 .web-index-contents2dpeth-copy-13-xFDYuX {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup27 .web-index-contents2dpeth-copy-12-xFDYuX {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup27 .web-index-contents2dpeth-copy-11-xFDYuX {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup27 .web-index-contents2dpeth-copy-10-xFDYuX {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup27 .web-index-contents2dpeth-copy-18-xFDYuX {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup27 .web-index-contents2dpeth-copy-17-xFDYuX {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup27 .web-index-contents2dpeth-copy-19-xFDYuX {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup27 .web-index-contents2dpeth-copy-21-xFDYuX {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup27 .web-index-contents2dpeth-copy-20-xFDYuX {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup27 .web-index-contents2dpeth-copy-22-xFDYuX {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.tabletservicepluinliveviewincomingcallfeature .webgnb-ceQQn2 {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.tabletservicepluinliveviewincomingcallfeature .rectangle-C4Oimg {
+  background-color: var(--shark);
+  height: 64px;
+  width: 1920px;
+}
+
+.tabletservicepluinliveviewincomingcallfeature .background-C4Oimg {
+  background-color: var(--shark);
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.tabletservicepluinliveviewincomingcallfeature .index-C4Oimg {
+  background-color: transparent;
+  height: 64px;
+  left: 420px;
+  position: absolute;
+  top: 0px;
+  width: 123px;
+}
+
+.tabletservicepluinliveviewincomingcallfeature .web-index-select-SpXALs {
+  background-color: transparent;
+  cursor: pointer;
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 32px;
+}
+
+.tabletservicepluinliveviewincomingcallfeature .web-index-unselect-SpXALs {
+  background-color: transparent;
+  cursor: pointer;
+  height: 64px;
+  left: 92px;
+  position: absolute;
+  top: 0px;
+  width: 31px;
+}
+
+.tabletservicepluinliveviewincomingcallfeature .web-index-unelect_main-C4Oimg {
+  background-color: transparent;
+  cursor: pointer;
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.tabletservicepluinliveviewincomingcallfeature .logo-MCjENL {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.tabletservicepluinliveviewincomingcallfeature .web-sub_-title-ceQQn2 {
+  background-color: transparent;
+  height: 57px;
+  left: 320px;
+  position: absolute;
+  top: 331px;
+  width: 360px;
+}
+
+.tabletservicepluinliveviewincomingcallfeature .sub-title-hMHL5J {
+  background-color: transparent;
+  font-weight: 700;
+  height: auto;
+  left: 100px;
+  letter-spacing: 0.00px;
+  line-height: 28px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.tabletservicepluinliveviewincomingcallfeature .contents {
+  background-color: transparent;
+  font-style: normal;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+}
+
+.tabletservicepluinliveviewincomingcallfeature .group {
+  background-color: transparent;
+  height: 62px;
+  left: 6px;
+  position: absolute;
+  top: 11px;
+  width: 328px;
+}
+
+.tabletservicepluinliveviewincomingcallfeature .group-11 {
+  background-color: transparent;
+  height: 79px;
+  left: 0px;
+  position: absolute;
+  top: 56px;
+  width: 680px;
+}
+
+.tabletservicepluinliveviewincomingcallfeature .table-guide-text1line-copy {
+  background-color: transparent;
+  height: 31px;
+  left: 410px;
+  position: absolute;
+  top: 0px;
+  width: 270px;
+}
+
+.tabletservicepluinliveviewincomingcallfeature .table-guide-text1line-copy-8 {
+  background-color: transparent;
+  height: 31px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.tabletservicepluinliveviewincomingcallfeature .table-guide-text2line_m-copy-6 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 73px;
+  left: 60px;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.tabletservicepluinliveviewincomingcallfeature .title {
+  background-color: transparent;
+  opacity: 0.8;
+  position: absolute;
+}

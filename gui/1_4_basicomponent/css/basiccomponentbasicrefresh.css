@@ -1,0 +1,1354 @@
+/* screen - basiccomponentbasicrefresh */
+
+.basiccomponentbasicrefresh {
+  background-color: var(--white);
+  height: 100vh;
+  margin: 0px;
+  min-height: 1211px;
+  min-width: 1920px;
+  overflow-x: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.basiccomponentbasicrefresh .group-6-zpfJxW {
+  background-color: transparent;
+  height: 120px;
+  left: 1140px;
+  position: absolute;
+  top: 646px;
+  width: 680px;
+}
+
+.basiccomponentbasicrefresh .styletabletop-IpxiwI {
+  background-color: transparent;
+  height: 38px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 680px;
+}
+
+.basiccomponentbasicrefresh .table-guide-title-wxo6Qa {
+  left: 552px;
+  width: 128px;
+}
+
+.basiccomponentbasicrefresh .rectangle-SaFd7L {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 128px;
+}
+
+.basiccomponentbasicrefresh .table-title-text-SaFd7L {
+  width: 116px;
+}
+
+.basiccomponentbasicrefresh .table-guide-title-ScAePI {
+  left: 60px;
+  width: 166px;
+}
+
+.basiccomponentbasicrefresh .rectangle-fi5vZE {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 166px;
+}
+
+.basiccomponentbasicrefresh .table-title-text-fi5vZE {
+  width: 154px;
+}
+
+.basiccomponentbasicrefresh .table-guide-title-copy-wxo6Qa {
+  background-color: transparent;
+  height: 38px;
+  left: 236px;
+  position: absolute;
+  top: 0px;
+  width: 106px;
+}
+
+.basiccomponentbasicrefresh .rectangle-CWUeEP {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 106px;
+}
+
+.basiccomponentbasicrefresh .table-title-text-CWUeEP {
+  width: 94px;
+}
+
+.basiccomponentbasicrefresh .table-guide-title-copy-2-wxo6Qa {
+  background-color: transparent;
+  height: 38px;
+  left: 352px;
+  position: absolute;
+  top: 0px;
+  width: 190px;
+}
+
+.basiccomponentbasicrefresh .rectangle-Ce5aVz {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 190px;
+}
+
+.basiccomponentbasicrefresh .table-title-text-Ce5aVz {
+  width: 178px;
+}
+
+.basiccomponentbasicrefresh .table-guide-title-5m2B4q {
+  left: 0px;
+  width: 50px;
+}
+
+.basiccomponentbasicrefresh .rectangle-OYo7Zv {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 50px;
+}
+
+.basiccomponentbasicrefresh .table-title-text-OYo7Zv {
+  width: 38px;
+}
+
+.basiccomponentbasicrefresh .styletable1line_-color-IpxiwI {
+  background-color: transparent;
+  height: 53px;
+  left: 0px;
+  position: absolute;
+  top: 56px;
+  width: 680px;
+}
+
+.basiccomponentbasicrefresh .table-guide-text1line-JY23aQ {
+  left: 552px;
+  width: 128px;
+}
+
+.basiccomponentbasicrefresh .rectangle-7hKvoX {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 128px;
+}
+
+.basiccomponentbasicrefresh .contents-7hKvoX {
+  width: 116px;
+}
+
+.basiccomponentbasicrefresh .table-guide-text1line-xFqA7m {
+  left: 60px;
+  width: 166px;
+}
+
+.basiccomponentbasicrefresh .rectangle-O48qBq {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 166px;
+}
+
+.basiccomponentbasicrefresh .contents-O48qBq {
+  width: 154px;
+}
+
+.basiccomponentbasicrefresh .table-guide-text1line-8ZDLfV {
+  left: 236px;
+  width: 100px;
+}
+
+.basiccomponentbasicrefresh .rectangle-zG5v3X {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 100px;
+}
+
+.basiccomponentbasicrefresh .contents-zG5v3X {
+  width: 88px;
+}
+
+.basiccomponentbasicrefresh .table-guide-text2line-JY23aQ {
+  background-color: transparent;
+  height: 53px;
+  left: 346px;
+  position: absolute;
+  top: 0px;
+  width: 196px;
+}
+
+.basiccomponentbasicrefresh .rectangle-bcxVeV {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 196px;
+}
+
+.basiccomponentbasicrefresh .contents-bcxVeV {
+  width: 184px;
+}
+
+.basiccomponentbasicrefresh .contents-copy-bcxVeV {
+  background-color: transparent;
+  color: var(--fuscous-gray);
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 33px;
+  white-space: nowrap;
+  width: 184px;
+}
+
+.basiccomponentbasicrefresh .table-guide-text1line-Knjowm {
+  left: 0px;
+  width: 50px;
+}
+
+.basiccomponentbasicrefresh .rectangle-gkjEYx {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 50px;
+}
+
+.basiccomponentbasicrefresh .contents-gkjEYx {
+  width: 38px;
+}
+
+.basiccomponentbasicrefresh .group-5-zpfJxW {
+  background-color: transparent;
+  height: 669px;
+  left: 380px;
+  position: absolute;
+  top: 342px;
+  width: 710px;
+}
+
+.basiccomponentbasicrefresh .group-zpfJxW {
+  background-color: transparent;
+  height: 204px;
+  left: 1140px;
+  position: absolute;
+  top: 342px;
+  width: 680px;
+}
+
+.basiccomponentbasicrefresh .group-2-copy-2-5vux8F {
+  background-color: transparent;
+  height: 79px;
+  left: 0px;
+  position: absolute;
+  top: 56px;
+  width: 680px;
+}
+
+.tableguidetext1line32 {
+  background-color: transparent;
+  height: 39.24%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 7.35%;
+}
+
+.tableguidetext1line32 .rectangle-Yxqfy6 {
+  background-color: #000000;
+  height: 1px;
+  left: 0px;
+  opacity: 0.08;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.tableguidetext1line32 .contents-Yxqfy6 {
+  background-color: transparent;
+  color: #000000;
+  font-family: 'SamsungOneKorean-400', Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 11px;
+  white-space: nowrap;
+  width: 38px;
+}
+
+.tableguidetext1line122 {
+  background-color: transparent;
+  height: 39.24%;
+  opacity: 1;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 39.71%;
+}
+
+.tableguidetext1line122 .rectangle-TXxQ44 {
+  background-color: #000000;
+  height: 1px;
+  left: 0px;
+  opacity: 0.08;
+  position: absolute;
+  top: 0px;
+  width: 270px;
+}
+
+.tableguidetext1line122 .contents-TXxQ44 {
+  background-color: transparent;
+  color: #0074d4;
+  font-family: 'SamsungOneKorean-600', Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 600;
+  height: 20px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 11px;
+  white-space: nowrap;
+  width: 258px;
+}
+
+.basiccomponentbasicrefresh .table-guide-text2line_m-DAtqUP {
+  height: 73px;
+}
+
+.basiccomponentbasicrefresh .rectangle-J2HJA6 {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 340px;
+}
+
+.basiccomponentbasicrefresh .group-J2HJA6 {
+  background-color: transparent;
+  height: 62px;
+  left: 6px;
+  position: absolute;
+  top: 11px;
+  width: 328px;
+}
+
+.basiccomponentbasicrefresh .content-wQydQy {
+  height: 40px;
+}
+
+.basiccomponentbasicrefresh .group-2-copy-3-5vux8F {
+  background-color: transparent;
+  height: 59px;
+  left: 0px;
+  position: absolute;
+  top: 145px;
+  width: 680px;
+}
+
+.tableguidetext1line33 {
+  background-color: transparent;
+  height: 52.54%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 7.35%;
+}
+
+.tableguidetext1line33 .rectangle-duaxpP {
+  background-color: #000000;
+  height: 1px;
+  left: 0px;
+  opacity: 0.08;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.tableguidetext1line33 .contents-duaxpP {
+  background-color: transparent;
+  color: #000000;
+  font-family: 'SamsungOneKorean-400', Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 11px;
+  white-space: nowrap;
+  width: 38px;
+}
+
+.tableguidetext1line123 {
+  background-color: transparent;
+  height: 52.54%;
+  opacity: 1;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 39.71%;
+}
+
+.tableguidetext1line123 .rectangle-8PEXSV {
+  background-color: #000000;
+  height: 1px;
+  left: 0px;
+  opacity: 0.08;
+  position: absolute;
+  top: 0px;
+  width: 270px;
+}
+
+.tableguidetext1line123 .contents-8PEXSV {
+  background-color: transparent;
+  color: #0074d4;
+  font-family: 'SamsungOneKorean-600', Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 600;
+  height: 20px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 11px;
+  white-space: nowrap;
+  width: 258px;
+}
+
+.basiccomponentbasicrefresh .table-guide-text2line_m-VbQhxP {
+  height: 53px;
+}
+
+.basiccomponentbasicrefresh .rectangle-ejvK4l {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 340px;
+}
+
+.basiccomponentbasicrefresh .group-ejvK4l {
+  background-color: transparent;
+  height: 42px;
+  left: 6px;
+  position: absolute;
+  top: 11px;
+  width: 328px;
+}
+
+.basiccomponentbasicrefresh .content-xzvMCB {
+  height: 20px;
+  white-space: nowrap;
+}
+
+.basiccomponentbasicrefresh .group-3-5vux8F {
+  background-color: transparent;
+  height: 56px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 680px;
+}
+
+.basiccomponentbasicrefresh .table-guide-title-7Ad56E {
+  left: 410px;
+  width: 270px;
+}
+
+.basiccomponentbasicrefresh .rectangle-dZLhfS {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 270px;
+}
+
+.basiccomponentbasicrefresh .table-title-text-dZLhfS {
+  width: 258px;
+}
+
+.basiccomponentbasicrefresh .table-guide-title-VUKxKH {
+  left: 60px;
+  width: 340px;
+}
+
+.basiccomponentbasicrefresh .rectangle-7W3s2q {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 340px;
+}
+
+.basiccomponentbasicrefresh .table-title-text-7W3s2q {
+  width: 328px;
+}
+
+.basiccomponentbasicrefresh .table-guide-title-e6jxVr {
+  left: 0px;
+  width: 50px;
+}
+
+.basiccomponentbasicrefresh .rectangle-RUbSrA {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 50px;
+}
+
+.basiccomponentbasicrefresh .table-title-text-RUbSrA {
+  width: 38px;
+}
+
+.basiccomponentbasicrefresh .web-sub_-title-zpfJxW {
+  background-color: transparent;
+  height: 57px;
+  left: 320px;
+  position: absolute;
+  top: 284px;
+  width: 360px;
+}
+
+.basiccomponentbasicrefresh .sub-title-TQETcz {
+  background-color: transparent;
+  font-weight: 700;
+  height: auto;
+  left: 100px;
+  letter-spacing: 0.00px;
+  line-height: 28px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.basiccomponentbasicrefresh .web-title-area-zpfJxW {
+  background-color: transparent;
+  height: 170px;
+  left: 320px;
+  position: fixed;
+  top: 64px;
+  width: 1600px;
+}
+
+.basiccomponentbasicrefresh .web-tab-favorite-car-zpfJxW {
+  background-color: transparent;
+  height: 47px;
+  left: 320px;
+  position: fixed;
+  top: 188px;
+  width: 1600px;
+}
+
+.basiccomponentbasicrefresh .x3rd-depth-mRFVXL {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1600px;
+}
+
+.basiccomponentbasicrefresh .tab-mRFVXL {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  height: 17px;
+  justify-content: flex-start;
+  left: 100px;
+  position: absolute;
+  top: 0px;
+  width: auto;
+}
+
+.basiccomponentbasicrefresh .header_-app-bar-lI50KR {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0;
+  position: relative;
+  width: 102px;
+}
+
+.basiccomponentbasicrefresh .service-feature-type-lI50KR {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 71px;
+}
+
+.basiccomponentbasicrefresh .layout_-basic-grid_-de-lI50KR {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 202px;
+}
+
+.basiccomponentbasicrefresh .layout_-basic-grid_-se-lI50KR {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 206px;
+}
+
+.basiccomponentbasicrefresh .layout_bg-lI50KR {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 68px;
+}
+
+.basiccomponentbasicrefresh .layout_bg_-dynamic-br-lI50KR {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 251px;
+}
+
+.basiccomponentbasicrefresh .progress-circle-lI50KR {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 91px;
+}
+
+.basiccomponentbasicrefresh .refresh-lI50KR {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 48px;
+}
+
+.basiccomponentbasicrefresh .lnb-favorite-card-zpfJxW {
+  background-color: transparent;
+  height: 1581px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.basiccomponentbasicrefresh .rectangle-CDoD9W {
+  background-color: var(--concrete);
+  height: 1581px;
+  width: 320px;
+}
+
+.basiccomponentbasicrefresh .background-CDoD9W {
+  background-color: var(--concrete);
+  height: 1039px;
+  width: 320px;
+}
+
+.basiccomponentbasicrefresh .stacked-group-CDoD9W {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  left: 0px;
+  position: absolute;
+  top: 170px;
+  width: 320px;
+}
+
+.basiccomponentbasicrefresh .web-index-title-common-KRkjut {
+  margin: 0;
+}
+
+.basiccomponentbasicrefresh .web-index-contents2dpeth-copy-2-KRkjut {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentbasicrefresh .group-2fqcPF {
+  background-color: transparent;
+  height: 46px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 320px;
+}
+
+.basiccomponentbasicrefresh .x2-death-title-xZ8CjM {
+  color: var(--curious-blue);
+  font-weight: 500;
+}
+
+.basiccomponentbasicrefresh .web-index-contents2dpeth-copy-14-KRkjut {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentbasicrefresh .group-8GN5fk {
+  background-color: transparent;
+  height: 46px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 320px;
+}
+
+.basiccomponentbasicrefresh .x2-death-title-nDSPae {
+  color: var(--sonic-silver);
+  font-weight: 400;
+}
+
+.basiccomponentbasicrefresh .web-index-contents2dpeth-copy-10-KRkjut {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentbasicrefresh .group-0CC7sG {
+  background-color: transparent;
+  height: 46px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 320px;
+}
+
+.basiccomponentbasicrefresh .x2-death-title-Kd4DYX {
+  color: var(--sonic-silver);
+  font-weight: 400;
+}
+
+.basiccomponentbasicrefresh .web-index-contents2dpeth-copy-6-KRkjut {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentbasicrefresh .group-MI3cyS {
+  background-color: transparent;
+  height: 46px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 320px;
+}
+
+.basiccomponentbasicrefresh .x2-death-title-Ew0lm8 {
+  color: var(--sonic-silver);
+  font-weight: 400;
+}
+
+.basiccomponentbasicrefresh .web-index-contents2dpeth-copy-11-KRkjut {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentbasicrefresh .group-wPIbWH {
+  background-color: transparent;
+  height: 46px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 320px;
+}
+
+.basiccomponentbasicrefresh .x2-death-title-iUe8Rh {
+  color: var(--sonic-silver);
+  font-weight: 400;
+}
+
+.basiccomponentbasicrefresh .web-index-contents2dpeth-copy-KRkjut {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentbasicrefresh .group-8El6hx {
+  background-color: transparent;
+  height: 46px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 320px;
+}
+
+.basiccomponentbasicrefresh .x2-death-title-JpyxAh {
+  color: var(--sonic-silver);
+  font-weight: 400;
+}
+
+.basiccomponentbasicrefresh .web-index-contents2dpeth-copy-7-KRkjut {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentbasicrefresh .group-Y7amq4 {
+  background-color: transparent;
+  height: 46px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 320px;
+}
+
+.basiccomponentbasicrefresh .x2-death-title-5T4loj {
+  color: var(--sonic-silver);
+  font-weight: 400;
+}
+
+.basiccomponentbasicrefresh .web-index-contents2dpeth-copy-4-KRkjut {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentbasicrefresh .group-YbyeAg {
+  background-color: transparent;
+  height: 46px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 320px;
+}
+
+.basiccomponentbasicrefresh .x2-death-title-devX88 {
+  color: var(--sonic-silver);
+  font-weight: 400;
+}
+
+.basiccomponentbasicrefresh .web-index-contents2dpeth-copy-8-KRkjut {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentbasicrefresh .group-wkr717 {
+  background-color: transparent;
+  height: 46px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 320px;
+}
+
+.basiccomponentbasicrefresh .x2-death-title-hx4jpu {
+  color: var(--sonic-silver);
+  font-weight: 400;
+}
+
+.basiccomponentbasicrefresh .group-zKJ2dy {
+  background-color: transparent;
+  height: 46px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 320px;
+}
+
+.basiccomponentbasicrefresh .x2-death-title-YTY5Pc {
+  color: var(--sonic-silver);
+  font-weight: 400;
+}
+
+.basiccomponentbasicrefresh .web-index-contents2dpeth-copy-9-KRkjut {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentbasicrefresh .group-kXxfw9 {
+  background-color: transparent;
+  height: 46px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 320px;
+}
+
+.basiccomponentbasicrefresh .x2-death-title-SSUA2R {
+  color: var(--sonic-silver);
+  font-weight: 400;
+}
+
+.basiccomponentbasicrefresh .web-index-contents2dpeth-copy-5-KRkjut {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentbasicrefresh .group-esERjx {
+  background-color: transparent;
+  height: 46px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 320px;
+}
+
+.basiccomponentbasicrefresh .x2-death-title-yby0Yw {
+  color: var(--sonic-silver);
+  font-weight: 400;
+}
+
+.basiccomponentbasicrefresh .group-gzpJqN {
+  background-color: transparent;
+  height: 46px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 320px;
+}
+
+.basiccomponentbasicrefresh .x2-death-title-Em1ET1 {
+  color: var(--sonic-silver);
+  font-weight: 400;
+}
+
+.basiccomponentbasicrefresh .web-index-contents2dpeth-copy-3-KRkjut {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentbasicrefresh .group-rmwRhe {
+  background-color: transparent;
+  height: 46px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 320px;
+}
+
+.basiccomponentbasicrefresh .x2-death-title-6KxF1x {
+  color: var(--sonic-silver);
+  font-weight: 400;
+}
+
+.basiccomponentbasicrefresh .web-index-contents2dpeth-copy-12-KRkjut {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentbasicrefresh .group-kNxFb7 {
+  background-color: transparent;
+  height: 46px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 320px;
+}
+
+.basiccomponentbasicrefresh .x2-death-title-jvI5GJ {
+  color: var(--sonic-silver);
+  font-weight: 400;
+}
+
+.basiccomponentbasicrefresh .web-index-contents2dpeth-copy-15-KRkjut {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentbasicrefresh .group-sMibft {
+  background-color: transparent;
+  height: 46px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 320px;
+}
+
+.basiccomponentbasicrefresh .x2-death-title-hT4N9W {
+  color: var(--sonic-silver);
+  font-weight: 400;
+}
+
+.basiccomponentbasicrefresh .web-index-contents2dpeth-copy-13-KRkjut {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentbasicrefresh .group-JpKo9A {
+  background-color: transparent;
+  height: 46px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 320px;
+}
+
+.basiccomponentbasicrefresh .x2-death-title-XJBCCa {
+  color: var(--sonic-silver);
+  font-weight: 400;
+}
+
+.basiccomponentbasicrefresh .web-index-contents1dpeth_open_selected-KRkjut {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentbasicrefresh .group-copy-KRkjut {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentbasicrefresh .empty-nmcQyG {
+  top: 21px;
+}
+
+.basiccomponentbasicrefresh .empty-JIWyQe {
+  top: 0px;
+}
+
+.basiccomponentbasicrefresh .web-index-title-common-copy-KRkjut {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentbasicrefresh .group-KRkjut {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentbasicrefresh .empty-s5KgrV {
+  top: 21px;
+}
+
+.basiccomponentbasicrefresh .empty-BDbhe4 {
+  top: 0px;
+}
+
+.basiccomponentbasicrefresh .web-index-title-common-YcDtGd {
+  margin: 0px 0 0 0;
+}
+
+.basiccomponentbasicrefresh .group-copy-2-KRkjut {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentbasicrefresh .empty-J8NJQw {
+  top: 21px;
+}
+
+.basiccomponentbasicrefresh .empty-CrcLQz {
+  top: 0px;
+}
+
+.basiccomponentbasicrefresh .web-index-title-common-copy-2-KRkjut {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentbasicrefresh .line-CDoD9W {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 154px;
+  width: 275px;
+}
+
+.basiccomponentbasicrefresh .home-net-gui-guidelin-CDoD9W {
+  background-color: transparent;
+  cursor: pointer;
+  font-weight: 700;
+  height: auto;
+  left: 24px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: left;
+  top: 100px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.basiccomponentbasicrefresh .webgnb-zpfJxW {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: fixed;
+  top: 0px;
+  width: 1920px;
+}
+
+.basiccomponentbasicrefresh .rectangle-VbhzQF {
+  background-color: var(--shark);
+  height: 64px;
+  width: 1920px;
+}
+
+.basiccomponentbasicrefresh .background-VbhzQF {
+  background-color: var(--shark);
+  height: 64px;
+  width: 1920px;
+}
+
+.basiccomponentbasicrefresh .index-VbhzQF {
+  background-color: transparent;
+  height: 22px;
+  left: 427px;
+  position: absolute;
+  top: 21px;
+  width: 116px;
+}
+
+.basiccomponentbasicrefresh .web-index-select-3eP4HK {
+  background-color: transparent;
+  cursor: pointer;
+  height: 22px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 17px;
+}
+
+.basiccomponentbasicrefresh .web-index-unselect-3eP4HK {
+  background-color: transparent;
+  cursor: pointer;
+  height: 22px;
+  left: 87px;
+  position: absolute;
+  top: 0px;
+  width: 29px;
+}
+
+.basiccomponentbasicrefresh .web-index-unelect_main-VbhzQF {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 18px;
+  position: absolute;
+  top: 20px;
+  width: 293px;
+}
+
+.basiccomponentbasicrefresh .logo-8uv4v4 {
+  background-color: transparent;
+  height: 24px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 293px;
+}
+
+.basiccomponentbasicrefresh .content {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 22px;
+  width: 328px;
+}
+
+.basiccomponentbasicrefresh .contents {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 11px;
+  white-space: nowrap;
+}
+
+.basiccomponentbasicrefresh .table-guide-text1line {
+  background-color: transparent;
+  height: 31px;
+  position: absolute;
+  top: 0px;
+}
+
+.basiccomponentbasicrefresh .table-guide-text2line_m {
+  background-color: transparent;
+  left: 60px;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.basiccomponentbasicrefresh .table-title-text {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 700;
+  height: 22px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 16px;
+  white-space: nowrap;
+}
+
+.basiccomponentbasicrefresh .title {
+  background-color: transparent;
+  color: var(--persian-green);
+  font-style: normal;
+  font-weight: 600;
+  height: 20px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: 328px;
+}
+
+.basiccomponentbasicrefresh .web-index-contents1dpeth_close {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentbasicrefresh .web-index-title-common {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentbasicrefresh .x2-death-title {
+  background-color: transparent;
+  font-style: normal;
+  height: 46px;
+  left: 70px;
+  letter-spacing: 0.00px;
+  line-height: 17px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 252px;
+}

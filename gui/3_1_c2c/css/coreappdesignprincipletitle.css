@@ -1,0 +1,614 @@
+/* screen - coreappdesignprincipletitle */
+
+.coreappdesignprincipletitle {
+  background-color: var(--white);
+  height: 1572px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.coreappdesignprincipletitle .group-XWv7kc {
+  background-color: transparent;
+  height: 1030px;
+  left: 352px;
+  position: absolute;
+  top: 342px;
+  width: 1468px;
+}
+
+.coreappdesignprincipletitle .web-sub_-title-XWv7kc {
+  background-color: transparent;
+  height: 57px;
+  left: 320px;
+  position: absolute;
+  top: 284px;
+  width: 360px;
+}
+
+.coreappdesignprincipletitle .sub-title-NjQfBs {
+  background-color: transparent;
+  font-weight: 700;
+  height: auto;
+  left: 100px;
+  letter-spacing: 0.00px;
+  line-height: 28px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.coreappdesignprincipletitle .web-title-area-XWv7kc {
+  background-color: transparent;
+  height: 170px;
+  left: 320px;
+  position: fixed;
+  top: 64px;
+  width: 1600px;
+}
+
+.coreappdesignprincipletitle .web-tabc2-c_re_popup-XWv7kc {
+  background-color: transparent;
+  height: 47px;
+  left: 320px;
+  position: fixed;
+  top: 187px;
+  width: 1600px;
+}
+
+.coreappdesignprincipletitle .x3rd-depth-F9xHvG {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1600px;
+}
+
+.coreappdesignprincipletitle .tab-F9xHvG {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  height: 17px;
+  justify-content: flex-start;
+  left: 100px;
+  position: absolute;
+  top: 0px;
+  width: auto;
+}
+
+.coreappdesignprincipletitle .design-principle-xlYBL5 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0;
+  position: relative;
+  width: 94px;
+}
+
+.coreappdesignprincipletitle .title-copy-xlYBL5 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 28px;
+}
+
+.coreappdesignprincipletitle .contents-xlYBL5 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 54px;
+}
+
+.coreappdesignprincipletitle .logo-xlYBL5 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 30px;
+}
+
+.coreappdesignprincipletitle .background-image-xlYBL5 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 109px;
+}
+
+.coreappdesignprincipletitle .pattern-xlYBL5 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 44px;
+}
+
+.coreappdesignprincipletitle .lnbc2-c_coreapp-XWv7kc {
+  background-color: transparent;
+  height: 753px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.coreappdesignprincipletitle .rectangle-SINwNq {
+  background-color: var(--concrete);
+  height: 751px;
+  width: 320px;
+}
+
+.coreappdesignprincipletitle .background-SINwNq {
+  background-color: var(--concrete);
+  height: 751px;
+  width: 320px;
+}
+
+.coreappdesignprincipletitle .line-SINwNq {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 154px;
+  width: 275px;
+}
+
+.coreappdesignprincipletitle .home-net-gui-guidelin-SINwNq {
+  background-color: transparent;
+  cursor: pointer;
+  font-weight: 700;
+  height: auto;
+  left: 24px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: left;
+  top: 100px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.stackedgroup12 {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 170px;
+  width: 320px;
+}
+
+.stackedgroup12 .web-index-title-reference-copy-2-Wu9aHG {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  margin: 0;
+  opacity: 1;
+  overflow: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup12 .group-xruup6 {
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 97.81%;
+}
+
+.stackedgroup12 .title-lxKcVC {
+  width: 72px;
+}
+
+.stackedgroup12 .group-Wu9aHG {
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup12 .empty-cI2Xkp {
+  bottom: 0px;
+}
+
+.stackedgroup12 .empty-Lc5deE {
+  top: 0px;
+}
+
+.stackedgroup12 .web-index-title-reference-copy-Wu9aHG {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  overflow: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup12 .group-NxOaEx {
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 97.81%;
+}
+
+.stackedgroup12 .title-hn1w3Q {
+  width: 81px;
+}
+
+.stackedgroup12 .group-copy-Wu9aHG {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup12 .empty-xRGKFn {
+  bottom: 0px;
+}
+
+.stackedgroup12 .empty-TNVLWF {
+  top: 0px;
+}
+
+.stackedgroup12 .web-index-title-reference-Wu9aHG {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  overflow: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup12 .group-8pAEvx {
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 97.81%;
+}
+
+.stackedgroup12 .title-wFSXko {
+  width: 136px;
+}
+
+.stackedgroup12 .web-index-contents1dpeth_close-copy-Wu9aHG {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup12 .group-Z5KR6V {
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.stackedgroup12 .x1-depth-title-dq1MOk {
+  color: #252525;
+  width: 91px;
+}
+
+.stackedgroup12 .web-fold-Z5KR6V {
+  background-color: transparent;
+  height: 19.57%;
+  left: 9.38%;
+  opacity: 1;
+  overflow: hidden;
+  position: absolute;
+  top: 40.22%;
+  width: 1.56%;
+}
+
+.stackedgroup12 .button-GdyiOQ {
+  height: 122.22%;
+  left: -20.00%;
+  top: -11.11%;
+  width: 140.00%;
+}
+
+.stackedgroup12 .web-index-contents1dpeth_close-Wu9aHG {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup12 .group-46nNox {
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.stackedgroup12 .web-expanded-15J3Fl {
+  background-color: transparent;
+  height: 10.87%;
+  left: 8.75%;
+  opacity: 1;
+  position: absolute;
+  top: 44.57%;
+  width: 2.81%;
+}
+
+.stackedgroup12 .button-PkgA2L {
+  height: 220.00%;
+  left: 11.11%;
+  top: -60.00%;
+  transform: rotate(90deg);
+  width: 77.78%;
+}
+
+.stackedgroup12 .x1-depth-title-15J3Fl {
+  color: #3695dd;
+  width: 56px;
+}
+
+.stackedgroup12 .group-dXlgWY {
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.stackedgroup12 .x2-death-title-xpEOjN {
+  color: #717171;
+  font-family: 'SamsungOne-400', Helvetica;
+  font-weight: 400;
+}
+
+.stackedgroup12 .web-index-contents1dpeth_open_selected-Wu9aHG {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup12 .group-fxATGb {
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.stackedgroup12 .x2-death-title-1e6gXy {
+  color: #717171;
+  font-family: 'SamsungOne-400', Helvetica;
+  font-weight: 400;
+}
+
+.stackedgroup12 .group-BxmOd4 {
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.stackedgroup12 .x2-death-title-snNKrJ {
+  color: #717171;
+  font-family: 'SamsungOne-400', Helvetica;
+  font-weight: 400;
+}
+
+.stackedgroup12 .group-aU2kaW {
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.stackedgroup12 .x2-death-title-SCnMT5 {
+  color: #3695dd;
+  font-family: 'SamsungOne-500', Helvetica;
+  font-weight: 500;
+}
+
+.stackedgroup12 .group-copy-2-Wu9aHG {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup12 .empty-2rfmdh {
+  bottom: 0px;
+}
+
+.stackedgroup12 .empty-C4RWxK {
+  top: 0px;
+}
+
+.stackedgroup12 .web-index-title-reference-copy-3-Wu9aHG {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  overflow: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup12 .group-252yOU {
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 97.81%;
+}
+
+.stackedgroup12 .title-7YmqWj {
+  width: 50px;
+}
+
+.coreappdesignprincipletitle .webgnb-XWv7kc {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.coreappdesignprincipletitle .rectangle-ZVSfFe {
+  background-color: var(--shark);
+  height: 64px;
+  width: 1920px;
+}
+
+.coreappdesignprincipletitle .background-ZVSfFe {
+  background-color: var(--shark);
+  height: 64px;
+  width: 1920px;
+}
+
+.coreappdesignprincipletitle .index-ZVSfFe {
+  background-color: transparent;
+  height: 64px;
+  left: 420px;
+  position: absolute;
+  top: 0px;
+  width: 123px;
+}
+
+.coreappdesignprincipletitle .web-index-select-NdBRKP {
+  background-color: transparent;
+  cursor: pointer;
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 32px;
+}
+
+.coreappdesignprincipletitle .web-index-unselect-NdBRKP {
+  background-color: transparent;
+  cursor: pointer;
+  height: 64px;
+  left: 92px;
+  position: absolute;
+  top: 0px;
+  width: 31px;
+}
+
+.coreappdesignprincipletitle .web-index-unelect_main-ZVSfFe {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 18px;
+  position: absolute;
+  top: 20px;
+  width: 293px;
+}
+
+.coreappdesignprincipletitle .logo-25L1S4 {
+  background-color: transparent;
+  height: 24px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 293px;
+}
+
+.stackedgroup12 .button {
+  background-color: transparent;
+  opacity: 1;
+  position: absolute;
+}
+
+.stackedgroup12 .group {
+  background-color: transparent;
+  opacity: 1;
+}
+
+.stackedgroup12 .title {
+  background-color: transparent;
+  color: #252525;
+  font-family: 'SamsungOne-600', Helvetica;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 600;
+  height: 22px;
+  left: 9.58%;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: calc(50.00% - 11px);
+  white-space: nowrap;
+}
+
+.stackedgroup12 .x1-depth-title {
+  background-color: transparent;
+  font-family: 'SamsungOne-500', Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 500;
+  height: 17px;
+  left: 15.62%;
+  letter-spacing: 0.00px;
+  line-height: 17px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: calc(50.00% - 8px);
+  white-space: nowrap;
+}
+
+.stackedgroup12 .x2-death-title {
+  background-color: transparent;
+  font-size: 14px;
+  font-style: normal;
+  height: 46px;
+  letter-spacing: 0.00px;
+  line-height: 17px;
+  opacity: 1;
+  position: absolute;
+  right: 0px;
+  text-align: left;
+  top: calc(50.00% - 23px);
+  width: 78.12%;
+}

@@ -1,0 +1,3004 @@
+/* screen - overviewiostoucharea */
+
+.overviewiostoucharea {
+  background-color: var(--white);
+  height: 2560px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.overviewiostoucharea .group-7-LI2CDy {
+  background-color: transparent;
+  height: 350px;
+  left: 420px;
+  position: absolute;
+  top: 562px;
+  width: 1400px;
+}
+
+.overviewiostoucharea .group-3-ehYSXw {
+  background-color: transparent;
+  height: 298px;
+  left: 0px;
+  position: absolute;
+  top: 52px;
+  width: 1400px;
+}
+
+.overviewiostoucharea .table-general-text1line-3HtmKH {
+  height: 169px;
+  left: 95px;
+  top: 130px;
+  width: 98px;
+}
+
+.overviewiostoucharea .rectangle-fH1qsS {
+  background-color: transparent;
+  height: 170px;
+  left: -0px;
+  position: absolute;
+  top: -0px;
+  width: 99px;
+}
+
+.overviewiostoucharea .content-fH1qsS {
+  color: var(--black);
+  height: 20px;
+  top: 80px;
+  white-space: nowrap;
+  width: 68px;
+}
+
+.overviewiostoucharea .table-general-text1line-Yse7lO {
+  height: 169px;
+  left: 191px;
+  top: 130px;
+  width: 309px;
+}
+
+.overviewiostoucharea .rectangle-IDWGlc {
+  background-color: transparent;
+  height: 170px;
+  left: -0px;
+  position: absolute;
+  top: -0px;
+  width: 310px;
+}
+
+.overviewiostoucharea .content-IDWGlc {
+  color: var(--black);
+  height: 20px;
+  top: 80px;
+  white-space: nowrap;
+  width: 279px;
+}
+
+.overviewiostoucharea .table-general-text1line-copy-5-3HtmKH {
+  background-color: transparent;
+  height: 169px;
+  left: 497px;
+  position: absolute;
+  top: 130px;
+  width: 309px;
+}
+
+.overviewiostoucharea .rectangle-AeMbG8 {
+  background-color: transparent;
+  height: 170px;
+  left: -0px;
+  position: absolute;
+  top: -0px;
+  width: 310px;
+}
+
+.overviewiostoucharea .content-AeMbG8 {
+  color: var(--white);
+  height: 20px;
+  top: 80px;
+  white-space: nowrap;
+  width: 267px;
+}
+
+.overviewiostoucharea .table-general-text1line-uejRo0 {
+  height: 119px;
+  left: 804px;
+  top: 180px;
+  width: 272px;
+}
+
+.overviewiostoucharea .rectangle-qCtgjF {
+  background-color: transparent;
+  height: 120px;
+  left: -0px;
+  position: absolute;
+  top: -0px;
+  width: 273px;
+}
+
+.overviewiostoucharea .content-qCtgjF {
+  color: var(--black);
+  height: 60px;
+  top: 32px;
+  width: 242px;
+}
+
+.overviewiostoucharea .table-general-text1line-copy-2-3HtmKH {
+  background-color: transparent;
+  height: 119px;
+  left: 1074px;
+  position: absolute;
+  top: 180px;
+  width: 164px;
+}
+
+.overviewiostoucharea .rectangle-XX1Gej {
+  background-color: transparent;
+  height: 120px;
+  left: -0px;
+  position: absolute;
+  top: -0px;
+  width: 165px;
+}
+
+.overviewiostoucharea .content-XX1Gej {
+  color: var(--black);
+  height: 60px;
+  top: 32px;
+  width: 134px;
+}
+
+.overviewiostoucharea .table-general-text1line-copy-7-3HtmKH {
+  background-color: transparent;
+  height: 52px;
+  left: 1074px;
+  position: absolute;
+  top: 130px;
+  width: 327px;
+}
+
+.overviewiostoucharea .rectangle-g6VtBs {
+  background-color: transparent;
+  height: 53px;
+  left: -0px;
+  position: absolute;
+  top: -0px;
+  width: 328px;
+}
+
+.overviewiostoucharea .content-g6VtBs {
+  color: var(--black);
+  height: 20px;
+  top: 18px;
+  white-space: nowrap;
+  width: 297px;
+}
+
+.overviewiostoucharea .table-general-text1line-copy-10-3HtmKH {
+  background-color: transparent;
+  height: 52px;
+  left: 804px;
+  position: absolute;
+  top: 130px;
+  width: 272px;
+}
+
+.overviewiostoucharea .rectangle-wUXrhU {
+  background-color: transparent;
+  height: 53px;
+  left: -0px;
+  position: absolute;
+  top: -0px;
+  width: 273px;
+}
+
+.overviewiostoucharea .content-wUXrhU {
+  color: var(--black);
+  height: 20px;
+  top: 18px;
+  white-space: nowrap;
+  width: 242px;
+}
+
+.overviewiostoucharea .table-general-text1line-copy-8-3HtmKH {
+  background-color: transparent;
+  height: 119px;
+  left: 1237px;
+  position: absolute;
+  top: 180px;
+  width: 164px;
+}
+
+.overviewiostoucharea .rectangle-VEgxib {
+  background-color: transparent;
+  height: 120px;
+  left: -0px;
+  position: absolute;
+  top: -0px;
+  width: 165px;
+}
+
+.overviewiostoucharea .content-VEgxib {
+  color: var(--white);
+  height: 60px;
+  top: 32px;
+  width: 122px;
+}
+
+.overviewiostoucharea .table-general-text1line-xEb3hB {
+  height: 133px;
+  left: 95px;
+  top: -1px;
+  width: 98px;
+}
+
+.overviewiostoucharea .rectangle-dHV5M6 {
+  background-color: transparent;
+  height: 134px;
+  left: -0px;
+  position: absolute;
+  top: -0px;
+  width: 99px;
+}
+
+.overviewiostoucharea .content-dHV5M6 {
+  color: var(--black);
+  height: 20px;
+  top: 61px;
+  white-space: nowrap;
+  width: 68px;
+}
+
+.overviewiostoucharea .table-general-text1line-JXkZzr {
+  height: 133px;
+  left: 191px;
+  top: -1px;
+  width: 309px;
+}
+
+.overviewiostoucharea .rectangle-xLvCwG {
+  background-color: transparent;
+  height: 134px;
+  left: -0px;
+  position: absolute;
+  top: -0px;
+  width: 310px;
+}
+
+.overviewiostoucharea .content-xLvCwG {
+  color: var(--black);
+  height: 20px;
+  top: 61px;
+  white-space: nowrap;
+  width: 279px;
+}
+
+.overviewiostoucharea .table-general-text1line-copy-6-3HtmKH {
+  background-color: transparent;
+  height: 133px;
+  left: 497px;
+  position: absolute;
+  top: -1px;
+  width: 309px;
+}
+
+.overviewiostoucharea .rectangle-Jv0jy7 {
+  background-color: transparent;
+  height: 134px;
+  left: -0px;
+  position: absolute;
+  top: -0px;
+  width: 310px;
+}
+
+.overviewiostoucharea .content-Jv0jy7 {
+  color: var(--white);
+  height: 20px;
+  top: 61px;
+  white-space: nowrap;
+  width: 267px;
+}
+
+.overviewiostoucharea .table-general-text1line-sGSMmD {
+  height: 133px;
+  left: 804px;
+  top: -1px;
+  width: 272px;
+}
+
+.overviewiostoucharea .rectangle-uwXqd6 {
+  background-color: transparent;
+  height: 134px;
+  left: -0px;
+  position: absolute;
+  top: -0px;
+  width: 273px;
+}
+
+.overviewiostoucharea .content-uwXqd6 {
+  color: var(--black);
+  height: 40px;
+  top: 50px;
+  width: 242px;
+}
+
+.overviewiostoucharea .table-general-text1line-copy-3HtmKH {
+  background-color: transparent;
+  height: 133px;
+  left: 1074px;
+  position: absolute;
+  top: -1px;
+  width: 164px;
+}
+
+.overviewiostoucharea .rectangle-p52aHp {
+  background-color: transparent;
+  height: 134px;
+  left: -0px;
+  position: absolute;
+  top: -0px;
+  width: 165px;
+}
+
+.overviewiostoucharea .content-p52aHp {
+  color: var(--black);
+  height: 60px;
+  top: 39px;
+  width: 134px;
+}
+
+.overviewiostoucharea .table-general-text1line-copy-9-3HtmKH {
+  background-color: transparent;
+  height: 133px;
+  left: 1237px;
+  position: absolute;
+  top: -1px;
+  width: 164px;
+}
+
+.overviewiostoucharea .rectangle-Is8UyM {
+  background-color: transparent;
+  height: 134px;
+  left: -0px;
+  position: absolute;
+  top: -0px;
+  width: 165px;
+}
+
+.overviewiostoucharea .content-Is8UyM {
+  color: var(--white);
+  height: 60px;
+  top: 39px;
+  width: 122px;
+}
+
+.overviewiostoucharea .table-general-text1line-SAGYt6 {
+  height: 300px;
+  left: -1px;
+  top: -1px;
+  width: 98px;
+}
+
+.overviewiostoucharea .rectangle-bxIvDV {
+  background-color: transparent;
+  height: 301px;
+  left: -0px;
+  position: absolute;
+  top: -0px;
+  width: 99px;
+}
+
+.overviewiostoucharea .content-bxIvDV {
+  color: var(--black);
+  height: 40px;
+  top: 138px;
+  width: 68px;
+}
+
+.overviewiostoucharea .subject-ehYSXw {
+  background-color: transparent;
+  height: 52px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1400px;
+}
+
+.overviewiostoucharea .table-general-title_1line-GiWxhF {
+  left: 0px;
+  width: 192px;
+}
+
+.overviewiostoucharea .table-general-title_1line-C57DPw {
+  left: 192px;
+  width: 612px;
+}
+
+.overviewiostoucharea .table-general-title_1line-ttl0Rl {
+  left: 804px;
+  width: 271px;
+}
+
+.overviewiostoucharea .table-general-title_1line-copy-GiWxhF {
+  left: 1075px;
+  width: 325px;
+}
+
+.overviewiostoucharea .group-ehYSXw {
+  background-color: transparent;
+  height: 72px;
+  left: 304px;
+  position: absolute;
+  top: 229px;
+  width: 84px;
+}
+
+.overviewiostoucharea .group-2-ehYSXw {
+  background-color: transparent;
+  height: 72px;
+  left: 609px;
+  position: absolute;
+  top: 229px;
+  width: 84px;
+}
+
+.overviewiostoucharea .expand-ehYSXw {
+  background-color: transparent;
+  height: 36px;
+  left: 294px;
+  position: absolute;
+  top: 99px;
+  width: 104px;
+}
+
+.overviewiostoucharea .expand-dark-ehYSXw {
+  background-color: transparent;
+  height: 36px;
+  left: 599px;
+  position: absolute;
+  top: 99px;
+  width: 104px;
+}
+
+.overviewiostoucharea .group-5-LI2CDy {
+  background-color: transparent;
+  height: 715px;
+  left: 420px;
+  position: absolute;
+  top: 1062px;
+  width: 1399px;
+}
+
+.overviewiostoucharea .group-4-xggHLi {
+  background-color: transparent;
+  height: 715px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1399px;
+}
+
+.overviewiostoucharea .group-9-MWzbUU {
+  background-color: transparent;
+  height: 315px;
+  left: 0px;
+  position: absolute;
+  top: 52px;
+  width: 1399px;
+}
+
+.overviewiostoucharea .table-general-text1line-copy-42-Lfr4s9 {
+  height: 126px;
+  left: 95px;
+  top: 190px;
+}
+
+.overviewiostoucharea .rectangle-g1JBeP {
+  background-color: transparent;
+  height: 127px;
+  left: -0px;
+  position: absolute;
+  top: -0px;
+  width: 99px;
+}
+
+.overviewiostoucharea .content-g1JBeP {
+  color: var(--black);
+  height: 40px;
+  top: 46px;
+  width: 68px;
+}
+
+.overviewiostoucharea .table-general-text1line-copy-43-Lfr4s9 {
+  height: 126px;
+  left: 191px;
+  top: 190px;
+  width: 308px;
+}
+
+.overviewiostoucharea .rectangle-JxkFSg {
+  background-color: transparent;
+  height: 127px;
+  left: -0px;
+  position: absolute;
+  top: -0px;
+  width: 309px;
+}
+
+.overviewiostoucharea .content-JxkFSg {
+  color: var(--black);
+  height: 20px;
+  top: 57px;
+  white-space: nowrap;
+  width: 278px;
+}
+
+.overviewiostoucharea .table-general-text1line-copy-44-Lfr4s9 {
+  height: 126px;
+  left: 497px;
+  top: 190px;
+  width: 308px;
+}
+
+.overviewiostoucharea .rectangle-IUnXq7 {
+  background-color: transparent;
+  height: 127px;
+  left: -0px;
+  position: absolute;
+  top: -0px;
+  width: 309px;
+}
+
+.overviewiostoucharea .content-IUnXq7 {
+  color: var(--white);
+  height: 20px;
+  top: 57px;
+  white-space: nowrap;
+  width: 266px;
+}
+
+.overviewiostoucharea .table-general-text1line-copy-45-Lfr4s9 {
+  height: 126px;
+  left: 803px;
+  top: 190px;
+  width: 272px;
+}
+
+.overviewiostoucharea .rectangle-aAsjox {
+  background-color: transparent;
+  height: 127px;
+  left: -0px;
+  position: absolute;
+  top: -0px;
+  width: 273px;
+}
+
+.overviewiostoucharea .content-aAsjox {
+  color: var(--black);
+  height: 20px;
+  top: 57px;
+  white-space: nowrap;
+  width: 242px;
+}
+
+.overviewiostoucharea .table-general-text1line-copy-46-Lfr4s9 {
+  height: 126px;
+  left: 1073px;
+  top: 190px;
+  width: 164px;
+}
+
+.overviewiostoucharea .rectangle-T9bntC {
+  background-color: transparent;
+  height: 127px;
+  left: -0px;
+  position: absolute;
+  top: -0px;
+  width: 165px;
+}
+
+.overviewiostoucharea .content-T9bntC {
+  color: var(--black);
+  height: 60px;
+  top: 36px;
+  width: 134px;
+}
+
+.overviewiostoucharea .table-general-text1line-copy-47-Lfr4s9 {
+  height: 126px;
+  left: 1235px;
+  top: 190px;
+  width: 164px;
+}
+
+.overviewiostoucharea .rectangle-dtWsr2 {
+  background-color: transparent;
+  height: 127px;
+  left: -0px;
+  position: absolute;
+  top: -0px;
+  width: 165px;
+}
+
+.overviewiostoucharea .content-dtWsr2 {
+  color: var(--white);
+  height: 60px;
+  top: 36px;
+  width: 122px;
+}
+
+.overviewiostoucharea .table-general-text1line-copy-48-Lfr4s9 {
+  height: 193px;
+  left: 95px;
+  top: -1px;
+  width: 98px;
+}
+
+.overviewiostoucharea .rectangle-OgAoBQ {
+  background-color: transparent;
+  height: 194px;
+  left: -0px;
+  position: absolute;
+  top: -0px;
+  width: 99px;
+}
+
+.overviewiostoucharea .content-OgAoBQ {
+  color: var(--black);
+  height: 20px;
+  top: 93px;
+  white-space: nowrap;
+  width: 68px;
+}
+
+.overviewiostoucharea .table-general-text1line-copy-49-Lfr4s9 {
+  height: 193px;
+  left: 191px;
+  top: -1px;
+  width: 308px;
+}
+
+.overviewiostoucharea .rectangle-7ZxQmQ {
+  background-color: transparent;
+  height: 194px;
+  left: -0px;
+  position: absolute;
+  top: -0px;
+  width: 309px;
+}
+
+.overviewiostoucharea .content-7ZxQmQ {
+  color: var(--black);
+  height: 20px;
+  top: 93px;
+  white-space: nowrap;
+  width: 278px;
+}
+
+.overviewiostoucharea .table-general-text1line-copy-50-Lfr4s9 {
+  height: 193px;
+  left: 803px;
+}
+
+.overviewiostoucharea .rectangle-GwBW1C {
+  background-color: transparent;
+  height: 194px;
+  left: -0px;
+  position: absolute;
+  top: -0px;
+  width: 273px;
+}
+
+.overviewiostoucharea .content-GwBW1C {
+  color: var(--black);
+  height: 40px;
+  top: 82px;
+  width: 242px;
+}
+
+.overviewiostoucharea .table-general-text1line-copy-51-Lfr4s9 {
+  height: 193px;
+  left: 497px;
+  top: -1px;
+  width: 308px;
+}
+
+.overviewiostoucharea .rectangle-Xv0OdJ {
+  background-color: transparent;
+  height: 194px;
+  left: -0px;
+  position: absolute;
+  top: -0px;
+  width: 309px;
+}
+
+.overviewiostoucharea .content-Xv0OdJ {
+  color: var(--white);
+  height: 20px;
+  top: 93px;
+  white-space: nowrap;
+  width: 266px;
+}
+
+.overviewiostoucharea .table-general-text1line-copy-52-Lfr4s9 {
+  height: 193px;
+  left: 1073px;
+  top: -1px;
+  width: 164px;
+}
+
+.overviewiostoucharea .rectangle-Yu83TP {
+  background-color: transparent;
+  height: 194px;
+  left: -0px;
+  position: absolute;
+  top: -0px;
+  width: 165px;
+}
+
+.overviewiostoucharea .content-Yu83TP {
+  color: var(--black);
+  height: 80px;
+  top: 60px;
+  width: 134px;
+}
+
+.overviewiostoucharea .table-general-text1line-copy-53-Lfr4s9 {
+  height: 193px;
+  left: 1235px;
+}
+
+.overviewiostoucharea .rectangle-4eYIfN {
+  background-color: transparent;
+  height: 194px;
+  left: -0px;
+  position: absolute;
+  top: -0px;
+  width: 165px;
+}
+
+.overviewiostoucharea .content-4eYIfN {
+  color: var(--white);
+  height: 80px;
+  top: 60px;
+  width: 122px;
+}
+
+.overviewiostoucharea .table-general-text1line-copy-54-Lfr4s9 {
+  height: 317px;
+  left: -1px;
+  top: -1px;
+  width: 98px;
+}
+
+.overviewiostoucharea .rectangle-aIXOaS {
+  background-color: transparent;
+  height: 318px;
+  left: -0px;
+  position: absolute;
+  top: -0px;
+  width: 99px;
+}
+
+.overviewiostoucharea .content-aIXOaS {
+  color: var(--black);
+  height: 40px;
+  top: 147px;
+  width: 68px;
+}
+
+.overviewiostoucharea .group-8-MWzbUU {
+  background-color: transparent;
+  height: 348px;
+  left: 0px;
+  position: absolute;
+  top: 367px;
+  width: 1399px;
+}
+
+.overviewiostoucharea .table-general-text1line-copy-55-wlgj5l {
+  height: 118px;
+  left: 95px;
+  top: 115px;
+  width: 98px;
+}
+
+.overviewiostoucharea .rectangle-ypoJeE {
+  background-color: transparent;
+  height: 119px;
+  left: -0px;
+  position: absolute;
+  top: -0px;
+  width: 99px;
+}
+
+.overviewiostoucharea .content-ypoJeE {
+  color: var(--black);
+  height: 40px;
+  top: 42px;
+  width: 68px;
+}
+
+.overviewiostoucharea .table-general-text1line-copy-56-wlgj5l {
+  height: 118px;
+  left: 191px;
+  top: 115px;
+  width: 308px;
+}
+
+.overviewiostoucharea .rectangle-zFKb4F {
+  background-color: transparent;
+  height: 119px;
+  left: -0px;
+  position: absolute;
+  top: -0px;
+  width: 309px;
+}
+
+.overviewiostoucharea .content-zFKb4F {
+  color: var(--black);
+  height: 20px;
+  top: 53px;
+  white-space: nowrap;
+  width: 278px;
+}
+
+.overviewiostoucharea .table-general-text1line-copy-57-wlgj5l {
+  height: 118px;
+  left: 497px;
+  top: 115px;
+  width: 308px;
+}
+
+.overviewiostoucharea .rectangle-PNhgrQ {
+  background-color: transparent;
+  height: 119px;
+  left: -0px;
+  position: absolute;
+  top: -0px;
+  width: 309px;
+}
+
+.overviewiostoucharea .content-PNhgrQ {
+  color: var(--white);
+  height: 20px;
+  top: 53px;
+  white-space: nowrap;
+  width: 266px;
+}
+
+.overviewiostoucharea .table-general-text1line-copy-58-wlgj5l {
+  height: 118px;
+  left: 803px;
+  top: 115px;
+  width: 272px;
+}
+
+.overviewiostoucharea .rectangle-0KAgWg {
+  background-color: transparent;
+  height: 119px;
+  left: -0px;
+  position: absolute;
+  top: -0px;
+  width: 273px;
+}
+
+.overviewiostoucharea .content-0KAgWg {
+  color: var(--black);
+  height: 60px;
+  top: 31px;
+  width: 242px;
+}
+
+.overviewiostoucharea .table-general-text1line-copy-59-wlgj5l {
+  height: 118px;
+  left: 1073px;
+  top: 115px;
+  width: 164px;
+}
+
+.overviewiostoucharea .rectangle-x8Wxj5 {
+  background-color: transparent;
+  height: 119px;
+  left: -0px;
+  position: absolute;
+  top: -0px;
+  width: 165px;
+}
+
+.overviewiostoucharea .content-x8Wxj5 {
+  color: var(--black);
+  height: 80px;
+  top: 21px;
+  width: 134px;
+}
+
+.overviewiostoucharea .table-general-text1line-copy-60-wlgj5l {
+  height: 118px;
+  left: 1235px;
+  top: 115px;
+  width: 164px;
+}
+
+.overviewiostoucharea .rectangle-28jO4j {
+  background-color: transparent;
+  height: 119px;
+  left: -0px;
+  position: absolute;
+  top: -0px;
+  width: 165px;
+}
+
+.overviewiostoucharea .content-28jO4j {
+  color: var(--white);
+  height: 80px;
+  top: 21px;
+  width: 122px;
+}
+
+.overviewiostoucharea .table-general-text1line-copy-61-wlgj5l {
+  height: 118px;
+  left: 95px;
+  top: 231px;
+  width: 98px;
+}
+
+.overviewiostoucharea .rectangle-EnBUj6 {
+  background-color: transparent;
+  height: 119px;
+  left: -0px;
+  position: absolute;
+  top: -0px;
+  width: 99px;
+}
+
+.overviewiostoucharea .content-EnBUj6 {
+  color: var(--black);
+  height: 40px;
+  top: 42px;
+  width: 68px;
+}
+
+.overviewiostoucharea .table-general-text1line-copy-62-wlgj5l {
+  height: 118px;
+  left: 191px;
+  top: 231px;
+  width: 308px;
+}
+
+.overviewiostoucharea .rectangle-iT2iMC {
+  background-color: transparent;
+  height: 119px;
+  left: -0px;
+  position: absolute;
+  top: -0px;
+  width: 309px;
+}
+
+.overviewiostoucharea .content-iT2iMC {
+  color: var(--black);
+  height: 20px;
+  top: 53px;
+  white-space: nowrap;
+  width: 278px;
+}
+
+.overviewiostoucharea .table-general-text1line-copy-63-wlgj5l {
+  height: 118px;
+  left: 497px;
+  top: 231px;
+  width: 308px;
+}
+
+.overviewiostoucharea .rectangle-5eR9In {
+  background-color: transparent;
+  height: 119px;
+  left: -0px;
+  position: absolute;
+  top: -0px;
+  width: 309px;
+}
+
+.overviewiostoucharea .content-5eR9In {
+  color: var(--white);
+  height: 20px;
+  top: 53px;
+  white-space: nowrap;
+  width: 266px;
+}
+
+.overviewiostoucharea .table-general-text1line-copy-64-wlgj5l {
+  height: 118px;
+  left: 803px;
+  top: 231px;
+  width: 272px;
+}
+
+.overviewiostoucharea .rectangle-5EbOxP {
+  background-color: transparent;
+  height: 119px;
+  left: -0px;
+  position: absolute;
+  top: -0px;
+  width: 273px;
+}
+
+.overviewiostoucharea .content-5EbOxP {
+  color: var(--black);
+  height: 40px;
+  top: 42px;
+  width: 242px;
+}
+
+.overviewiostoucharea .table-general-text1line-copy-65-wlgj5l {
+  height: 118px;
+  left: 1073px;
+  top: 231px;
+  width: 164px;
+}
+
+.overviewiostoucharea .rectangle-Qaivxw {
+  background-color: transparent;
+  height: 119px;
+  left: -0px;
+  position: absolute;
+  top: -0px;
+  width: 165px;
+}
+
+.overviewiostoucharea .content-Qaivxw {
+  color: var(--black);
+  height: 80px;
+  top: 21px;
+  width: 134px;
+}
+
+.overviewiostoucharea .table-general-text1line-copy-66-wlgj5l {
+  background-color: transparent;
+  height: 118px;
+  left: 1235px;
+  position: absolute;
+  top: 231px;
+  width: 164px;
+}
+
+.overviewiostoucharea .rectangle-4ZMQeE {
+  background-color: transparent;
+  height: 119px;
+  left: -0px;
+  position: absolute;
+  top: -0px;
+  width: 165px;
+}
+
+.overviewiostoucharea .content-4ZMQeE {
+  color: var(--white);
+  height: 80px;
+  top: 21px;
+  width: 122px;
+}
+
+.overviewiostoucharea .table-general-text1line-copy-67-wlgj5l {
+  background-color: transparent;
+  height: 118px;
+  left: 95px;
+  position: absolute;
+  top: -1px;
+  width: 98px;
+}
+
+.overviewiostoucharea .rectangle-jXHlWm {
+  background-color: transparent;
+  height: 119px;
+  left: -0px;
+  position: absolute;
+  top: -0px;
+  width: 99px;
+}
+
+.overviewiostoucharea .content-jXHlWm {
+  color: var(--black);
+  height: 20px;
+  top: 53px;
+  white-space: nowrap;
+  width: 68px;
+}
+
+.overviewiostoucharea .table-general-text1line-copy-68-wlgj5l {
+  background-color: transparent;
+  height: 118px;
+  left: 191px;
+  position: absolute;
+  top: -1px;
+  width: 308px;
+}
+
+.overviewiostoucharea .rectangle-d9bUBB {
+  background-color: transparent;
+  height: 119px;
+  left: -0px;
+  position: absolute;
+  top: -0px;
+  width: 309px;
+}
+
+.overviewiostoucharea .content-d9bUBB {
+  color: var(--black);
+  height: 20px;
+  top: 53px;
+  white-space: nowrap;
+  width: 278px;
+}
+
+.overviewiostoucharea .table-general-text1line-copy-69-wlgj5l {
+  background-color: transparent;
+  height: 118px;
+  left: 497px;
+  position: absolute;
+  top: -1px;
+  width: 308px;
+}
+
+.overviewiostoucharea .rectangle-iq2jji {
+  background-color: transparent;
+  height: 119px;
+  left: -0px;
+  position: absolute;
+  top: -0px;
+  width: 309px;
+}
+
+.overviewiostoucharea .content-iq2jji {
+  color: var(--white);
+  height: 20px;
+  top: 53px;
+  white-space: nowrap;
+  width: 266px;
+}
+
+.overviewiostoucharea .table-general-text1line-copy-70-wlgj5l {
+  background-color: transparent;
+  height: 118px;
+  left: 803px;
+  position: absolute;
+  top: -1px;
+  width: 272px;
+}
+
+.overviewiostoucharea .rectangle-qjofFm {
+  background-color: transparent;
+  height: 119px;
+  left: -0px;
+  position: absolute;
+  top: -0px;
+  width: 273px;
+}
+
+.overviewiostoucharea .content-qjofFm {
+  color: var(--black);
+  height: 80px;
+  top: 21px;
+  width: 242px;
+}
+
+.overviewiostoucharea .table-general-text1line-copy-71-wlgj5l {
+  background-color: transparent;
+  height: 118px;
+  left: 1073px;
+  position: absolute;
+  top: -1px;
+  width: 164px;
+}
+
+.overviewiostoucharea .rectangle-bLKRyT {
+  background-color: transparent;
+  height: 119px;
+  left: -0px;
+  position: absolute;
+  top: -0px;
+  width: 165px;
+}
+
+.overviewiostoucharea .content-bLKRyT {
+  color: var(--black);
+  height: 80px;
+  top: 21px;
+  width: 134px;
+}
+
+.overviewiostoucharea .table-general-text1line-copy-72-wlgj5l {
+  background-color: transparent;
+  height: 118px;
+  left: 1235px;
+  position: absolute;
+  top: -1px;
+  width: 164px;
+}
+
+.overviewiostoucharea .rectangle-xDxcmZ {
+  background-color: transparent;
+  height: 119px;
+  left: -0px;
+  position: absolute;
+  top: -0px;
+  width: 165px;
+}
+
+.overviewiostoucharea .content-xDxcmZ {
+  color: var(--white);
+  height: 80px;
+  top: 21px;
+  width: 122px;
+}
+
+.overviewiostoucharea .table-general-text1line-copy-73-wlgj5l {
+  background-color: transparent;
+  height: 350px;
+  left: -1px;
+  position: absolute;
+  top: -1px;
+  width: 98px;
+}
+
+.overviewiostoucharea .rectangle-aP79RY {
+  background-color: transparent;
+  height: 351px;
+  left: -0px;
+  position: absolute;
+  top: -0px;
+  width: 99px;
+}
+
+.overviewiostoucharea .content-aP79RY {
+  color: var(--black);
+  height: 20px;
+  top: 177px;
+  white-space: nowrap;
+  width: 68px;
+}
+
+.overviewiostoucharea .subject-copy-2-MWzbUU {
+  width: 1398px;
+}
+
+.overviewiostoucharea .table-general-title_1line-re3WGU {
+  left: 0px;
+  width: 192px;
+}
+
+.overviewiostoucharea .table-general-title_1line-H1nCXx {
+  left: 192px;
+  width: 612px;
+}
+
+.overviewiostoucharea .table-general-title_1line-usHCa2 {
+  left: 804px;
+  width: 271px;
+}
+
+.overviewiostoucharea .table-general-title_1line-copy-re3WGU {
+  left: 1074px;
+  width: 324px;
+}
+
+.overviewiostoucharea .monthspinner-guide-copy-xggHLi {
+  background-color: transparent;
+  height: 78px;
+  left: 831px;
+  position: absolute;
+  top: 266px;
+  width: 218px;
+}
+
+.overviewiostoucharea .graph-dark-copy-xggHLi {
+  background-color: transparent;
+  height: 175px;
+  left: 221px;
+  position: absolute;
+  top: 64px;
+  width: 556px;
+}
+
+.overviewiostoucharea .tab-copy-xggHLi {
+  background-color: transparent;
+  height: 45px;
+  left: 202px;
+  position: absolute;
+  top: 402px;
+  width: 288px;
+}
+
+.overviewiostoucharea .tab-dark-copy-xggHLi {
+  background-color: transparent;
+  height: 45px;
+  left: 507px;
+  position: absolute;
+  top: 402px;
+  width: 288px;
+}
+
+.overviewiostoucharea .month-spinner-dark-copy-xggHLi {
+  background-color: transparent;
+  height: 36px;
+  left: 574px;
+  position: absolute;
+  top: 287px;
+  width: 154px;
+}
+
+.overviewiostoucharea .month-spinner-copy-xggHLi {
+  background-color: transparent;
+  height: 36px;
+  left: 269px;
+  position: absolute;
+  top: 287px;
+  width: 154px;
+}
+
+.overviewiostoucharea .cctv-play-button-copy-xggHLi {
+  background-color: transparent;
+  height: 62px;
+  left: 315px;
+  position: absolute;
+  top: 609px;
+  width: 62px;
+}
+
+.overviewiostoucharea .cctv-play-button-dark-copy-xggHLi {
+  background-color: transparent;
+  height: 62px;
+  left: 620px;
+  position: absolute;
+  top: 609px;
+  width: 62px;
+}
+
+.overviewiostoucharea .color-picker-xggHLi {
+  background-color: transparent;
+  height: 50px;
+  left: 322px;
+  position: absolute;
+  top: 518px;
+  width: 50px;
+}
+
+.overviewiostoucharea .color-picker-dark-xggHLi {
+  background-color: transparent;
+  height: 50px;
+  left: 627px;
+  position: absolute;
+  top: 518px;
+  width: 50px;
+}
+
+.overviewiostoucharea .group-13-LI2CDy {
+  background-color: transparent;
+  height: 483px;
+  left: 420px;
+  position: absolute;
+  top: 1927px;
+  width: 1400px;
+}
+
+.overviewiostoucharea .group-11-o2xnNy {
+  background-color: transparent;
+  height: 300px;
+  left: 0px;
+  position: absolute;
+  top: 183px;
+  width: 1400px;
+}
+
+.overviewiostoucharea .table-general-text1line-copy-11-09bQC4 {
+  background-color: transparent;
+  height: 102px;
+  left: 95px;
+  position: absolute;
+  top: 99px;
+  width: 98px;
+}
+
+.overviewiostoucharea .rectangle-FxSWyl {
+  background-color: transparent;
+  height: 103px;
+  left: -0px;
+  position: absolute;
+  top: -0px;
+  width: 99px;
+}
+
+.overviewiostoucharea .content-FxSWyl {
+  color: var(--black);
+  height: 20px;
+  top: 45px;
+  white-space: nowrap;
+  width: 68px;
+}
+
+.overviewiostoucharea .table-general-text1line-copy-41-09bQC4 {
+  background-color: transparent;
+  height: 102px;
+  left: 95px;
+  position: absolute;
+  top: 199px;
+  width: 98px;
+}
+
+.overviewiostoucharea .rectangle-Ozfy4N {
+  background-color: transparent;
+  height: 103px;
+  left: -0px;
+  position: absolute;
+  top: -0px;
+  width: 99px;
+}
+
+.overviewiostoucharea .content-Ozfy4N {
+  color: var(--black);
+  height: 40px;
+  top: 34px;
+  width: 68px;
+}
+
+.overviewiostoucharea .table-general-text1line-copy-42-09bQC4 {
+  height: 302px;
+  left: -1px;
+  top: -1px;
+}
+
+.overviewiostoucharea .rectangle-sJm0dT {
+  background-color: transparent;
+  height: 303px;
+  left: -0px;
+  position: absolute;
+  top: -0px;
+  width: 99px;
+}
+
+.overviewiostoucharea .content-sJm0dT {
+  color: var(--black);
+  height: 20px;
+  top: 152px;
+  white-space: nowrap;
+  width: 68px;
+}
+
+.overviewiostoucharea .table-general-text1line-copy-43-09bQC4 {
+  height: 102px;
+  left: 95px;
+  top: -1px;
+  width: 98px;
+}
+
+.overviewiostoucharea .rectangle-xWzEm4 {
+  background-color: transparent;
+  height: 103px;
+  left: -0px;
+  position: absolute;
+  top: -0px;
+  width: 99px;
+}
+
+.overviewiostoucharea .content-xWzEm4 {
+  color: var(--black);
+  height: 20px;
+  top: 45px;
+  white-space: nowrap;
+  width: 68px;
+}
+
+.overviewiostoucharea .table-general-text1line-copy-44-09bQC4 {
+  height: 102px;
+  left: 191px;
+  top: -1px;
+  width: 309px;
+}
+
+.overviewiostoucharea .rectangle-B5Mknl {
+  background-color: transparent;
+  height: 103px;
+  left: -0px;
+  position: absolute;
+  top: -0px;
+  width: 310px;
+}
+
+.overviewiostoucharea .content-B5Mknl {
+  color: var(--black);
+  height: 20px;
+  top: 45px;
+  white-space: nowrap;
+  width: 279px;
+}
+
+.overviewiostoucharea .table-general-text1line-copy-45-09bQC4 {
+  height: 102px;
+  left: 191px;
+  top: 99px;
+  width: 309px;
+}
+
+.overviewiostoucharea .rectangle-qCtHTA {
+  background-color: transparent;
+  height: 103px;
+  left: -0px;
+  position: absolute;
+  top: -0px;
+  width: 310px;
+}
+
+.overviewiostoucharea .content-qCtHTA {
+  color: var(--black);
+  height: 20px;
+  top: 45px;
+  white-space: nowrap;
+  width: 279px;
+}
+
+.overviewiostoucharea .table-general-text1line-copy-46-09bQC4 {
+  height: 102px;
+  left: 191px;
+  top: 199px;
+  width: 309px;
+}
+
+.overviewiostoucharea .rectangle-BeKwaz {
+  background-color: transparent;
+  height: 103px;
+  left: -0px;
+  position: absolute;
+  top: -0px;
+  width: 310px;
+}
+
+.overviewiostoucharea .content-BeKwaz {
+  color: var(--black);
+  height: 20px;
+  top: 45px;
+  white-space: nowrap;
+  width: 279px;
+}
+
+.overviewiostoucharea .table-general-text1line-copy-47-09bQC4 {
+  height: 102px;
+  left: 497px;
+  top: -1px;
+  width: 309px;
+}
+
+.overviewiostoucharea .rectangle-w05nq4 {
+  background-color: transparent;
+  height: 103px;
+  left: -0px;
+  position: absolute;
+  top: -0px;
+  width: 310px;
+}
+
+.overviewiostoucharea .content-w05nq4 {
+  color: var(--white);
+  height: 20px;
+  top: 45px;
+  white-space: nowrap;
+  width: 267px;
+}
+
+.overviewiostoucharea .table-general-text1line-copy-48-09bQC4 {
+  height: 102px;
+  left: 497px;
+  top: 99px;
+  width: 309px;
+}
+
+.overviewiostoucharea .rectangle-yWjotn {
+  background-color: transparent;
+  height: 103px;
+  left: -0px;
+  position: absolute;
+  top: -0px;
+  width: 310px;
+}
+
+.overviewiostoucharea .content-yWjotn {
+  color: var(--white);
+  height: 20px;
+  top: 45px;
+  white-space: nowrap;
+  width: 267px;
+}
+
+.overviewiostoucharea .table-general-text1line-copy-49-09bQC4 {
+  height: 102px;
+  left: 497px;
+  top: 199px;
+  width: 309px;
+}
+
+.overviewiostoucharea .rectangle-xKUZxj {
+  background-color: transparent;
+  height: 103px;
+  left: -0px;
+  position: absolute;
+  top: -0px;
+  width: 310px;
+}
+
+.overviewiostoucharea .content-xKUZxj {
+  color: var(--white);
+  height: 20px;
+  top: 45px;
+  white-space: nowrap;
+  width: 267px;
+}
+
+.overviewiostoucharea .table-general-text1line-copy-50-09bQC4 {
+  height: 102px;
+  left: 804px;
+}
+
+.overviewiostoucharea .rectangle-hzn7xA {
+  background-color: transparent;
+  height: 103px;
+  left: -0px;
+  position: absolute;
+  top: -0px;
+  width: 273px;
+}
+
+.overviewiostoucharea .content-hzn7xA {
+  color: var(--black);
+  height: 40px;
+  top: 34px;
+  width: 242px;
+}
+
+.overviewiostoucharea .table-general-text1line-copy-51-09bQC4 {
+  height: 102px;
+  left: 804px;
+  top: 99px;
+  width: 272px;
+}
+
+.overviewiostoucharea .rectangle-LHlTEO {
+  background-color: transparent;
+  height: 103px;
+  left: -0px;
+  position: absolute;
+  top: -0px;
+  width: 273px;
+}
+
+.overviewiostoucharea .content-LHlTEO {
+  color: var(--black);
+  height: 40px;
+  top: 34px;
+  width: 242px;
+}
+
+.overviewiostoucharea .table-general-text1line-copy-52-09bQC4 {
+  height: 102px;
+  left: 804px;
+  top: 199px;
+  width: 272px;
+}
+
+.overviewiostoucharea .rectangle-x1ARbr {
+  background-color: transparent;
+  height: 103px;
+  left: -0px;
+  position: absolute;
+  top: -0px;
+  width: 273px;
+}
+
+.overviewiostoucharea .content-x1ARbr {
+  color: var(--black);
+  height: 40px;
+  top: 34px;
+  width: 242px;
+}
+
+.overviewiostoucharea .table-general-text1line-copy-53-09bQC4 {
+  height: 102px;
+  left: 1074px;
+}
+
+.overviewiostoucharea .rectangle-avSpyX {
+  background-color: transparent;
+  height: 103px;
+  left: -0px;
+  position: absolute;
+  top: -0px;
+  width: 165px;
+}
+
+.overviewiostoucharea .content-avSpyX {
+  color: var(--black);
+  height: 60px;
+  top: 23px;
+  width: 134px;
+}
+
+.overviewiostoucharea .table-general-text1line-copy-54-09bQC4 {
+  height: 102px;
+  left: 1074px;
+  top: 99px;
+  width: 164px;
+}
+
+.overviewiostoucharea .rectangle-KlFexi {
+  background-color: transparent;
+  height: 103px;
+  left: -0px;
+  position: absolute;
+  top: -0px;
+  width: 165px;
+}
+
+.overviewiostoucharea .content-KlFexi {
+  color: var(--black);
+  height: 60px;
+  top: 23px;
+  width: 134px;
+}
+
+.overviewiostoucharea .table-general-text1line-copy-55-09bQC4 {
+  height: 102px;
+  left: 1074px;
+  top: 199px;
+  width: 164px;
+}
+
+.overviewiostoucharea .rectangle-9Nxzzn {
+  background-color: transparent;
+  height: 103px;
+  left: -0px;
+  position: absolute;
+  top: -0px;
+  width: 165px;
+}
+
+.overviewiostoucharea .content-9Nxzzn {
+  color: var(--black);
+  height: 60px;
+  top: 23px;
+  width: 134px;
+}
+
+.overviewiostoucharea .table-general-text1line-copy-56-09bQC4 {
+  height: 102px;
+  left: 1237px;
+  top: -1px;
+  width: 164px;
+}
+
+.overviewiostoucharea .rectangle-BbzGdX {
+  background-color: transparent;
+  height: 103px;
+  left: -0px;
+  position: absolute;
+  top: -0px;
+  width: 165px;
+}
+
+.overviewiostoucharea .content-BbzGdX {
+  color: var(--white);
+  height: 60px;
+  top: 23px;
+  width: 122px;
+}
+
+.overviewiostoucharea .table-general-text1line-copy-57-09bQC4 {
+  height: 102px;
+  left: 1237px;
+  top: 99px;
+  width: 164px;
+}
+
+.overviewiostoucharea .rectangle-u9nst0 {
+  background-color: transparent;
+  height: 103px;
+  left: -0px;
+  position: absolute;
+  top: -0px;
+  width: 165px;
+}
+
+.overviewiostoucharea .content-u9nst0 {
+  color: var(--white);
+  height: 60px;
+  top: 23px;
+  width: 122px;
+}
+
+.overviewiostoucharea .table-general-text1line-copy-58-09bQC4 {
+  height: 102px;
+  left: 1237px;
+  top: 199px;
+  width: 164px;
+}
+
+.overviewiostoucharea .rectangle-YKLK1H {
+  background-color: transparent;
+  height: 103px;
+  left: -0px;
+  position: absolute;
+  top: -0px;
+  width: 165px;
+}
+
+.overviewiostoucharea .content-YKLK1H {
+  color: var(--white);
+  height: 60px;
+  top: 23px;
+  width: 122px;
+}
+
+.overviewiostoucharea .group-12-o2xnNy {
+  background-color: transparent;
+  height: 131px;
+  left: 0px;
+  position: absolute;
+  top: 52px;
+  width: 1400px;
+}
+
+.overviewiostoucharea .table-general-text1line-copy-59-8PTr2g {
+  height: 133px;
+  left: 95px;
+  top: -1px;
+  width: 98px;
+}
+
+.overviewiostoucharea .rectangle-ZBUjnd {
+  background-color: transparent;
+  height: 134px;
+  left: -0px;
+  position: absolute;
+  top: -0px;
+  width: 99px;
+}
+
+.overviewiostoucharea .content-ZBUjnd {
+  color: var(--black);
+  height: 20px;
+  top: 61px;
+  white-space: nowrap;
+  width: 68px;
+}
+
+.overviewiostoucharea .table-general-text1line-copy-60-8PTr2g {
+  height: 133px;
+  left: 191px;
+  top: -1px;
+  width: 309px;
+}
+
+.overviewiostoucharea .rectangle-Uq7Lav {
+  background-color: transparent;
+  height: 134px;
+  left: -0px;
+  position: absolute;
+  top: -0px;
+  width: 310px;
+}
+
+.overviewiostoucharea .content-Uq7Lav {
+  color: var(--black);
+  height: 20px;
+  top: 61px;
+  white-space: nowrap;
+  width: 279px;
+}
+
+.overviewiostoucharea .table-general-text1line-copy-61-8PTr2g {
+  height: 133px;
+  left: 497px;
+  top: -1px;
+  width: 309px;
+}
+
+.overviewiostoucharea .rectangle-uxQUR6 {
+  background-color: transparent;
+  height: 134px;
+  left: -0px;
+  position: absolute;
+  top: -0px;
+  width: 310px;
+}
+
+.overviewiostoucharea .content-uxQUR6 {
+  color: var(--white);
+  height: 20px;
+  top: 61px;
+  white-space: nowrap;
+  width: 267px;
+}
+
+.overviewiostoucharea .table-general-text1line-copy-62-8PTr2g {
+  height: 133px;
+  left: 804px;
+  top: -1px;
+  width: 272px;
+}
+
+.overviewiostoucharea .rectangle-bU2epp {
+  background-color: transparent;
+  height: 134px;
+  left: -0px;
+  position: absolute;
+  top: -0px;
+  width: 273px;
+}
+
+.overviewiostoucharea .content-bU2epp {
+  color: var(--black);
+  height: 60px;
+  top: 39px;
+  width: 242px;
+}
+
+.overviewiostoucharea .table-general-text1line-copy-63-8PTr2g {
+  height: 133px;
+  left: 1074px;
+  top: -1px;
+  width: 164px;
+}
+
+.overviewiostoucharea .rectangle-V7uY6g {
+  background-color: transparent;
+  height: 134px;
+  left: -0px;
+  position: absolute;
+  top: -0px;
+  width: 165px;
+}
+
+.overviewiostoucharea .content-V7uY6g {
+  color: var(--black);
+  height: 80px;
+  top: 29px;
+  width: 134px;
+}
+
+.overviewiostoucharea .table-general-text1line-copy-64-8PTr2g {
+  height: 133px;
+  left: 1237px;
+  top: -1px;
+  width: 164px;
+}
+
+.overviewiostoucharea .rectangle-WWPK9q {
+  background-color: transparent;
+  height: 134px;
+  left: -0px;
+  position: absolute;
+  top: -0px;
+  width: 165px;
+}
+
+.overviewiostoucharea .content-WWPK9q {
+  color: var(--white);
+  height: 80px;
+  top: 29px;
+  width: 122px;
+}
+
+.overviewiostoucharea .table-general-text1line-copy-65-8PTr2g {
+  height: 133px;
+  left: -1px;
+  top: -1px;
+  width: 98px;
+}
+
+.overviewiostoucharea .rectangle-JerHqS {
+  background-color: transparent;
+  height: 134px;
+  left: -0px;
+  position: absolute;
+  top: -0px;
+  width: 99px;
+}
+
+.overviewiostoucharea .content-JerHqS {
+  color: var(--black);
+  height: 20px;
+  top: 61px;
+  white-space: nowrap;
+  width: 68px;
+}
+
+.overviewiostoucharea .x2090-comp-title-3-type_c-data_touch_kr-o2xnNy {
+  background-color: transparent;
+  height: 60px;
+  left: 268px;
+  position: absolute;
+  top: 88px;
+  width: 142px;
+}
+
+.overviewiostoucharea .group-o2xnNy {
+  background-color: transparent;
+  height: 60px;
+  left: 585px;
+  position: absolute;
+  top: 88px;
+  width: 142px;
+}
+
+.overviewiostoucharea .subject-copy-2-o2xnNy {
+  width: 1400px;
+}
+
+.overviewiostoucharea .table-general-title_1line-BTJGxb {
+  left: 0px;
+  width: 192px;
+}
+
+.overviewiostoucharea .table-general-title_1line-Drb6dl {
+  left: 192px;
+  width: 612px;
+}
+
+.overviewiostoucharea .table-general-title_1line-OZEZMn {
+  left: 804px;
+  width: 271px;
+}
+
+.overviewiostoucharea .table-general-title_1line-copy-BTJGxb {
+  left: 1075px;
+  width: 325px;
+}
+
+.overviewiostoucharea .group-2-copy-2-o2xnNy {
+  background-color: transparent;
+  height: 48px;
+  left: 315px;
+  position: absolute;
+  top: 211px;
+  width: 48px;
+}
+
+.overviewiostoucharea .group-2-copy-3-o2xnNy {
+  background-color: transparent;
+  height: 48px;
+  left: 632px;
+  position: absolute;
+  top: 211px;
+  width: 48px;
+}
+
+.overviewiostoucharea .group-7-copy-o2xnNy {
+  background-color: transparent;
+  height: 28px;
+  left: 635px;
+  position: absolute;
+  top: 320px;
+  width: 43px;
+}
+
+.overviewiostoucharea .group-3-copy-o2xnNy {
+  background-color: transparent;
+  height: 28px;
+  left: 318px;
+  position: absolute;
+  top: 320px;
+  width: 43px;
+}
+
+.overviewiostoucharea .group-8-copy-o2xnNy {
+  background-color: transparent;
+  height: 32px;
+  left: 354px;
+  position: absolute;
+  top: 422px;
+  width: 32px;
+}
+
+.overviewiostoucharea .group-9-copy-o2xnNy {
+  background-color: transparent;
+  height: 32px;
+  left: 293px;
+  position: absolute;
+  top: 422px;
+  width: 32px;
+}
+
+.overviewiostoucharea .group-11-copy-o2xnNy {
+  background-color: transparent;
+  height: 32px;
+  left: 671px;
+  position: absolute;
+  top: 417px;
+  width: 32px;
+}
+
+.overviewiostoucharea .group-10-copy-o2xnNy {
+  background-color: transparent;
+  height: 32px;
+  left: 610px;
+  position: absolute;
+  top: 417px;
+  width: 32px;
+}
+
+.overviewiostoucharea .group-LI2CDy {
+  background-color: transparent;
+  height: 170px;
+  left: 420px;
+  position: absolute;
+  top: 342px;
+  width: 1400px;
+}
+
+.overviewiostoucharea .rectangle-VeUbFw {
+  background-color: transparent;
+  height: 170px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1400px;
+}
+
+.overviewiostoucharea .x-VeUbFw {
+  background-color: transparent;
+  color: #444444;
+  font-family: var(--font-family-samsungonekorean-400);
+  font-size: var(--font-size-xxxl);
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 29px;
+  letter-spacing: 0.00px;
+  line-height: 43px;
+  position: absolute;
+  text-align: left;
+  top: 42px;
+  width: 1041px;
+}
+
+.overviewiostoucharea .web-sub_-title-LI2CDy {
+  background-color: transparent;
+  height: 57px;
+  left: 320px;
+  position: absolute;
+  top: 284px;
+  width: 360px;
+}
+
+.overviewiostoucharea .sub-title-xfKKQl {
+  background-color: transparent;
+  font-weight: 700;
+  height: auto;
+  left: 100px;
+  letter-spacing: 0.00px;
+  line-height: 28px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.overviewiostoucharea .web-title-area-LI2CDy {
+  background-color: transparent;
+  height: 170px;
+  left: 320px;
+  position: fixed;
+  top: 64px;
+  width: 1600px;
+}
+
+.overviewiostoucharea .web-tab-overview_touch-area-LI2CDy {
+  background-color: transparent;
+  height: 47px;
+  left: 320px;
+  position: fixed;
+  top: 187px;
+  width: 1600px;
+}
+
+.overviewiostoucharea .x3rd-depth-fD3XS1 {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1600px;
+}
+
+.overviewiostoucharea .tab-fD3XS1 {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  height: 17px;
+  justify-content: flex-start;
+  left: 100px;
+  position: absolute;
+  top: 0px;
+  width: auto;
+}
+
+.overviewiostoucharea .ripple-effect-touc-vVMCXv {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0;
+  position: relative;
+  width: 156px;
+}
+
+.overviewiostoucharea .service-feature-type-vVMCXv {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 98px;
+}
+
+.overviewiostoucharea .lnb-favorite-card-LI2CDy {
+  background-color: transparent;
+  height: 1167px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.overviewiostoucharea .rectangle-haDc5T {
+  background-color: var(--concrete);
+  height: 1167px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.overviewiostoucharea .stacked-group-haDc5T {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  left: 0px;
+  position: absolute;
+  top: 170px;
+  width: 320px;
+}
+
+.overviewiostoucharea .web-index-title-common-xJufaS {
+  margin: 0;
+}
+
+.overviewiostoucharea .group-SMNh88 {
+  background-color: transparent;
+  height: 46px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.overviewiostoucharea .group-YAHV0G {
+  background-color: transparent;
+  height: 46px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.overviewiostoucharea .x1-depth-title-5V2OQ1 {
+  color: var(--curious-blue);
+  font-weight: 600;
+}
+
+.overviewiostoucharea .web-expanded-YAHV0G {
+  background-color: transparent;
+  height: 7px;
+  left: 27px;
+  position: absolute;
+  top: 20px;
+  width: 11px;
+}
+
+.overviewiostoucharea .button-SEfyOQ {
+  left: 1px;
+  top: -3px;
+  transform: rotate(90deg);
+}
+
+.overviewiostoucharea .web-index-contents1dpeth_close-copy-8-xJufaS {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.overviewiostoucharea .group-u491id {
+  background-color: transparent;
+  height: 46px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 320px;
+}
+
+.overviewiostoucharea .x2-death-title-bOb98T {
+  color: var(--sonic-silver);
+  font-weight: 400;
+}
+
+.overviewiostoucharea .web-index-contents1dpeth_close-copy-2-xJufaS {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.overviewiostoucharea .group-kbLCmo {
+  background-color: transparent;
+  height: 46px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 320px;
+}
+
+.overviewiostoucharea .x2-death-title-eNUI5S {
+  color: var(--sonic-silver);
+  font-weight: 400;
+}
+
+.overviewiostoucharea .web-index-contents1dpeth_close-copy-xJufaS {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.overviewiostoucharea .group-KxGStb {
+  background-color: transparent;
+  height: 46px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 320px;
+}
+
+.overviewiostoucharea .x2-death-title-JRMd6X {
+  color: var(--sonic-silver);
+  font-weight: 400;
+}
+
+.overviewiostoucharea .web-index-contents1dpeth_close-copy-3-xJufaS {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.overviewiostoucharea .group-shwqWA {
+  background-color: transparent;
+  height: 46px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 320px;
+}
+
+.overviewiostoucharea .x2-death-title-fSRBZd {
+  color: var(--curious-blue);
+  font-weight: 500;
+}
+
+.overviewiostoucharea .web-index-contents1dpeth_close-copy-4-xJufaS {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.overviewiostoucharea .group-J7QmqD {
+  background-color: transparent;
+  height: 46px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 320px;
+}
+
+.overviewiostoucharea .x2-death-title-KDiiGQ {
+  color: var(--sonic-silver);
+  font-weight: 400;
+}
+
+.overviewiostoucharea .web-index-contents1dpeth_close-copy-5-xJufaS {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.overviewiostoucharea .group-5GashI {
+  background-color: transparent;
+  height: 46px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 320px;
+}
+
+.overviewiostoucharea .x2-death-title-UfxpKf {
+  color: var(--sonic-silver);
+  font-weight: 400;
+}
+
+.overviewiostoucharea .web-index-contents1dpeth_close-copy-6-xJufaS {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.overviewiostoucharea .group-KxajHa {
+  background-color: transparent;
+  height: 46px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 320px;
+}
+
+.overviewiostoucharea .x2-death-title-xwW0tR {
+  color: var(--sonic-silver);
+  font-weight: 400;
+}
+
+.overviewiostoucharea .web-index-contents1dpeth_close-copy-7-xJufaS {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.overviewiostoucharea .group-njAwq8 {
+  background-color: transparent;
+  height: 46px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 320px;
+}
+
+.overviewiostoucharea .x2-death-title-xj1y8q {
+  color: var(--sonic-silver);
+  font-weight: 400;
+}
+
+.overviewiostoucharea .group-hjlbDA {
+  background-color: transparent;
+  height: 46px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.overviewiostoucharea .x1-depth-title-4uTpwx {
+  color: var(--shark);
+  font-weight: 500;
+}
+
+.overviewiostoucharea .button-gSMZUV {
+  left: -1px;
+  top: -1px;
+}
+
+.overviewiostoucharea .group-UUQ0Z5 {
+  background-color: transparent;
+  height: 46px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.overviewiostoucharea .x1-depth-title-BNjeFp {
+  color: var(--shark);
+  font-weight: 500;
+}
+
+.overviewiostoucharea .button-ydHv9X {
+  left: -1px;
+  top: -1px;
+}
+
+.overviewiostoucharea .group-kYfRdU {
+  background-color: transparent;
+  height: 46px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.overviewiostoucharea .x1-depth-title-gbhyDH {
+  color: var(--shark);
+  font-weight: 500;
+}
+
+.overviewiostoucharea .button-rbRsbg {
+  left: -1px;
+  top: -1px;
+}
+
+.overviewiostoucharea .web-index-contents1dpeth_open_selected-xJufaS {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.overviewiostoucharea .group-P3jz9P {
+  background-color: transparent;
+  height: 46px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.overviewiostoucharea .x1-depth-title-xnSLll {
+  color: var(--shark);
+  font-weight: 500;
+}
+
+.overviewiostoucharea .button-yY5mCF {
+  left: -1px;
+  top: -1px;
+}
+
+.overviewiostoucharea .group-copy-xJufaS {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.overviewiostoucharea .empty-xyGeSP {
+  top: 21px;
+}
+
+.overviewiostoucharea .empty-qbFSNs {
+  top: 0px;
+}
+
+.overviewiostoucharea .web-index-title-common-copy-xJufaS {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.overviewiostoucharea .group-sGxHrl {
+  background-color: transparent;
+  height: 46px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.overviewiostoucharea .group-NIPoZh {
+  background-color: transparent;
+  height: 46px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.overviewiostoucharea .x1-depth-title-vHbXy4 {
+  color: var(--shark);
+  font-weight: 500;
+}
+
+.overviewiostoucharea .button-ZC9kEb {
+  left: -1px;
+  top: -1px;
+}
+
+.overviewiostoucharea .group-xINSAR {
+  background-color: transparent;
+  height: 46px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.overviewiostoucharea .x1-depth-title-lDMkxr {
+  color: var(--shark);
+  font-weight: 500;
+}
+
+.overviewiostoucharea .button-WxuY8K {
+  left: -1px;
+  top: -1px;
+}
+
+.overviewiostoucharea .group-xJufaS {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.overviewiostoucharea .empty-kAodxR {
+  top: 21px;
+}
+
+.overviewiostoucharea .empty-xF4ETL {
+  top: 0px;
+}
+
+.overviewiostoucharea .web-index-title-common-vRi0jZ {
+  margin: 0px 0 0 0;
+}
+
+.overviewiostoucharea .group-CIGUWt {
+  background-color: transparent;
+  height: 46px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.overviewiostoucharea .group-copy-2-xJufaS {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.overviewiostoucharea .empty-rXnkKA {
+  top: 21px;
+}
+
+.overviewiostoucharea .empty-EGidzc {
+  top: 0px;
+}
+
+.overviewiostoucharea .web-index-title-common-copy-2-xJufaS {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.overviewiostoucharea .group-Rqq0Pb {
+  background-color: transparent;
+  height: 46px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.overviewiostoucharea .line-haDc5T {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 154px;
+  width: 275px;
+}
+
+.overviewiostoucharea .home-net-gui-guidelin-haDc5T {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 24px;
+  position: absolute;
+  top: 100px;
+  width: 212px;
+}
+
+.overviewiostoucharea .webgnb-LI2CDy {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: fixed;
+  top: 0px;
+  width: 1920px;
+}
+
+.overviewiostoucharea .rectangle-1kVkU7 {
+  background-color: var(--shark);
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.overviewiostoucharea .background-1kVkU7 {
+  background-color: var(--shark);
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.overviewiostoucharea .index-1kVkU7 {
+  background-color: transparent;
+  height: 22px;
+  left: 427px;
+  position: absolute;
+  top: 21px;
+  width: 116px;
+}
+
+.overviewiostoucharea .web-index-select-VXCray {
+  background-color: transparent;
+  cursor: pointer;
+  height: 22px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 17px;
+}
+
+.overviewiostoucharea .web-index-unselect-VXCray {
+  background-color: transparent;
+  cursor: pointer;
+  height: 22px;
+  left: 87px;
+  position: absolute;
+  top: 0px;
+  width: 29px;
+}
+
+.overviewiostoucharea .web-index-unelect_main-1kVkU7 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 18px;
+  position: absolute;
+  top: 20px;
+  width: 293px;
+}
+
+.overviewiostoucharea .logo-bVNj12 {
+  background-color: transparent;
+  height: 24px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 293px;
+}
+
+.overviewiostoucharea .content {
+  background-color: transparent;
+  font-style: normal;
+  font-weight: 400;
+  left: 14px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+}
+
+.overviewiostoucharea .subject-copy-2 {
+  background-color: transparent;
+  height: 52px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+}
+
+.overviewiostoucharea .table-general-text1line {
+  background-color: transparent;
+  position: absolute;
+}
+
+.overviewiostoucharea .table-general-text1line-copy-42 {
+  background-color: transparent;
+  position: absolute;
+  width: 98px;
+}
+
+.overviewiostoucharea .table-general-text1line-copy-43 {
+  background-color: transparent;
+  position: absolute;
+}
+
+.overviewiostoucharea .table-general-text1line-copy-44 {
+  background-color: transparent;
+  position: absolute;
+}
+
+.overviewiostoucharea .table-general-text1line-copy-45 {
+  background-color: transparent;
+  position: absolute;
+}
+
+.overviewiostoucharea .table-general-text1line-copy-46 {
+  background-color: transparent;
+  position: absolute;
+}
+
+.overviewiostoucharea .table-general-text1line-copy-47 {
+  background-color: transparent;
+  position: absolute;
+}
+
+.overviewiostoucharea .table-general-text1line-copy-48 {
+  background-color: transparent;
+  position: absolute;
+}
+
+.overviewiostoucharea .table-general-text1line-copy-49 {
+  background-color: transparent;
+  position: absolute;
+}
+
+.overviewiostoucharea .table-general-text1line-copy-50 {
+  background-color: transparent;
+  position: absolute;
+  top: -1px;
+  width: 272px;
+}
+
+.overviewiostoucharea .table-general-text1line-copy-51 {
+  background-color: transparent;
+  position: absolute;
+}
+
+.overviewiostoucharea .table-general-text1line-copy-52 {
+  background-color: transparent;
+  position: absolute;
+}
+
+.overviewiostoucharea .table-general-text1line-copy-53 {
+  background-color: transparent;
+  position: absolute;
+  top: -1px;
+  width: 164px;
+}
+
+.overviewiostoucharea .table-general-text1line-copy-54 {
+  background-color: transparent;
+  position: absolute;
+}
+
+.overviewiostoucharea .table-general-text1line-copy-55 {
+  background-color: transparent;
+  position: absolute;
+}
+
+.overviewiostoucharea .table-general-text1line-copy-56 {
+  background-color: transparent;
+  position: absolute;
+}
+
+.overviewiostoucharea .table-general-text1line-copy-57 {
+  background-color: transparent;
+  position: absolute;
+}
+
+.overviewiostoucharea .table-general-text1line-copy-58 {
+  background-color: transparent;
+  position: absolute;
+}
+
+.overviewiostoucharea .table-general-text1line-copy-59 {
+  background-color: transparent;
+  position: absolute;
+}
+
+.overviewiostoucharea .table-general-text1line-copy-60 {
+  background-color: transparent;
+  position: absolute;
+}
+
+.overviewiostoucharea .table-general-text1line-copy-61 {
+  background-color: transparent;
+  position: absolute;
+}
+
+.overviewiostoucharea .table-general-text1line-copy-62 {
+  background-color: transparent;
+  position: absolute;
+}
+
+.overviewiostoucharea .table-general-text1line-copy-63 {
+  background-color: transparent;
+  position: absolute;
+}
+
+.overviewiostoucharea .table-general-text1line-copy-64 {
+  background-color: transparent;
+  position: absolute;
+}
+
+.overviewiostoucharea .table-general-text1line-copy-65 {
+  background-color: transparent;
+  position: absolute;
+}
+
+.overviewiostoucharea .table-general-title_1line {
+  background-color: transparent;
+  height: 52px;
+  position: absolute;
+  top: 0px;
+}
+
+.overviewiostoucharea .table-general-title_1line-copy {
+  background-color: transparent;
+  height: 52px;
+  position: absolute;
+  top: 0px;
+}
+
+.overviewiostoucharea .title {
+  background-color: transparent;
+  color: var(--shark);
+  font-style: normal;
+  font-weight: 600;
+  height: auto;
+  left: 30px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 12px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.overviewiostoucharea .x2-death-title {
+  background-color: transparent;
+  font-style: normal;
+  height: 46px;
+  left: 70px;
+  letter-spacing: 0.00px;
+  line-height: 17px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 252px;
+}

@@ -1,0 +1,622 @@
+/* screen - overviewintrohomenetreferenceguide */
+
+.overviewintrohomenetreferenceguide {
+  background-color: var(--white);
+  height: 2615px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.overviewintrohomenetreferenceguide .group-12-PToNsu {
+  background-color: transparent;
+  height: 2131px;
+  left: 320px;
+  position: absolute;
+  top: 284px;
+  width: 1600px;
+}
+
+.overviewintrohomenetreferenceguide .web-title-area-PToNsu {
+  background-color: transparent;
+  height: 170px;
+  left: 320px;
+  position: fixed;
+  top: 64px;
+  width: 1600px;
+}
+
+.overviewintrohomenetreferenceguide .web-tab-overview_touch-area-PToNsu {
+  background-color: transparent;
+  height: 47px;
+  left: 320px;
+  position: fixed;
+  top: 187px;
+  width: 1600px;
+}
+
+.overviewintrohomenetreferenceguide .x3rd-depth-TTmFxf {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1600px;
+}
+
+.overviewintrohomenetreferenceguide .tab-TTmFxf {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  height: 17px;
+  justify-content: flex-start;
+  left: 100px;
+  position: absolute;
+  top: 0px;
+  width: auto;
+}
+
+.overviewintrohomenetreferenceguide .intro-home-net-ref-SX0TQe {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0;
+  position: relative;
+  width: 207px;
+}
+
+.overviewintrohomenetreferenceguide .lnb-favorite-card-PToNsu {
+  background-color: transparent;
+  height: 1167px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.overviewintrohomenetreferenceguide .rectangle-FTiaq4 {
+  background-color: var(--concrete);
+  height: 1167px;
+  width: 320px;
+}
+
+.overviewintrohomenetreferenceguide .stacked-group-FTiaq4 {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  left: 0px;
+  position: absolute;
+  top: 170px;
+  width: 320px;
+}
+
+.overviewintrohomenetreferenceguide .web-index-title-common-Pyq3D5 {
+  margin: 0;
+}
+
+.overviewintrohomenetreferenceguide .group-pQWoNX {
+  height: 46px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+}
+
+.overviewintrohomenetreferenceguide .group-T56KMt {
+  height: 46px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+}
+
+.overviewintrohomenetreferenceguide .x1-depth-title-FGUVtu {
+  color: var(--curious-blue);
+  font-weight: 600;
+}
+
+.overviewintrohomenetreferenceguide .web-expanded-T56KMt {
+  background-color: transparent;
+  height: 7px;
+  left: 27px;
+  position: absolute;
+  top: 20px;
+  width: 11px;
+}
+
+.overviewintrohomenetreferenceguide .button-dx9Nvz {
+  left: 1px;
+  top: -3px;
+  transform: rotate(90deg);
+}
+
+.overviewintrohomenetreferenceguide .web-index-contents1dpeth_close-copy-8-Pyq3D5 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.overviewintrohomenetreferenceguide .group-wuVi4A {
+  height: 46px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+}
+
+.overviewintrohomenetreferenceguide .x2-death-title-LCAkmB {
+  color: var(--sonic-silver);
+  font-weight: 400;
+}
+
+.overviewintrohomenetreferenceguide .web-index-contents1dpeth_close-copy-2-Pyq3D5 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.overviewintrohomenetreferenceguide .group-ndtG0J {
+  height: 46px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+}
+
+.overviewintrohomenetreferenceguide .x2-death-title-yNBX6K {
+  color: var(--curious-blue);
+  font-weight: 500;
+}
+
+.overviewintrohomenetreferenceguide .web-index-contents1dpeth_close-copy-Pyq3D5 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.overviewintrohomenetreferenceguide .group-ctxQmx {
+  height: 46px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+}
+
+.overviewintrohomenetreferenceguide .x2-death-title-zp5WTs {
+  color: var(--sonic-silver);
+  font-weight: 400;
+}
+
+.overviewintrohomenetreferenceguide .web-index-contents1dpeth_close-copy-3-Pyq3D5 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.overviewintrohomenetreferenceguide .group-aO2CXH {
+  height: 46px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+}
+
+.overviewintrohomenetreferenceguide .x2-death-title-8LaCc0 {
+  color: var(--sonic-silver);
+  font-weight: 400;
+}
+
+.overviewintrohomenetreferenceguide .web-index-contents1dpeth_close-copy-4-Pyq3D5 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.overviewintrohomenetreferenceguide .group-vwU0sh {
+  height: 46px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+}
+
+.overviewintrohomenetreferenceguide .x2-death-title-BSy5tk {
+  color: var(--sonic-silver);
+  font-weight: 400;
+}
+
+.overviewintrohomenetreferenceguide .web-index-contents1dpeth_close-copy-5-Pyq3D5 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.overviewintrohomenetreferenceguide .group-P8rijU {
+  height: 46px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+}
+
+.overviewintrohomenetreferenceguide .x2-death-title-cJ8aR9 {
+  color: var(--sonic-silver);
+  font-weight: 400;
+}
+
+.overviewintrohomenetreferenceguide .web-index-contents1dpeth_close-copy-6-Pyq3D5 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.overviewintrohomenetreferenceguide .group-OvT5bL {
+  height: 46px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+}
+
+.overviewintrohomenetreferenceguide .x2-death-title-Egenex {
+  color: var(--sonic-silver);
+  font-weight: 400;
+}
+
+.overviewintrohomenetreferenceguide .web-index-contents1dpeth_close-copy-7-Pyq3D5 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.overviewintrohomenetreferenceguide .group-sNa5XG {
+  height: 46px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+}
+
+.overviewintrohomenetreferenceguide .x2-death-title-06FLYe {
+  color: var(--sonic-silver);
+  font-weight: 400;
+}
+
+.overviewintrohomenetreferenceguide .group-8O7ypw {
+  height: 46px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+}
+
+.overviewintrohomenetreferenceguide .x1-depth-title-fBHNBc {
+  color: var(--shark);
+  font-weight: 500;
+}
+
+.overviewintrohomenetreferenceguide .button-d0pVHo {
+  left: -1px;
+  top: -1px;
+}
+
+.overviewintrohomenetreferenceguide .group-YJw7BE {
+  height: 46px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+}
+
+.overviewintrohomenetreferenceguide .x1-depth-title-swZTdb {
+  color: var(--shark);
+  font-weight: 500;
+}
+
+.overviewintrohomenetreferenceguide .button-FxvRGF {
+  left: -1px;
+  top: -1px;
+}
+
+.overviewintrohomenetreferenceguide .group-YTcLdO {
+  height: 46px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+}
+
+.overviewintrohomenetreferenceguide .x1-depth-title-qxExzS {
+  color: var(--shark);
+  font-weight: 500;
+}
+
+.overviewintrohomenetreferenceguide .button-LDNjLx {
+  left: -1px;
+  top: -1px;
+}
+
+.overviewintrohomenetreferenceguide .web-index-contents1dpeth_open_selected-Pyq3D5 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.overviewintrohomenetreferenceguide .group-EE3Pbl {
+  height: 46px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+}
+
+.overviewintrohomenetreferenceguide .x1-depth-title-VCRExP {
+  color: var(--shark);
+  font-weight: 500;
+}
+
+.overviewintrohomenetreferenceguide .button-Oe2d0a {
+  left: -1px;
+  top: -1px;
+}
+
+.overviewintrohomenetreferenceguide .group-copy-Pyq3D5 {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.overviewintrohomenetreferenceguide .empty-kCqvFK {
+  top: 21px;
+}
+
+.overviewintrohomenetreferenceguide .empty-7kE1TU {
+  top: 0px;
+}
+
+.overviewintrohomenetreferenceguide .web-index-title-common-copy-Pyq3D5 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.overviewintrohomenetreferenceguide .group-KXXcV1 {
+  height: 46px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+}
+
+.overviewintrohomenetreferenceguide .group-IfPV1k {
+  height: 46px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+}
+
+.overviewintrohomenetreferenceguide .x1-depth-title-MDvcmc {
+  color: var(--shark);
+  font-weight: 500;
+}
+
+.overviewintrohomenetreferenceguide .button-LcoNV2 {
+  left: -1px;
+  top: -1px;
+}
+
+.overviewintrohomenetreferenceguide .group-cGawVr {
+  height: 46px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+}
+
+.overviewintrohomenetreferenceguide .x1-depth-title-XRBIfj {
+  color: var(--shark);
+  font-weight: 500;
+}
+
+.overviewintrohomenetreferenceguide .button-C3CQa3 {
+  left: -1px;
+  top: -1px;
+}
+
+.overviewintrohomenetreferenceguide .group-Pyq3D5 {
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+}
+
+.overviewintrohomenetreferenceguide .empty-kYDXR9 {
+  top: 21px;
+}
+
+.overviewintrohomenetreferenceguide .empty-iyX1Bu {
+  top: 0px;
+}
+
+.overviewintrohomenetreferenceguide .web-index-title-common-L4dfSy {
+  margin: 0px 0 0 0;
+}
+
+.overviewintrohomenetreferenceguide .group-xqoDhT {
+  height: 46px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+}
+
+.overviewintrohomenetreferenceguide .group-copy-2-Pyq3D5 {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.overviewintrohomenetreferenceguide .empty-QVyfg6 {
+  top: 21px;
+}
+
+.overviewintrohomenetreferenceguide .empty-FZMkDA {
+  top: 0px;
+}
+
+.overviewintrohomenetreferenceguide .web-index-title-common-copy-2-Pyq3D5 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.overviewintrohomenetreferenceguide .group-X7mlcY {
+  height: 46px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+}
+
+.overviewintrohomenetreferenceguide .line-FTiaq4 {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 154px;
+  width: 275px;
+}
+
+.overviewintrohomenetreferenceguide .home-net-gui-guidelin-FTiaq4 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 24px;
+  position: absolute;
+  top: 100px;
+  width: 212px;
+}
+
+.overviewintrohomenetreferenceguide .webgnb-PToNsu {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: fixed;
+  top: 0px;
+  width: 1920px;
+}
+
+.overviewintrohomenetreferenceguide .rectangle-ANzTvT {
+  background-color: var(--shark);
+  height: 64px;
+  width: 1920px;
+}
+
+.overviewintrohomenetreferenceguide .background-ANzTvT {
+  background-color: var(--shark);
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.overviewintrohomenetreferenceguide .index-ANzTvT {
+  background-color: transparent;
+  height: 22px;
+  left: 427px;
+  position: absolute;
+  top: 21px;
+  width: 116px;
+}
+
+.overviewintrohomenetreferenceguide .web-index-select-tzI7zQ {
+  background-color: transparent;
+  cursor: pointer;
+  height: 22px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 17px;
+}
+
+.overviewintrohomenetreferenceguide .web-index-unselect-tzI7zQ {
+  background-color: transparent;
+  cursor: pointer;
+  height: 22px;
+  left: 87px;
+  position: absolute;
+  top: 0px;
+  width: 29px;
+}
+
+.overviewintrohomenetreferenceguide .web-index-unelect_main-ANzTvT {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 18px;
+  position: absolute;
+  top: 20px;
+  width: 293px;
+}
+
+.overviewintrohomenetreferenceguide .logo-T9Ss3v {
+  background-color: transparent;
+  height: 24px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 293px;
+}
+
+.overviewintrohomenetreferenceguide .title {
+  background-color: transparent;
+  color: var(--shark);
+  font-style: normal;
+  font-weight: 600;
+  height: auto;
+  left: 30px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 12px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.overviewintrohomenetreferenceguide .x2-death-title {
+  background-color: transparent;
+  font-style: normal;
+  height: 46px;
+  left: 70px;
+  letter-spacing: 0.00px;
+  line-height: 17px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 252px;
+}

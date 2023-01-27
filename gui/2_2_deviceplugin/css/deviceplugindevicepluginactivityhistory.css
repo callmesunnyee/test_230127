@@ -1,0 +1,873 @@
+/* screen - deviceplugindevicepluginactivityhistory */
+
+.deviceplugindevicepluginactivityhistory {
+  background-color: var(--white);
+  height: 100vh;
+  margin: 0px;
+  min-height: 1451px;
+  min-width: 1920px;
+  overflow-x: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.deviceplugindevicepluginactivityhistory .group-3-zvxwjV {
+  background-color: transparent;
+  height: 909px;
+  left: 400px;
+  position: absolute;
+  top: 342px;
+  width: 690px;
+}
+
+.deviceplugindevicepluginactivityhistory .group-2-zvxwjV {
+  background-color: transparent;
+  height: 79px;
+  left: 1140px;
+  position: absolute;
+  top: 398px;
+  width: 680px;
+}
+
+.deviceplugindevicepluginactivityhistory .table-guide-text1line-GXxgSl {
+  left: 0px;
+  width: 50px;
+}
+
+.deviceplugindevicepluginactivityhistory .rectangle-1IGydj {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 50px;
+}
+
+.deviceplugindevicepluginactivityhistory .contents-1IGydj {
+  width: 38px;
+}
+
+.deviceplugindevicepluginactivityhistory .table-guide-text1line-8mvDP4 {
+  left: 410px;
+  width: 270px;
+}
+
+.deviceplugindevicepluginactivityhistory .rectangle-rHnbgG {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 270px;
+}
+
+.deviceplugindevicepluginactivityhistory .contents-rHnbgG {
+  width: 258px;
+}
+
+.deviceplugindevicepluginactivityhistory .table-guide-text2line_m-GXxgSl {
+  background-color: transparent;
+  height: 73px;
+  left: 60px;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.deviceplugindevicepluginactivityhistory .rectangle-oKk6Ew {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 340px;
+}
+
+.deviceplugindevicepluginactivityhistory .group-oKk6Ew {
+  background-color: transparent;
+  height: 62px;
+  left: 6px;
+  position: absolute;
+  top: 11px;
+  width: 328px;
+}
+
+.deviceplugindevicepluginactivityhistory .content-YPlf9r {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  height: 40px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 22px;
+  width: 328px;
+}
+
+.deviceplugindevicepluginactivityhistory .title-YPlf9r {
+  color: var(--persian-green);
+  height: 20px;
+  left: 0px;
+  line-height: 20px;
+  opacity: 0.8;
+  top: 0px;
+  width: 328px;
+}
+
+.deviceplugindevicepluginactivityhistory .descriptiontabletop-zvxwjV {
+  background-color: transparent;
+  height: 38px;
+  left: 1140px;
+  position: absolute;
+  top: 342px;
+  width: 680px;
+}
+
+.deviceplugindevicepluginactivityhistory .table-guide-title-xTI9Vm {
+  left: 410px;
+  width: 270px;
+}
+
+.deviceplugindevicepluginactivityhistory .rectangle-D3yiwg {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 270px;
+}
+
+.deviceplugindevicepluginactivityhistory .table-title-text-D3yiwg {
+  width: 258px;
+}
+
+.deviceplugindevicepluginactivityhistory .table-guide-title-zR9Nxq {
+  left: 60px;
+  width: 340px;
+}
+
+.deviceplugindevicepluginactivityhistory .rectangle-A0GZRU {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 340px;
+}
+
+.deviceplugindevicepluginactivityhistory .table-title-text-A0GZRU {
+  width: 328px;
+}
+
+.deviceplugindevicepluginactivityhistory .table-guide-title-JxDUhY {
+  left: 0px;
+  width: 50px;
+}
+
+.deviceplugindevicepluginactivityhistory .rectangle-nSdCik {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 50px;
+}
+
+.deviceplugindevicepluginactivityhistory .table-title-text-nSdCik {
+  width: 38px;
+}
+
+.deviceplugindevicepluginactivityhistory .web-sub_-title-zvxwjV {
+  background-color: transparent;
+  height: 57px;
+  left: 320px;
+  position: absolute;
+  top: 284px;
+  width: 360px;
+}
+
+.deviceplugindevicepluginactivityhistory .sub-title-lhnrWN {
+  background-color: transparent;
+  height: 28px;
+  left: 100px;
+  position: absolute;
+  top: 0px;
+  width: 163px;
+}
+
+.deviceplugindevicepluginactivityhistory .web-title-area-zvxwjV {
+  background-color: transparent;
+  height: 170px;
+  left: 320px;
+  position: fixed;
+  top: 64px;
+  width: 1600px;
+}
+
+.deviceplugindevicepluginactivityhistory .web-tab-device-plug-zvxwjV {
+  background-color: transparent;
+  height: 47px;
+  left: 320px;
+  position: fixed;
+  top: 187px;
+  width: 1600px;
+}
+
+.deviceplugindevicepluginactivityhistory .x3rd-depth-sJjg2F {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 1600px;
+}
+
+.deviceplugindevicepluginactivityhistory .tab-z36PFh {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  height: 17px;
+  justify-content: flex-start;
+  left: 102px;
+  position: relative;
+  top: 0px;
+  width: auto;
+}
+
+.deviceplugindevicepluginactivityhistory .keyscreen-VagrFb {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0;
+  position: relative;
+  width: 64px;
+}
+
+.deviceplugindevicepluginactivityhistory .time-routine-VagrFb {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 94px;
+}
+
+.deviceplugindevicepluginactivityhistory .activity-history-VagrFb {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 94px;
+}
+
+.deviceplugindevicepluginactivityhistory .lnb-device-plug-in-zvxwjV {
+  background-color: transparent;
+  height: 1305px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.deviceplugindevicepluginactivityhistory .rectangle-HI0L1e {
+  background-color: var(--concrete);
+  height: 1305px;
+  width: 320px;
+}
+
+.deviceplugindevicepluginactivityhistory .stacked-group-HI0L1e {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  left: 0px;
+  position: absolute;
+  top: 170px;
+  width: 320px;
+}
+
+.deviceplugindevicepluginactivityhistory .web-index-title-common-sIqYMt {
+  margin: 0;
+}
+
+.deviceplugindevicepluginactivityhistory .group-HuswmC {
+  background-color: transparent;
+  height: 46px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.deviceplugindevicepluginactivityhistory .title-EsIszb {
+  color: var(--shark);
+  height: auto;
+  left: 30px;
+  line-height: 22px;
+  top: 12px;
+  width: auto;
+}
+
+.deviceplugindevicepluginactivityhistory .group-Q0Nt1N {
+  background-color: transparent;
+  height: 46px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.deviceplugindevicepluginactivityhistory .x1-depth-title-G5v4Bw {
+  color: var(--shark);
+  font-weight: 500;
+}
+
+.deviceplugindevicepluginactivityhistory .button-xFdvxm {
+  left: -1px;
+  top: -1px;
+}
+
+.deviceplugindevicepluginactivityhistory .group-YEuURQ {
+  background-color: transparent;
+  height: 46px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.deviceplugindevicepluginactivityhistory .x1-depth-title-9Od5X3 {
+  color: var(--shark);
+  font-weight: 500;
+}
+
+.deviceplugindevicepluginactivityhistory .button-qx4pxl {
+  left: -1px;
+  top: -1px;
+}
+
+.deviceplugindevicepluginactivityhistory .group-ebCndd {
+  background-color: transparent;
+  height: 46px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.deviceplugindevicepluginactivityhistory .x1-depth-title-YFBZuI {
+  color: var(--shark);
+  font-weight: 500;
+}
+
+.deviceplugindevicepluginactivityhistory .button-64JbNi {
+  left: -1px;
+  top: -1px;
+}
+
+.deviceplugindevicepluginactivityhistory .group-JlpxKt {
+  background-color: transparent;
+  height: 46px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.deviceplugindevicepluginactivityhistory .x1-depth-title-xSPLpm {
+  color: var(--shark);
+  font-weight: 500;
+}
+
+.deviceplugindevicepluginactivityhistory .button-f7PUro {
+  left: -1px;
+  top: -1px;
+}
+
+.deviceplugindevicepluginactivityhistory .group-qOQwKX {
+  background-color: transparent;
+  height: 46px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.deviceplugindevicepluginactivityhistory .x1-depth-title-sFduzZ {
+  color: var(--shark);
+  font-weight: 500;
+}
+
+.deviceplugindevicepluginactivityhistory .button-nQk41K {
+  left: -1px;
+  top: -1px;
+}
+
+.deviceplugindevicepluginactivityhistory .group-copy-sIqYMt {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.deviceplugindevicepluginactivityhistory .empty-y8txxK {
+  top: 21px;
+}
+
+.deviceplugindevicepluginactivityhistory .empty-46CwY1 {
+  top: 0px;
+}
+
+.deviceplugindevicepluginactivityhistory .web-index-title-common-copy-sIqYMt {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.deviceplugindevicepluginactivityhistory .group-brJxSh {
+  background-color: transparent;
+  height: 46px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.deviceplugindevicepluginactivityhistory .title-dcIX52 {
+  color: var(--shark);
+  height: auto;
+  left: 30px;
+  line-height: 22px;
+  top: 12px;
+  width: auto;
+}
+
+.deviceplugindevicepluginactivityhistory .web-index-contents1dpeth_open_selected-sIqYMt {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.deviceplugindevicepluginactivityhistory .group-r25np9 {
+  background-color: transparent;
+  height: 46px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.deviceplugindevicepluginactivityhistory .x1-depth-title-GtPokl {
+  color: var(--curious-blue);
+  font-weight: 600;
+}
+
+.deviceplugindevicepluginactivityhistory .web-expanded-r25np9 {
+  background-color: transparent;
+  height: 7px;
+  left: 27px;
+  position: absolute;
+  top: 20px;
+  width: 11px;
+}
+
+.deviceplugindevicepluginactivityhistory .button-VelDDZ {
+  left: 1px;
+  top: -3px;
+  transform: rotate(90deg);
+}
+
+.deviceplugindevicepluginactivityhistory .group-edvTyH {
+  background-color: transparent;
+  height: 46px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 320px;
+}
+
+.deviceplugindevicepluginactivityhistory .x2-death-title-OxTxuO {
+  color: var(--curious-blue);
+  font-weight: 500;
+}
+
+.deviceplugindevicepluginactivityhistory .group-vxRXLA {
+  background-color: transparent;
+  height: 46px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 320px;
+}
+
+.deviceplugindevicepluginactivityhistory .x2-death-title-B53gOz {
+  color: var(--sonic-silver);
+  font-weight: 400;
+}
+
+.deviceplugindevicepluginactivityhistory .group-Ev0c5W {
+  background-color: transparent;
+  height: 46px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 320px;
+}
+
+.deviceplugindevicepluginactivityhistory .x2-death-title-1KVffC {
+  color: var(--sonic-silver);
+  font-weight: 400;
+}
+
+.deviceplugindevicepluginactivityhistory .group-TFvjbR {
+  background-color: transparent;
+  height: 46px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 320px;
+}
+
+.deviceplugindevicepluginactivityhistory .x2-death-title-QDpj1A {
+  color: var(--sonic-silver);
+  font-weight: 400;
+}
+
+.deviceplugindevicepluginactivityhistory .group-xSMSP7 {
+  background-color: transparent;
+  height: 46px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 320px;
+}
+
+.deviceplugindevicepluginactivityhistory .x2-death-title-nJpvql {
+  color: var(--sonic-silver);
+  font-weight: 400;
+}
+
+.deviceplugindevicepluginactivityhistory .group-NAtxq1 {
+  background-color: transparent;
+  height: 46px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 320px;
+}
+
+.deviceplugindevicepluginactivityhistory .x2-death-title-KsWuUj {
+  color: var(--sonic-silver);
+  font-weight: 400;
+}
+
+.deviceplugindevicepluginactivityhistory .group-r3s62c {
+  background-color: transparent;
+  height: 46px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 320px;
+}
+
+.deviceplugindevicepluginactivityhistory .x2-death-title-pJJchl {
+  color: var(--sonic-silver);
+  font-weight: 400;
+}
+
+.deviceplugindevicepluginactivityhistory .group-DXx47d {
+  background-color: transparent;
+  height: 46px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 320px;
+}
+
+.deviceplugindevicepluginactivityhistory .x2-death-title-R3OIED {
+  color: var(--sonic-silver);
+  font-weight: 400;
+}
+
+.deviceplugindevicepluginactivityhistory .group-5MTPyl {
+  background-color: transparent;
+  height: 46px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 320px;
+}
+
+.deviceplugindevicepluginactivityhistory .x2-death-title-g2xGhR {
+  color: var(--sonic-silver);
+  font-weight: 400;
+}
+
+.deviceplugindevicepluginactivityhistory .group-x5fGTi {
+  background-color: transparent;
+  height: 46px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 320px;
+}
+
+.deviceplugindevicepluginactivityhistory .x2-death-title-RNXqQR {
+  color: var(--sonic-silver);
+  font-weight: 400;
+}
+
+.deviceplugindevicepluginactivityhistory .group-JowYm0 {
+  background-color: transparent;
+  height: 46px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 320px;
+}
+
+.deviceplugindevicepluginactivityhistory .x2-death-title-GTwGQ7 {
+  color: var(--sonic-silver);
+  font-weight: 400;
+}
+
+.deviceplugindevicepluginactivityhistory .group-XbKSnB {
+  background-color: transparent;
+  height: 46px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.deviceplugindevicepluginactivityhistory .x1-depth-title-JIAlpi {
+  color: var(--shark);
+  font-weight: 500;
+}
+
+.deviceplugindevicepluginactivityhistory .button-XemfiA {
+  left: -1px;
+  top: -1px;
+}
+
+.deviceplugindevicepluginactivityhistory .group-sIqYMt {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.deviceplugindevicepluginactivityhistory .empty-xs37zE {
+  top: 21px;
+}
+
+.deviceplugindevicepluginactivityhistory .empty-aBXf0p {
+  top: 0px;
+}
+
+.deviceplugindevicepluginactivityhistory .web-index-title-common-kqszCd {
+  margin: 0px 0 0 0;
+}
+
+.deviceplugindevicepluginactivityhistory .group-EIL00V {
+  background-color: transparent;
+  height: 46px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.deviceplugindevicepluginactivityhistory .title-2OFqwX {
+  color: var(--shark);
+  height: auto;
+  left: 30px;
+  line-height: 22px;
+  top: 12px;
+  width: auto;
+}
+
+.deviceplugindevicepluginactivityhistory .group-copy-2-sIqYMt {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.deviceplugindevicepluginactivityhistory .empty-YfHWOc {
+  top: 21px;
+}
+
+.deviceplugindevicepluginactivityhistory .empty-2Zs3ug {
+  top: 0px;
+}
+
+.deviceplugindevicepluginactivityhistory .web-index-title-common-copy-2-sIqYMt {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.deviceplugindevicepluginactivityhistory .group-XtxCM2 {
+  background-color: transparent;
+  height: 46px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.deviceplugindevicepluginactivityhistory .title-ZfOFMr {
+  color: var(--shark);
+  height: auto;
+  left: 30px;
+  line-height: 22px;
+  top: 12px;
+  width: auto;
+}
+
+.deviceplugindevicepluginactivityhistory .line-HI0L1e {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 154px;
+  width: 275px;
+}
+
+.deviceplugindevicepluginactivityhistory .home-net-gui-guidelin-HI0L1e {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 24px;
+  position: absolute;
+  top: 100px;
+  width: 212px;
+}
+
+.deviceplugindevicepluginactivityhistory .webgnb-zvxwjV {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: fixed;
+  top: 0px;
+  width: 1920px;
+}
+
+.deviceplugindevicepluginactivityhistory .rectangle-YJxbIm {
+  background-color: var(--shark);
+  height: 64px;
+  width: 1920px;
+}
+
+.deviceplugindevicepluginactivityhistory .background-YJxbIm {
+  background-color: var(--shark);
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.deviceplugindevicepluginactivityhistory .index-YJxbIm {
+  background-color: transparent;
+  height: 28px;
+  left: 427px;
+  position: absolute;
+  top: 21px;
+  width: 117px;
+}
+
+.deviceplugindevicepluginactivityhistory .web-index-select-IVRWxy {
+  background-color: transparent;
+  cursor: pointer;
+  height: 22px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 17px;
+}
+
+.deviceplugindevicepluginactivityhistory .web-index-unselect-IVRWxy {
+  background-color: transparent;
+  cursor: pointer;
+  height: 28px;
+  left: 85px;
+  position: absolute;
+  top: 0px;
+  width: 32px;
+}
+
+.deviceplugindevicepluginactivityhistory .web-index-unelect_main-YJxbIm {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 18px;
+  position: absolute;
+  top: 20px;
+  width: 293px;
+}
+
+.deviceplugindevicepluginactivityhistory .logo-XI5xj2 {
+  background-color: transparent;
+  height: 24px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 293px;
+}
+
+.deviceplugindevicepluginactivityhistory .contents {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 11px;
+  white-space: nowrap;
+}
+
+.deviceplugindevicepluginactivityhistory .table-guide-text1line {
+  background-color: transparent;
+  height: 31px;
+  position: absolute;
+  top: 0px;
+}
+
+.deviceplugindevicepluginactivityhistory .title {
+  background-color: transparent;
+  font-style: normal;
+  font-weight: 600;
+  letter-spacing: 0.00px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+}
+
+.deviceplugindevicepluginactivityhistory .x2-death-title {
+  background-color: transparent;
+  font-style: normal;
+  height: 46px;
+  left: 70px;
+  letter-spacing: 0.00px;
+  line-height: 17px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 252px;
+}

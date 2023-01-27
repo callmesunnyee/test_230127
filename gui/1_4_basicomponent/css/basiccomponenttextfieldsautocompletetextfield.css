@@ -1,0 +1,1502 @@
+/* screen - basiccomponenttextfieldsautocompletetextfield */
+
+.basiccomponenttextfieldsautocompletetextfield {
+  background-color: var(--white);
+  height: 2023px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .group-10-s1Wubr {
+  background-color: transparent;
+  height: 516px;
+  left: 365px;
+  position: absolute;
+  top: 342px;
+  width: 1455px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .group-9-asDriO {
+  background-color: transparent;
+  height: 516px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 725px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .group-copy-asDriO {
+  background-color: transparent;
+  height: 115px;
+  left: 775px;
+  position: absolute;
+  top: 0px;
+  width: 680px;
+}
+
+.tableguidetext1line172 {
+  background-color: transparent;
+  height: 52.54%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 7.35%;
+}
+
+.tableguidetext1line172 .rectangle-spcwjj {
+  background-color: #000000;
+  height: 1px;
+  left: 0px;
+  opacity: 0.08;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.tableguidetext1line172 .contents-spcwjj {
+  background-color: transparent;
+  color: #000000;
+  font-family: 'SamsungOneKorean-400', Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 11px;
+  white-space: nowrap;
+  width: 38px;
+}
+
+.tableguidetext1line173 {
+  background-color: transparent;
+  height: 52.54%;
+  opacity: 1;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 39.71%;
+}
+
+.tableguidetext1line173 .rectangle-v8lrcc {
+  background-color: #000000;
+  height: 1px;
+  left: 0px;
+  opacity: 0.08;
+  position: absolute;
+  top: 0px;
+  width: 270px;
+}
+
+.tableguidetext1line173 .contents-v8lrcc {
+  background-color: transparent;
+  color: #000000;
+  font-family: 'SamsungOneKorean-400', Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 11px;
+  white-space: nowrap;
+  width: 258px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .table-guide-text2line_m-DI48Jv {
+  background-color: transparent;
+  height: 53px;
+  left: 60px;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .rectangle-1xYx5U {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 340px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .group-1xYx5U {
+  background-color: transparent;
+  height: 42px;
+  left: 6px;
+  position: absolute;
+  top: 11px;
+  width: 328px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .content-9LA9KE {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 22px;
+  white-space: nowrap;
+  width: 328px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .title-9LA9KE {
+  background-color: transparent;
+  color: var(--persian-green);
+  font-style: normal;
+  font-weight: 600;
+  height: 20px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: 328px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .table-guide-title-tsvHGX {
+  left: 410px;
+  width: 270px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .rectangle-W160Y2 {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 270px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .table-title-text-W160Y2 {
+  width: 258px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .table-guide-title-GIEBa7 {
+  left: 60px;
+  width: 340px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .rectangle-Hp6HSc {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 340px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .table-title-text-Hp6HSc {
+  width: 328px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .table-guide-title-hC0ZGo {
+  left: 0px;
+  width: 50px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .rectangle-MxIkIE {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 50px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .table-title-text-MxIkIE {
+  width: 38px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .group-3-copy-10-asDriO {
+  background-color: transparent;
+  height: 194px;
+  left: 775px;
+  position: absolute;
+  top: 215px;
+  width: 680px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .styletabletop-gctAAR {
+  background-color: transparent;
+  height: 38px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 680px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .table-guide-title-D3AdNt {
+  left: 552px;
+  width: 128px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .rectangle-UKCS39 {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 128px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .table-title-text-UKCS39 {
+  width: 116px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .table-guide-title-5xUN1B {
+  left: 60px;
+  width: 166px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .rectangle-zbDmhE {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 166px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .table-title-text-zbDmhE {
+  width: 154px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .table-guide-title-copy-D3AdNt {
+  background-color: transparent;
+  height: 38px;
+  left: 236px;
+  position: absolute;
+  top: 0px;
+  width: 106px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .rectangle-tMQTl3 {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 106px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .table-title-text-tMQTl3 {
+  width: 94px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .table-guide-title-copy-2-D3AdNt {
+  background-color: transparent;
+  height: 38px;
+  left: 352px;
+  position: absolute;
+  top: 0px;
+  width: 190px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .rectangle-qR5PsL {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 190px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .table-title-text-qR5PsL {
+  width: 178px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .table-guide-title-eOnm26 {
+  left: 0px;
+  width: 50px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .rectangle-Oa2zpm {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 50px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .table-title-text-Oa2zpm {
+  width: 38px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .group-5-gctAAR {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 56px;
+  width: 680px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .table-guide-text1line-MDn0qr {
+  left: 552px;
+  width: 128px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .rectangle-ov1xDF {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 128px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .contents-ov1xDF {
+  width: 116px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .table-guide-text1line-N8hh9n {
+  left: 60px;
+  width: 166px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .rectangle-vg5xZe {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 166px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .contents-vg5xZe {
+  width: 154px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .table-guide-text1line-r2WSHh {
+  left: 236px;
+  width: 100px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .rectangle-xuKkAN {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 100px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .contents-xuKkAN {
+  width: 88px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .rectangle-o78XuV {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 196px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .contents-o78XuV {
+  width: 184px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .table-guide-text1line-cmddNL {
+  left: 0px;
+  width: 50px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .rectangle-AqvieS {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 50px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .contents-AqvieS {
+  width: 38px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .group-5-copy-2-gctAAR {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 130px;
+  width: 680px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .table-guide-text1line-AuPunP {
+  left: 552px;
+  width: 128px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .rectangle-Vd99Cq {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 128px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .contents-Vd99Cq {
+  width: 116px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .table-guide-text1line-U5h1RW {
+  left: 60px;
+  width: 166px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .rectangle-nNJZWT {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 166px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .contents-nNJZWT {
+  width: 154px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .table-guide-text1line-RB9GYB {
+  left: 236px;
+  width: 100px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .rectangle-mnjQAk {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 100px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .contents-mnjQAk {
+  width: 88px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .rectangle-6wIwav {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 196px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .contents-6wIwav {
+  width: 184px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .table-guide-text1line-xvJEI2 {
+  left: 0px;
+  width: 50px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .rectangle-DfA8SV {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 50px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .contents-DfA8SV {
+  width: 38px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .group-11-s1Wubr {
+  background-color: transparent;
+  height: 816px;
+  left: 401px;
+  position: absolute;
+  top: 1007px;
+  width: 1419px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .group-4-PbyInJ {
+  background-color: transparent;
+  height: 816px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 689px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .group-copy-3-PbyInJ {
+  background-color: transparent;
+  height: 182px;
+  left: 739px;
+  position: absolute;
+  top: 0px;
+  width: 680px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .group-2-copy-3-YScXW4 {
+  background-color: transparent;
+  height: 57px;
+  left: 0px;
+  position: absolute;
+  top: 125px;
+  width: 680px;
+}
+
+.tableguidetext1line174 {
+  background-color: transparent;
+  height: 54.39%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 7.35%;
+}
+
+.tableguidetext1line174 .rectangle-kyAmsR {
+  background-color: #000000;
+  height: 1px;
+  left: 0px;
+  opacity: 0.08;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.tableguidetext1line174 .contents-kyAmsR {
+  background-color: transparent;
+  color: #000000;
+  font-family: 'SamsungOneKorean-400', Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 11px;
+  white-space: nowrap;
+  width: 38px;
+}
+
+.tableguidetext1line175 {
+  background-color: transparent;
+  height: 54.39%;
+  opacity: 1;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 39.71%;
+}
+
+.tableguidetext1line175 .rectangle-UXdMSZ {
+  background-color: #000000;
+  height: 1px;
+  left: 0px;
+  opacity: 0.08;
+  position: absolute;
+  top: 0px;
+  width: 270px;
+}
+
+.tableguidetext1line175 .contents-UXdMSZ {
+  background-color: transparent;
+  color: #000000;
+  font-family: 'SamsungOneKorean-400', Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 11px;
+  white-space: nowrap;
+  width: 258px;
+}
+
+.tableguidetext2linem68 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 89.47%;
+  left: 8.82%;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 50.00%;
+}
+
+.tableguidetext2linem68 .rectangle-YwtzVr {
+  background-color: #000000;
+  height: 1px;
+  left: 0px;
+  opacity: 0.08;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.tableguidetext2linem68 .contents-YwtzVr {
+  background-color: transparent;
+  color: #0070c0;
+  font-family: 'SamsungOneKorean-400', Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  height: 40px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  top: 11px;
+  width: 328px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .table-guide-title-umXK0x {
+  left: 410px;
+  width: 270px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .rectangle-pOXwEx {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 270px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .table-title-text-pOXwEx {
+  width: 258px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .table-guide-title-cQui8Q {
+  left: 60px;
+  width: 340px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .rectangle-2d2TZQ {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 340px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .table-title-text-2d2TZQ {
+  width: 328px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .table-guide-title-SBc6Gv {
+  left: 0px;
+  width: 50px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .rectangle-ihZfhm {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 50px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .table-title-text-ihZfhm {
+  width: 38px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .web-sub_-title-s1Wubr {
+  background-color: transparent;
+  height: 57px;
+  left: 320px;
+  position: absolute;
+  top: 284px;
+  width: 363px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .sub-title-FhzQKC {
+  background-color: transparent;
+  font-weight: 700;
+  height: auto;
+  left: 100px;
+  letter-spacing: 0.00px;
+  line-height: 28px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .web-title-area-s1Wubr {
+  background-color: transparent;
+  height: 170px;
+  left: 320px;
+  position: fixed;
+  top: 64px;
+  width: 1600px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .web-tab-service-feature_-basic-layout-s1Wubr {
+  background-color: transparent;
+  height: 47px;
+  left: 320px;
+  position: fixed;
+  top: 187px;
+  width: 1600px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .x3rd-depth-3Ki6b9 {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1600px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .tab-3Ki6b9 {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  height: 17px;
+  justify-content: flex-start;
+  left: 100px;
+  position: absolute;
+  top: 0px;
+  width: auto;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .basic-BnSuPx {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0;
+  position: relative;
+  width: 31px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .auto_complete-text-f-BnSuPx {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 155px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .states-BnSuPx {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 37px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .lnb-favorite-card-s1Wubr {
+  background-color: transparent;
+  height: 1581px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .rectangle-ebm9EB {
+  background-color: var(--concrete);
+  height: 1581px;
+  width: 320px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .background-ebm9EB {
+  background-color: var(--concrete);
+  height: 1039px;
+  width: 320px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .stacked-group-ebm9EB {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  left: 0px;
+  position: absolute;
+  top: 170px;
+  width: 320px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .web-index-title-common-oxU8fA {
+  margin: 0;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .web-index-contents2dpeth-copy-2-oxU8fA {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .group-Ovg8qj {
+  background-color: transparent;
+  height: 46px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 320px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .x2-death-title-NVBPBY {
+  color: var(--sonic-silver);
+  font-weight: 400;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .web-index-contents2dpeth-copy-14-oxU8fA {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .group-xb5SnA {
+  background-color: transparent;
+  height: 46px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 320px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .x2-death-title-CAQweS {
+  color: var(--sonic-silver);
+  font-weight: 400;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .web-index-contents2dpeth-copy-10-oxU8fA {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .group-JG2JDB {
+  background-color: transparent;
+  height: 46px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 320px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .x2-death-title-uUBWmu {
+  color: var(--sonic-silver);
+  font-weight: 400;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .web-index-contents2dpeth-copy-6-oxU8fA {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .group-J6uj3P {
+  background-color: transparent;
+  height: 46px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 320px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .x2-death-title-wufbTz {
+  color: var(--sonic-silver);
+  font-weight: 400;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .web-index-contents2dpeth-copy-11-oxU8fA {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .group-5m73oS {
+  background-color: transparent;
+  height: 46px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 320px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .x2-death-title-dBxk3S {
+  color: var(--sonic-silver);
+  font-weight: 400;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .web-index-contents2dpeth-copy-oxU8fA {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .group-xQNVTn {
+  background-color: transparent;
+  height: 46px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 320px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .x2-death-title-V6eNM1 {
+  color: var(--sonic-silver);
+  font-weight: 400;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .web-index-contents2dpeth-copy-7-oxU8fA {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .group-4PZe4Z {
+  background-color: transparent;
+  height: 46px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 320px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .x2-death-title-CKPTmz {
+  color: var(--sonic-silver);
+  font-weight: 400;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .web-index-contents2dpeth-copy-4-oxU8fA {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .group-WxEXMD {
+  background-color: transparent;
+  height: 46px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 320px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .x2-death-title-ta21hS {
+  color: var(--sonic-silver);
+  font-weight: 400;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .web-index-contents2dpeth-copy-8-oxU8fA {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .group-Wf191Y {
+  background-color: transparent;
+  height: 46px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 320px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .x2-death-title-Tv4NuB {
+  color: var(--sonic-silver);
+  font-weight: 400;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .group-Afo6TG {
+  background-color: transparent;
+  height: 46px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 320px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .x2-death-title-86LHt8 {
+  color: var(--sonic-silver);
+  font-weight: 400;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .web-index-contents2dpeth-copy-9-oxU8fA {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .group-kz61B7 {
+  background-color: transparent;
+  height: 46px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 320px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .x2-death-title-GVFAHE {
+  color: var(--sonic-silver);
+  font-weight: 400;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .web-index-contents2dpeth-copy-5-oxU8fA {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .group-kDQ26m {
+  background-color: transparent;
+  height: 46px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 320px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .x2-death-title-4K8pCN {
+  color: var(--sonic-silver);
+  font-weight: 400;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .group-ZNI68t {
+  background-color: transparent;
+  height: 46px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 320px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .x2-death-title-dp61lS {
+  color: var(--sonic-silver);
+  font-weight: 400;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .web-index-contents2dpeth-copy-3-oxU8fA {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .group-Ei9oEJ {
+  background-color: transparent;
+  height: 46px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 320px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .x2-death-title-l4NTyH {
+  color: var(--sonic-silver);
+  font-weight: 400;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .web-index-contents2dpeth-copy-12-oxU8fA {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .group-KTmVTz {
+  background-color: transparent;
+  height: 46px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 320px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .x2-death-title-Cd6EzF {
+  color: var(--curious-blue);
+  font-weight: 500;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .web-index-contents2dpeth-copy-15-oxU8fA {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .group-L8Ox1l {
+  background-color: transparent;
+  height: 46px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 320px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .x2-death-title-DkymPF {
+  color: var(--sonic-silver);
+  font-weight: 400;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .web-index-contents2dpeth-copy-13-oxU8fA {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .group-yRxNfp {
+  background-color: transparent;
+  height: 46px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 320px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .x2-death-title-qkSAL5 {
+  color: var(--sonic-silver);
+  font-weight: 400;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .web-index-contents1dpeth_open_selected-oxU8fA {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .group-copy-oxU8fA {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .empty-gLwkZB {
+  top: 21px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .empty-Gi9Bhi {
+  top: 0px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .web-index-title-common-copy-oxU8fA {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .group-oxU8fA {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .empty-O235ED {
+  top: 21px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .empty-Ghix6O {
+  top: 0px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .web-index-title-common-3hz1O1 {
+  margin: 0px 0 0 0;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .group-copy-2-oxU8fA {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .empty-5itubA {
+  top: 21px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .empty-6LilPQ {
+  top: 0px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .web-index-title-common-copy-2-oxU8fA {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .line-ebm9EB {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 154px;
+  width: 275px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .home-net-gui-guidelin-ebm9EB {
+  background-color: transparent;
+  cursor: pointer;
+  font-weight: 700;
+  height: auto;
+  left: 24px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: left;
+  top: 100px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .webgnb-s1Wubr {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: fixed;
+  top: 0px;
+  width: 1920px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .rectangle-q1DcgU {
+  background-color: var(--shark);
+  height: 64px;
+  width: 1920px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .background-q1DcgU {
+  background-color: var(--shark);
+  height: 64px;
+  width: 1920px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .index-q1DcgU {
+  background-color: transparent;
+  height: 22px;
+  left: 427px;
+  position: absolute;
+  top: 21px;
+  width: 116px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .web-index-select-V1JPov {
+  background-color: transparent;
+  cursor: pointer;
+  height: 22px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 17px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .web-index-unselect-V1JPov {
+  background-color: transparent;
+  cursor: pointer;
+  height: 22px;
+  left: 87px;
+  position: absolute;
+  top: 0px;
+  width: 29px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .web-index-unelect_main-q1DcgU {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 18px;
+  position: absolute;
+  top: 20px;
+  width: 293px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .logo-YXYc6T {
+  background-color: transparent;
+  height: 24px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 293px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .contents {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 11px;
+  white-space: nowrap;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .contents-copy {
+  background-color: transparent;
+  color: var(--fuscous-gray);
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 33px;
+  white-space: nowrap;
+  width: 184px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .group-12-copy {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 680px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .group-2-copy-2 {
+  background-color: transparent;
+  height: 59px;
+  left: 0px;
+  position: absolute;
+  top: 56px;
+  width: 680px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .group-3 {
+  background-color: transparent;
+  height: 56px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 680px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .styletable1line_-color-copy-2 {
+  background-color: transparent;
+  height: 53px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 680px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .table-guide-text1line {
+  background-color: transparent;
+  height: 31px;
+  position: absolute;
+  top: 0px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .table-guide-text2line {
+  background-color: transparent;
+  height: 53px;
+  left: 346px;
+  position: absolute;
+  top: 0px;
+  width: 196px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .table-title-text {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 700;
+  height: 22px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 16px;
+  white-space: nowrap;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .web-index-contents1dpeth_close {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .web-index-title-common {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponenttextfieldsautocompletetextfield .x2-death-title {
+  background-color: transparent;
+  font-style: normal;
+  height: 46px;
+  left: 70px;
+  letter-spacing: 0.00px;
+  line-height: 17px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 252px;
+}

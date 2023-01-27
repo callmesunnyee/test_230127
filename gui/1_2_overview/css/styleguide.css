@@ -1,0 +1,108 @@
+:root { 
+  --black: #000000;
+  --concrete: #f2f2f2;
+  --curious-blue: #3695dd;
+  --shark: #252525;
+  --sonic-silver: #717171;
+  --white: #ffffff;
+ 
+  --font-size-l: 16px;
+  --font-size-m: 14px;
+  --font-size-xl: 18px;
+  --font-size-xxl: 20px;
+  --font-size-xxxl: 21px;
+  --font-size-xxxxl: 24px;
+ 
+  --font-family-applesdgothicneo-medium: "AppleSDGothicNeo-Medium", Helvetica;
+  --font-family-helvetica: "Helvetica", Helvetica;
+  --font-family-samsungone-400: "SamsungOne-400", Helvetica;
+  --font-family-samsungone-500: "SamsungOne-500", Helvetica;
+  --font-family-samsungone-600: "SamsungOne-600", Helvetica;
+  --font-family-samsungone-700: "SamsungOne-700", Helvetica;
+  --font-family-samsungonekorean-400: "SamsungOneKorean-400", Helvetica;
+  --font-family-samsungonekorean-600: "SamsungOneKorean-600", Helvetica;
+  --font-family-samsungonekorean-700: "SamsungOneKorean-700", Helvetica;
+}
+.tableguidepoint {
+  font-family: var(--font-family-samsungonekorean-400);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.tableguidetextblue {
+  font-family: var(--font-family-samsungonekorean-600);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 600;
+}
+
+.x2nd-menudefault {
+  font-family: var(--font-family-samsungone-500);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.tableguidetitle {
+  font-family: var(--font-family-samsungonekorean-700);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.x1st-menudefault {
+  font-family: var(--font-family-samsungone-600);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 600;
+}
+
+.x2nd-menudisabled {
+  font-family: var(--font-family-samsungone-400);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.tap-selected {
+  font-family: var(--font-family-samsungone-600);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 600;
+}
+
+.samsungonekorean-700-bold-curious-blue-24px {
+  color: var(--curious-blue);
+  font-family: var(--font-family-samsungonekorean-700);
+  font-size: var(--font-size-xxxxl);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.samsungone-700-bold-black-24px {
+  color: var(--black);
+  font-family: var(--font-family-samsungone-700);
+  font-size: var(--font-size-xxxxl);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.helvetica-normal-curious-blue-14px {
+  color: var(--curious-blue);
+  font-family: var(--font-family-helvetica);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.samsungonekorean-400-normal-white-20px {
+  color: var(--white);
+  font-family: var(--font-family-samsungonekorean-400);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 400;
+}
+
+:root {
+}

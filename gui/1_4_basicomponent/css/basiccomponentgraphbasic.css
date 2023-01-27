@@ -1,0 +1,5205 @@
+/* screen - basiccomponentgraphbasic */
+
+.basiccomponentgraphbasic {
+  background-color: var(--white);
+  height: 5339px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.basiccomponentgraphbasic .group-27-RZvP4B {
+  background-color: transparent;
+  height: 477px;
+  left: 400px;
+  position: absolute;
+  top: 342px;
+  width: 1420px;
+}
+
+.basiccomponentgraphbasic .group-5W0Wvp {
+  background-color: transparent;
+  height: 477px;
+  left: 740px;
+  position: absolute;
+  top: 0px;
+  width: 680px;
+}
+
+.basiccomponentgraphbasic .group-2-copy-2-rDybUF {
+  height: 247px;
+}
+
+.tableguidetext1line94 {
+  background-color: transparent;
+  height: 12.55%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 7.35%;
+}
+
+.tableguidetext1line94 .rectangle-bZmtsz {
+  background-color: #000000;
+  height: 1px;
+  left: 0px;
+  opacity: 0.08;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.tableguidetext1line94 .contents-bZmtsz {
+  background-color: transparent;
+  color: #000000;
+  font-family: 'SamsungOneKorean-400', Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 11px;
+  white-space: nowrap;
+  width: 38px;
+}
+
+.basiccomponentgraphbasic .table-guide-text1line-copy-RPQZqX {
+  background-color: transparent;
+  height: 241px;
+  left: 410px;
+  position: absolute;
+  top: 0px;
+  width: 270px;
+}
+
+.basiccomponentgraphbasic .rectangle-CpzPA9 {
+  background-color: var(--black);
+  height: 1px;
+  left: 0px;
+  opacity: 0.08;
+  position: absolute;
+  top: 0px;
+  width: 270px;
+}
+
+.basiccomponentgraphbasic .group-CpzPA9 {
+  background-color: transparent;
+  height: 230px;
+  left: 6px;
+  position: absolute;
+  top: 11px;
+  width: 258px;
+}
+
+.basiccomponentgraphbasic .content-AT7txP {
+  color: var(--fuscous-gray);
+  height: 60px;
+  top: 62px;
+  width: 258px;
+}
+
+.basiccomponentgraphbasic .content-7NS2yQ {
+  color: var(--black);
+  height: 40px;
+  top: 124px;
+  width: 258px;
+}
+
+.basiccomponentgraphbasic .content-copy-AT7txP {
+  top: 166px;
+}
+
+.basiccomponentgraphbasic .content-copy-3-AT7txP {
+  color: var(--rose);
+  top: 210px;
+}
+
+.basiccomponentgraphbasic .content-copy-2-AT7txP {
+  height: 20px;
+  top: 188px;
+  white-space: nowrap;
+}
+
+.basiccomponentgraphbasic .title-AT7txP {
+  color: var(--science-blue);
+  font-weight: 600;
+  height: 60px;
+  width: 258px;
+}
+
+.basiccomponentgraphbasic .rectangle-kPQ04S {
+  background-color: var(--black);
+  height: 1px;
+  left: 0px;
+  opacity: 0.08;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.basiccomponentgraphbasic .group-kPQ04S {
+  background-color: transparent;
+  height: 42px;
+  left: 6px;
+  position: absolute;
+  top: 11px;
+  width: 328px;
+}
+
+.basiccomponentgraphbasic .content-AHSjx8 {
+  color: var(--black);
+  height: 20px;
+  top: 22px;
+  white-space: nowrap;
+  width: 328px;
+}
+
+.basiccomponentgraphbasic .title-AHSjx8 {
+  color: var(--persian-green);
+  font-weight: 600;
+  height: 20px;
+  white-space: nowrap;
+  width: 328px;
+}
+
+.basiccomponentgraphbasic .group-2-copy-3-rDybUF {
+  height: 77px;
+  top: 313px;
+}
+
+.tableguidetext1line95 {
+  background-color: transparent;
+  height: 40.26%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 7.35%;
+}
+
+.tableguidetext1line95 .rectangle-ZhwWKx {
+  background-color: #000000;
+  height: 1px;
+  left: 0px;
+  opacity: 0.08;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.tableguidetext1line95 .contents-ZhwWKx {
+  background-color: transparent;
+  color: #000000;
+  font-family: 'SamsungOneKorean-400', Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 11px;
+  white-space: nowrap;
+  width: 38px;
+}
+
+.tableguidetext1line162 {
+  background-color: transparent;
+  height: 92.21%;
+  opacity: 1;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 39.71%;
+}
+
+.tableguidetext1line162 .rectangle-LwQR8y {
+  background-color: #000000;
+  height: 1px;
+  left: 0px;
+  opacity: 0.08;
+  position: absolute;
+  top: 0px;
+  width: 270px;
+}
+
+.tableguidetext1line162 .contents-LwQR8y {
+  background-color: transparent;
+  color: #000000;
+  font-family: 'SamsungOneKorean-400', Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  height: 60px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 11px;
+  width: 258px;
+}
+
+.tableguidetext2linem57 {
+  background-color: transparent;
+  height: 40.26%;
+  left: 8.82%;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 50.00%;
+}
+
+.tableguidetext2linem57 .rectangle-K6Twxg {
+  background-color: #000000;
+  height: 1px;
+  left: 0px;
+  opacity: 0.08;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.tableguidetext2linem57 .contents-K6Twxg {
+  background-color: transparent;
+  color: #000000;
+  font-family: 'SamsungOneKorean-400', Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 11px;
+  white-space: nowrap;
+  width: 328px;
+}
+
+.basiccomponentgraphbasic .group-2-copy-4-rDybUF {
+  background-color: transparent;
+  height: 77px;
+  left: 0px;
+  position: absolute;
+  top: 400px;
+  width: 680px;
+}
+
+.tableguidetext1line96 {
+  background-color: transparent;
+  height: 40.26%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 7.35%;
+}
+
+.tableguidetext1line96 .rectangle-FbjwKs {
+  background-color: #000000;
+  height: 1px;
+  left: 0px;
+  opacity: 0.08;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.tableguidetext1line96 .contents-FbjwKs {
+  background-color: transparent;
+  color: #000000;
+  font-family: 'SamsungOneKorean-400', Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 11px;
+  white-space: nowrap;
+  width: 38px;
+}
+
+.tableguidetext1line163 {
+  background-color: transparent;
+  height: 92.21%;
+  opacity: 1;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 39.71%;
+}
+
+.tableguidetext1line163 .rectangle-lObxju {
+  background-color: #000000;
+  height: 1px;
+  left: 0px;
+  opacity: 0.08;
+  position: absolute;
+  top: 0px;
+  width: 270px;
+}
+
+.tableguidetext1line163 .contents-lObxju {
+  background-color: transparent;
+  color: #000000;
+  font-family: 'SamsungOneKorean-400', Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  height: 60px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 11px;
+  width: 258px;
+}
+
+.tableguidetext2linem58 {
+  background-color: transparent;
+  height: 40.26%;
+  left: 8.82%;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 50.00%;
+}
+
+.tableguidetext2linem58 .rectangle-wiu1rP {
+  background-color: #000000;
+  height: 1px;
+  left: 0px;
+  opacity: 0.08;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.tableguidetext2linem58 .contents-wiu1rP {
+  background-color: transparent;
+  color: #000000;
+  font-family: 'SamsungOneKorean-400', Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 11px;
+  white-space: nowrap;
+  width: 328px;
+}
+
+.basiccomponentgraphbasic .group-3-rDybUF {
+  height: 56px;
+  left: 0px;
+  width: 680px;
+}
+
+.basiccomponentgraphbasic .table-guide-title-xTQadv {
+  left: 410px;
+  width: 270px;
+}
+
+.basiccomponentgraphbasic .rectangle-xxAk0m {
+  background-color: var(--black);
+  height: 1px;
+  left: 0px;
+  opacity: 0.3;
+  position: absolute;
+  top: 0px;
+  width: 270px;
+}
+
+.basiccomponentgraphbasic .table-title-text-xxAk0m {
+  width: 258px;
+}
+
+.basiccomponentgraphbasic .table-guide-title-qqxE2S {
+  left: 60px;
+  width: 340px;
+}
+
+.basiccomponentgraphbasic .rectangle-cUiAN0 {
+  background-color: var(--black);
+  height: 1px;
+  left: 0px;
+  opacity: 0.3;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.basiccomponentgraphbasic .table-title-text-cUiAN0 {
+  width: 328px;
+}
+
+.basiccomponentgraphbasic .table-guide-title-EKX2JV {
+  left: 0px;
+  width: 50px;
+}
+
+.basiccomponentgraphbasic .rectangle-4HVie0 {
+  background-color: var(--black);
+  height: 1px;
+  left: 0px;
+  opacity: 0.3;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.basiccomponentgraphbasic .table-title-text-4HVie0 {
+  width: 38px;
+}
+
+.basiccomponentgraphbasic .group-10-5W0Wvp {
+  background-color: transparent;
+  height: 350px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 690px;
+}
+
+.basiccomponentgraphbasic .group-26-RZvP4B {
+  background-color: transparent;
+  height: 571px;
+  left: 363px;
+  position: absolute;
+  top: 969px;
+  width: 1457px;
+}
+
+.basiccomponentgraphbasic .group-11-sQCvwp {
+  background-color: transparent;
+  height: 510px;
+  left: 777px;
+  position: absolute;
+  top: 0px;
+  width: 680px;
+}
+
+.basiccomponentgraphbasic .group-copy-Cqx2Ce {
+  background-color: transparent;
+  height: 317px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 680px;
+}
+
+.basiccomponentgraphbasic .group-2-copy-2-f9Lbcd {
+  height: 187px;
+}
+
+.tableguidetext1line97 {
+  background-color: transparent;
+  height: 16.58%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 7.35%;
+}
+
+.tableguidetext1line97 .rectangle-Gz43AR {
+  background-color: #000000;
+  height: 1px;
+  left: 0px;
+  opacity: 0.08;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.tableguidetext1line97 .contents-Gz43AR {
+  background-color: transparent;
+  color: #000000;
+  font-family: 'SamsungOneKorean-400', Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 11px;
+  white-space: nowrap;
+  width: 38px;
+}
+
+.basiccomponentgraphbasic .rectangle-n2L3a4 {
+  background-color: var(--black);
+  height: 1px;
+  left: 0px;
+  opacity: 0.08;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.basiccomponentgraphbasic .group-n2L3a4 {
+  background-color: transparent;
+  height: 42px;
+  left: 6px;
+  position: absolute;
+  top: 11px;
+  width: 328px;
+}
+
+.basiccomponentgraphbasic .content-zQD3R8 {
+  color: var(--black);
+  height: 20px;
+  top: 22px;
+  white-space: nowrap;
+  width: 328px;
+}
+
+.basiccomponentgraphbasic .title-zQD3R8 {
+  color: var(--persian-green);
+  font-weight: 600;
+  height: 20px;
+  white-space: nowrap;
+  width: 328px;
+}
+
+.basiccomponentgraphbasic .table-guide-text1line-copy-2-fNZu6B {
+  background-color: transparent;
+  height: 181px;
+  left: 410px;
+  position: absolute;
+  top: 0px;
+  width: 270px;
+}
+
+.basiccomponentgraphbasic .rectangle-wgAxW8 {
+  background-color: var(--black);
+  height: 1px;
+  left: 0px;
+  opacity: 0.08;
+  position: absolute;
+  top: 0px;
+  width: 270px;
+}
+
+.basiccomponentgraphbasic .group-wgAxW8 {
+  background-color: transparent;
+  height: 170px;
+  left: 6px;
+  position: absolute;
+  top: 11px;
+  width: 258px;
+}
+
+.basiccomponentgraphbasic .content-KoiwxZ {
+  color: var(--black);
+  height: 40px;
+  top: 22px;
+  width: 258px;
+}
+
+.basiccomponentgraphbasic .content-2CymRo {
+  color: var(--fuscous-gray);
+  height: 20px;
+  top: 64px;
+  white-space: nowrap;
+  width: 258px;
+}
+
+.basiccomponentgraphbasic .content-copy-KoiwxZ {
+  top: 86px;
+}
+
+.basiccomponentgraphbasic .content-copy-3-KoiwxZ {
+  color: var(--fuscous-gray);
+  top: 150px;
+}
+
+.basiccomponentgraphbasic .content-copy-2-KoiwxZ {
+  height: 40px;
+  top: 108px;
+}
+
+.basiccomponentgraphbasic .title-KoiwxZ {
+  color: var(--science-blue);
+  font-weight: 600;
+  height: 20px;
+  white-space: nowrap;
+  width: 258px;
+}
+
+.basiccomponentgraphbasic .group-2-copy-3-f9Lbcd {
+  height: 64px;
+  top: 253px;
+}
+
+.tableguidetext1line98 {
+  background-color: transparent;
+  height: 48.44%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 7.35%;
+}
+
+.tableguidetext1line98 .rectangle-EHw2Hf {
+  background-color: #000000;
+  height: 1px;
+  left: 0px;
+  opacity: 0.08;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.tableguidetext1line98 .contents-EHw2Hf {
+  background-color: transparent;
+  color: #000000;
+  font-family: 'SamsungOneKorean-400', Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 11px;
+  white-space: nowrap;
+  width: 38px;
+}
+
+.tableguidetext1line164 {
+  background-color: transparent;
+  height: 48.44%;
+  opacity: 1;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 39.71%;
+}
+
+.tableguidetext1line164 .rectangle-4M89GS {
+  background-color: #000000;
+  height: 1px;
+  left: 0px;
+  opacity: 0.08;
+  position: absolute;
+  top: 0px;
+  width: 270px;
+}
+
+.tableguidetext1line164 .contents-4M89GS {
+  background-color: transparent;
+  color: #000000;
+  font-family: 'SamsungOneKorean-400', Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 11px;
+  white-space: nowrap;
+  width: 258px;
+}
+
+.basiccomponentgraphbasic .rectangle-6Bgb2q {
+  background-color: var(--black);
+  height: 1px;
+  left: 0px;
+  opacity: 0.08;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.basiccomponentgraphbasic .contents-6Bgb2q {
+  color: var(--persian-green);
+  font-weight: 600;
+  height: 20px;
+  white-space: nowrap;
+  width: 328px;
+}
+
+.basiccomponentgraphbasic .contents-copy-6Bgb2q {
+  color: var(--black);
+  top: 33px;
+  width: 328px;
+}
+
+.basiccomponentgraphbasic .group-3-f9Lbcd {
+  height: 56px;
+  left: 0px;
+  width: 680px;
+}
+
+.basiccomponentgraphbasic .table-guide-title-3WF3pQ {
+  left: 410px;
+  width: 270px;
+}
+
+.basiccomponentgraphbasic .rectangle-wgWWjg {
+  background-color: var(--black);
+  height: 1px;
+  left: 0px;
+  opacity: 0.3;
+  position: absolute;
+  top: 0px;
+  width: 270px;
+}
+
+.basiccomponentgraphbasic .table-title-text-wgWWjg {
+  width: 258px;
+}
+
+.basiccomponentgraphbasic .table-guide-title-3TuQxf {
+  left: 60px;
+  width: 340px;
+}
+
+.basiccomponentgraphbasic .rectangle-xAt51x {
+  background-color: var(--black);
+  height: 1px;
+  left: 0px;
+  opacity: 0.3;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.basiccomponentgraphbasic .table-title-text-xAt51x {
+  width: 328px;
+}
+
+.basiccomponentgraphbasic .table-guide-title-u8TV1D {
+  left: 0px;
+  width: 50px;
+}
+
+.basiccomponentgraphbasic .rectangle-8cUfnH {
+  background-color: var(--black);
+  height: 1px;
+  left: 0px;
+  opacity: 0.3;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.basiccomponentgraphbasic .table-title-text-8cUfnH {
+  width: 38px;
+}
+
+.basiccomponentgraphbasic .group-3-copy-4-Cqx2Ce {
+  background-color: transparent;
+  height: 93px;
+  left: 0px;
+  position: absolute;
+  top: 417px;
+  width: 680px;
+}
+
+.basiccomponentgraphbasic .table-guide-title-XuRBDo {
+  left: 552px;
+  width: 128px;
+}
+
+.basiccomponentgraphbasic .rectangle-ThQ8ms {
+  background-color: var(--black);
+  height: 1px;
+  left: 0px;
+  opacity: 0.3;
+  position: absolute;
+  top: 0px;
+  width: 128px;
+}
+
+.basiccomponentgraphbasic .table-title-text-ThQ8ms {
+  width: 116px;
+}
+
+.basiccomponentgraphbasic .table-guide-title-VXUK00 {
+  left: 60px;
+  width: 166px;
+}
+
+.basiccomponentgraphbasic .rectangle-tlB9A8 {
+  background-color: var(--black);
+  height: 1px;
+  left: 0px;
+  opacity: 0.3;
+  position: absolute;
+  top: 0px;
+  width: 166px;
+}
+
+.basiccomponentgraphbasic .table-title-text-tlB9A8 {
+  width: 154px;
+}
+
+.basiccomponentgraphbasic .rectangle-IZnHyT {
+  background-color: var(--black);
+  height: 1px;
+  left: 0px;
+  opacity: 0.3;
+  position: absolute;
+  top: 0px;
+  width: 106px;
+}
+
+.basiccomponentgraphbasic .table-title-text-IZnHyT {
+  width: 94px;
+}
+
+.basiccomponentgraphbasic .rectangle-lS7Nfg {
+  background-color: var(--black);
+  height: 1px;
+  left: 0px;
+  opacity: 0.3;
+  position: absolute;
+  top: 0px;
+  width: 190px;
+}
+
+.basiccomponentgraphbasic .table-title-text-lS7Nfg {
+  width: 178px;
+}
+
+.basiccomponentgraphbasic .table-guide-title-saMsgd {
+  left: 0px;
+  width: 50px;
+}
+
+.basiccomponentgraphbasic .rectangle-BuSiAl {
+  background-color: var(--black);
+  height: 1px;
+  left: 0px;
+  opacity: 0.3;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.basiccomponentgraphbasic .table-title-text-BuSiAl {
+  width: 38px;
+}
+
+.basiccomponentgraphbasic .group-5-FmtEkQ {
+  height: 37px;
+  left: 0px;
+  top: 56px;
+  width: 680px;
+}
+
+.basiccomponentgraphbasic .styletable1line_-color-copy-grlySQ {
+  height: 31px;
+  position: relative;
+  top: 0px;
+}
+
+.basiccomponentgraphbasic .table-guide-text1line-cCl9Px {
+  height: 31px;
+  left: 552px;
+  width: 128px;
+}
+
+.basiccomponentgraphbasic .rectangle-pnFmps {
+  background-color: var(--black);
+  height: 1px;
+  left: 0px;
+  opacity: 0.08;
+  position: absolute;
+  top: 0px;
+  width: 128px;
+}
+
+.basiccomponentgraphbasic .contents-pnFmps {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  white-space: nowrap;
+  width: 116px;
+}
+
+.basiccomponentgraphbasic .table-guide-text1line-pcNkzx {
+  height: 31px;
+  left: 60px;
+  width: 166px;
+}
+
+.basiccomponentgraphbasic .rectangle-TCcrAq {
+  background-color: var(--black);
+  height: 1px;
+  left: 0px;
+  opacity: 0.08;
+  position: absolute;
+  top: 0px;
+  width: 166px;
+}
+
+.basiccomponentgraphbasic .contents-TCcrAq {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  white-space: nowrap;
+  width: 154px;
+}
+
+.basiccomponentgraphbasic .table-guide-text1line-VhPXgV {
+  height: 31px;
+  left: 236px;
+  width: 100px;
+}
+
+.basiccomponentgraphbasic .rectangle-B1206l {
+  background-color: var(--black);
+  height: 1px;
+  left: 0px;
+  opacity: 0.08;
+  position: absolute;
+  top: 0px;
+  width: 100px;
+}
+
+.basiccomponentgraphbasic .contents-B1206l {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  white-space: nowrap;
+  width: 88px;
+}
+
+.basiccomponentgraphbasic .table-guide-text2line-cCl9Px {
+  height: 31px;
+}
+
+.basiccomponentgraphbasic .rectangle-5U9179 {
+  background-color: var(--black);
+  height: 1px;
+  left: 0px;
+  opacity: 0.08;
+  position: absolute;
+  top: 0px;
+  width: 196px;
+}
+
+.basiccomponentgraphbasic .contents-5U9179 {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  white-space: nowrap;
+  width: 184px;
+}
+
+.basiccomponentgraphbasic .table-guide-text1line-dj0Z8f {
+  height: 31px;
+  left: 0px;
+  width: 50px;
+}
+
+.basiccomponentgraphbasic .rectangle-y2MQ7H {
+  background-color: var(--black);
+  height: 1px;
+  left: 0px;
+  opacity: 0.08;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.basiccomponentgraphbasic .contents-y2MQ7H {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  white-space: nowrap;
+  width: 38px;
+}
+
+.basiccomponentgraphbasic .group-4-sQCvwp {
+  height: 571px;
+  left: 0px;
+  width: 727px;
+}
+
+.basiccomponentgraphbasic .group-25-RZvP4B {
+  background-color: transparent;
+  height: 949px;
+  left: 420px;
+  position: absolute;
+  top: 1689px;
+  width: 1400px;
+}
+
+.basiccomponentgraphbasic .group-24-XaiOCu {
+  background-color: transparent;
+  height: 538px;
+  left: 720px;
+  position: absolute;
+  top: 1px;
+  width: 680px;
+}
+
+.basiccomponentgraphbasic .group-copy-3-eGOO4w {
+  background-color: transparent;
+  height: 162px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 680px;
+}
+
+.basiccomponentgraphbasic .group-2-copy-2-PKknSz {
+  height: 106px;
+}
+
+.tableguidetext1line99 {
+  background-color: transparent;
+  height: 29.25%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 7.35%;
+}
+
+.tableguidetext1line99 .rectangle-N4kC4M {
+  background-color: #000000;
+  height: 1px;
+  left: 0px;
+  opacity: 0.08;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.tableguidetext1line99 .contents-N4kC4M {
+  background-color: transparent;
+  color: #000000;
+  font-family: 'SamsungOneKorean-400', Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 11px;
+  white-space: nowrap;
+  width: 38px;
+}
+
+.basiccomponentgraphbasic .table-guide-text1line-srLGvs {
+  height: 95px;
+  left: 410px;
+  width: 270px;
+}
+
+.basiccomponentgraphbasic .rectangle-4EViie {
+  background-color: var(--black);
+  height: 1px;
+  left: 0px;
+  opacity: 0.08;
+  position: absolute;
+  top: 0px;
+  width: 270px;
+}
+
+.basiccomponentgraphbasic .group-4EViie {
+  background-color: transparent;
+  height: 84px;
+  left: 6px;
+  position: absolute;
+  top: 11px;
+  width: 258px;
+}
+
+.basiccomponentgraphbasic .content-USPw14 {
+  color: var(--black);
+  height: 20px;
+  top: 42px;
+  white-space: nowrap;
+  width: 258px;
+}
+
+.basiccomponentgraphbasic .content-E518cT {
+  color: var(--fuscous-gray);
+  height: 20px;
+  top: 64px;
+  white-space: nowrap;
+  width: 258px;
+}
+
+.basiccomponentgraphbasic .title-USPw14 {
+  color: var(--science-blue);
+  font-weight: 600;
+  height: 40px;
+  width: 258px;
+}
+
+.tableguidetext2linem59 {
+  background-color: transparent;
+  height: 29.25%;
+  left: 8.82%;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 50.00%;
+}
+
+.tableguidetext2linem59 .rectangle-MMIYWN {
+  background-color: #000000;
+  height: 1px;
+  left: 0px;
+  opacity: 0.08;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.tableguidetext2linem59 .contents-MMIYWN {
+  background-color: transparent;
+  color: #000000;
+  font-family: 'SamsungOneKorean-400', Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 11px;
+  white-space: nowrap;
+  width: 328px;
+}
+
+.basiccomponentgraphbasic .group-3-PKknSz {
+  height: 56px;
+  left: 0px;
+  width: 680px;
+}
+
+.basiccomponentgraphbasic .table-guide-title-xYmiDm {
+  left: 410px;
+  width: 270px;
+}
+
+.basiccomponentgraphbasic .rectangle-zpStD9 {
+  background-color: var(--black);
+  height: 1px;
+  left: 0px;
+  opacity: 0.3;
+  position: absolute;
+  top: 0px;
+  width: 270px;
+}
+
+.basiccomponentgraphbasic .table-title-text-zpStD9 {
+  width: 258px;
+}
+
+.basiccomponentgraphbasic .table-guide-title-oiwrYc {
+  left: 60px;
+  width: 340px;
+}
+
+.basiccomponentgraphbasic .rectangle-c9Z1UO {
+  background-color: var(--black);
+  height: 1px;
+  left: 0px;
+  opacity: 0.3;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.basiccomponentgraphbasic .table-title-text-c9Z1UO {
+  width: 328px;
+}
+
+.basiccomponentgraphbasic .table-guide-title-Ku8GFp {
+  left: 0px;
+  width: 50px;
+}
+
+.basiccomponentgraphbasic .rectangle-9xpxx5 {
+  background-color: var(--black);
+  height: 1px;
+  left: 0px;
+  opacity: 0.3;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.basiccomponentgraphbasic .table-title-text-9xpxx5 {
+  width: 38px;
+}
+
+.basiccomponentgraphbasic .group-13-eGOO4w {
+  background-color: transparent;
+  height: 276px;
+  left: 0px;
+  position: absolute;
+  top: 262px;
+  width: 680px;
+}
+
+.basiccomponentgraphbasic .table-guide-title-ZPGD1H {
+  left: 552px;
+  width: 128px;
+}
+
+.basiccomponentgraphbasic .rectangle-Ye3v2l {
+  background-color: var(--black);
+  height: 1px;
+  left: 0px;
+  opacity: 0.3;
+  position: absolute;
+  top: 0px;
+  width: 128px;
+}
+
+.basiccomponentgraphbasic .table-title-text-Ye3v2l {
+  width: 116px;
+}
+
+.basiccomponentgraphbasic .table-guide-title-6uEFLI {
+  left: 60px;
+  width: 166px;
+}
+
+.basiccomponentgraphbasic .rectangle-GlTbKC {
+  background-color: var(--black);
+  height: 1px;
+  left: 0px;
+  opacity: 0.3;
+  position: absolute;
+  top: 0px;
+  width: 166px;
+}
+
+.basiccomponentgraphbasic .table-title-text-GlTbKC {
+  width: 154px;
+}
+
+.basiccomponentgraphbasic .rectangle-MGFmJ9 {
+  background-color: var(--black);
+  height: 1px;
+  left: 0px;
+  opacity: 0.3;
+  position: absolute;
+  top: 0px;
+  width: 106px;
+}
+
+.basiccomponentgraphbasic .table-title-text-MGFmJ9 {
+  width: 94px;
+}
+
+.basiccomponentgraphbasic .rectangle-8dSaT0 {
+  background-color: var(--black);
+  height: 1px;
+  left: 0px;
+  opacity: 0.3;
+  position: absolute;
+  top: 0px;
+  width: 190px;
+}
+
+.basiccomponentgraphbasic .table-title-text-8dSaT0 {
+  width: 178px;
+}
+
+.basiccomponentgraphbasic .table-guide-title-beWyEL {
+  left: 0px;
+  width: 50px;
+}
+
+.basiccomponentgraphbasic .rectangle-XDEKoZ {
+  background-color: var(--black);
+  height: 1px;
+  left: 0px;
+  opacity: 0.3;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.basiccomponentgraphbasic .table-title-text-XDEKoZ {
+  width: 38px;
+}
+
+.basiccomponentgraphbasic .styletable1line_-color-copy-xoqaUu {
+  height: 115px;
+  position: absolute;
+  top: 56px;
+}
+
+.basiccomponentgraphbasic .table-guide-text1line-vJNTEC {
+  height: 71px;
+  left: 552px;
+  width: 128px;
+}
+
+.basiccomponentgraphbasic .rectangle-umGQmv {
+  background-color: var(--black);
+  height: 1px;
+  left: 0px;
+  opacity: 0.08;
+  position: absolute;
+  top: 0px;
+  width: 128px;
+}
+
+.basiccomponentgraphbasic .contents-umGQmv {
+  color: var(--black);
+  font-weight: 400;
+  height: 60px;
+  width: 116px;
+}
+
+.basiccomponentgraphbasic .table-guide-text1line-vatzG6 {
+  height: 31px;
+  left: 60px;
+  width: 166px;
+}
+
+.basiccomponentgraphbasic .rectangle-mlxjsl {
+  background-color: var(--black);
+  height: 1px;
+  left: 0px;
+  opacity: 0.08;
+  position: absolute;
+  top: 0px;
+  width: 166px;
+}
+
+.basiccomponentgraphbasic .contents-mlxjsl {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  white-space: nowrap;
+  width: 154px;
+}
+
+.basiccomponentgraphbasic .table-guide-text1line-xK5mhk {
+  height: 31px;
+  left: 236px;
+  width: 100px;
+}
+
+.basiccomponentgraphbasic .rectangle-6V3vX0 {
+  background-color: var(--black);
+  height: 1px;
+  left: 0px;
+  opacity: 0.08;
+  position: absolute;
+  top: 0px;
+  width: 100px;
+}
+
+.basiccomponentgraphbasic .contents-6V3vX0 {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  white-space: nowrap;
+  width: 88px;
+}
+
+.basiccomponentgraphbasic .table-guide-text2line-vJNTEC {
+  height: 115px;
+}
+
+.basiccomponentgraphbasic .rectangle-YNh1an {
+  background-color: var(--black);
+  height: 1px;
+  left: 0px;
+  opacity: 0.08;
+  position: absolute;
+  top: 0px;
+  width: 196px;
+}
+
+.basiccomponentgraphbasic .group-YNh1an {
+  background-color: transparent;
+  height: 104px;
+  left: 6px;
+  position: absolute;
+  top: 11px;
+  width: 184px;
+}
+
+.basiccomponentgraphbasic .content-ZY2TzI {
+  color: var(--fuscous-gray);
+  height: 20px;
+  top: 42px;
+  white-space: nowrap;
+  width: 184px;
+}
+
+.basiccomponentgraphbasic .content-q3bGSx {
+  color: var(--rose);
+  height: 40px;
+  top: 64px;
+  width: 184px;
+}
+
+.basiccomponentgraphbasic .title-ZY2TzI {
+  color: var(--black);
+  font-weight: 400;
+  height: 40px;
+  width: 184px;
+}
+
+.basiccomponentgraphbasic .table-guide-text1line-kXFFrI {
+  height: 31px;
+  left: 0px;
+  width: 50px;
+}
+
+.basiccomponentgraphbasic .rectangle-tFL9Yo {
+  background-color: var(--black);
+  height: 1px;
+  left: 0px;
+  opacity: 0.08;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.basiccomponentgraphbasic .contents-tFL9Yo {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  white-space: nowrap;
+  width: 38px;
+}
+
+.basiccomponentgraphbasic .styletable1line_-color-copy-2-xoqaUu {
+  height: 73px;
+  position: absolute;
+  top: 192px;
+}
+
+.basiccomponentgraphbasic .table-guide-text1line-EWhUGa {
+  height: 71px;
+  left: 552px;
+  width: 128px;
+}
+
+.basiccomponentgraphbasic .rectangle-MtcyIx {
+  background-color: var(--black);
+  height: 1px;
+  left: 0px;
+  opacity: 0.08;
+  position: absolute;
+  top: 0px;
+  width: 128px;
+}
+
+.basiccomponentgraphbasic .contents-MtcyIx {
+  color: var(--black);
+  font-weight: 400;
+  height: 60px;
+  width: 116px;
+}
+
+.basiccomponentgraphbasic .table-guide-text1line-rxB2NM {
+  height: 31px;
+  left: 60px;
+  width: 166px;
+}
+
+.basiccomponentgraphbasic .rectangle-UHbFmz {
+  background-color: var(--black);
+  height: 1px;
+  left: 0px;
+  opacity: 0.08;
+  position: absolute;
+  top: 0px;
+  width: 166px;
+}
+
+.basiccomponentgraphbasic .contents-UHbFmz {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  white-space: nowrap;
+  width: 154px;
+}
+
+.basiccomponentgraphbasic .table-guide-text1line-IPd8gH {
+  height: 31px;
+  left: 236px;
+  width: 100px;
+}
+
+.basiccomponentgraphbasic .rectangle-8zvzUF {
+  background-color: var(--black);
+  height: 1px;
+  left: 0px;
+  opacity: 0.08;
+  position: absolute;
+  top: 0px;
+  width: 100px;
+}
+
+.basiccomponentgraphbasic .contents-8zvzUF {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  white-space: nowrap;
+  width: 88px;
+}
+
+.basiccomponentgraphbasic .table-guide-text2line-EWhUGa {
+  height: 73px;
+}
+
+.basiccomponentgraphbasic .rectangle-posxWd {
+  background-color: var(--black);
+  height: 1px;
+  left: 0px;
+  opacity: 0.08;
+  position: absolute;
+  top: 0px;
+  width: 196px;
+}
+
+.basiccomponentgraphbasic .contents-posxWd {
+  color: var(--black);
+  font-weight: 400;
+  height: 40px;
+  width: 184px;
+}
+
+.basiccomponentgraphbasic .contents-copy-posxWd {
+  color: var(--fuscous-gray);
+  top: 53px;
+  width: 184px;
+}
+
+.basiccomponentgraphbasic .table-guide-text1line-HJKOEb {
+  height: 31px;
+  left: 0px;
+  width: 50px;
+}
+
+.basiccomponentgraphbasic .rectangle-S3wkWc {
+  background-color: var(--black);
+  height: 1px;
+  left: 0px;
+  opacity: 0.08;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.basiccomponentgraphbasic .contents-S3wkWc {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  white-space: nowrap;
+  width: 38px;
+}
+
+.basiccomponentgraphbasic .group-21-XaiOCu {
+  background-color: transparent;
+  height: 949px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 670px;
+}
+
+.basiccomponentgraphbasic .group-29-RZvP4B {
+  background-color: transparent;
+  height: 582px;
+  left: 419px;
+  position: absolute;
+  top: 2787px;
+  width: 1400px;
+}
+
+.basiccomponentgraphbasic .group-9-xDutFU {
+  background-color: transparent;
+  height: 582px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 677px;
+}
+
+.basiccomponentgraphbasic .group-28-xDutFU {
+  background-color: transparent;
+  height: 160px;
+  left: 721px;
+  position: absolute;
+  top: 0px;
+  width: 680px;
+}
+
+.basiccomponentgraphbasic .group-2-copy-2-FPEWSc {
+  height: 37px;
+}
+
+.tableguidetext1line100 {
+  background-color: transparent;
+  height: 83.78%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 7.35%;
+}
+
+.tableguidetext1line100 .rectangle-JOv2XP {
+  background-color: #000000;
+  height: 1px;
+  left: 0px;
+  opacity: 0.08;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.tableguidetext1line100 .contents-JOv2XP {
+  background-color: transparent;
+  color: #000000;
+  font-family: 'SamsungOneKorean-400', Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 11px;
+  white-space: nowrap;
+  width: 38px;
+}
+
+.tableguidetext1line165 {
+  background-color: transparent;
+  height: 83.78%;
+  opacity: 1;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 39.71%;
+}
+
+.tableguidetext1line165 .rectangle-wqRGkc {
+  background-color: #000000;
+  height: 1px;
+  left: 0px;
+  opacity: 0.08;
+  position: absolute;
+  top: 0px;
+  width: 270px;
+}
+
+.tableguidetext1line165 .contents-wqRGkc {
+  background-color: transparent;
+  color: #0074d4;
+  font-family: 'SamsungOneKorean-600', Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 600;
+  height: 20px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 11px;
+  white-space: nowrap;
+  width: 258px;
+}
+
+.tableguidetext2linem60 {
+  background-color: transparent;
+  height: 83.78%;
+  left: 8.82%;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 50.00%;
+}
+
+.tableguidetext2linem60 .rectangle-jN1BIP {
+  background-color: #000000;
+  height: 1px;
+  left: 0px;
+  opacity: 0.08;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.tableguidetext2linem60 .contents-jN1BIP {
+  background-color: transparent;
+  color: #000000;
+  font-family: 'SamsungOneKorean-400', Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 11px;
+  white-space: nowrap;
+  width: 328px;
+}
+
+.basiccomponentgraphbasic .group-2-copy-5-FPEWSc {
+  background-color: transparent;
+  height: 57px;
+  left: 0px;
+  position: absolute;
+  top: 103px;
+  width: 680px;
+}
+
+.tableguidetext1line101 {
+  background-color: transparent;
+  height: 54.39%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 7.35%;
+}
+
+.tableguidetext1line101 .rectangle-dBT5Os {
+  background-color: #000000;
+  height: 1px;
+  left: 0px;
+  opacity: 0.08;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.tableguidetext1line101 .contents-dBT5Os {
+  background-color: transparent;
+  color: #000000;
+  font-family: 'SamsungOneKorean-400', Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 11px;
+  white-space: nowrap;
+  width: 38px;
+}
+
+.tableguidetext1line166 {
+  background-color: transparent;
+  height: 89.47%;
+  opacity: 1;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 39.71%;
+}
+
+.tableguidetext1line166 .rectangle-XOlZ99 {
+  background-color: #000000;
+  height: 1px;
+  left: 0px;
+  opacity: 0.08;
+  position: absolute;
+  top: 0px;
+  width: 270px;
+}
+
+.tableguidetext1line166 .contents-XOlZ99 {
+  background-color: transparent;
+  color: #0074d4;
+  font-family: 'SamsungOneKorean-600', Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 600;
+  height: 40px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 11px;
+  width: 258px;
+}
+
+.tableguidetext2linem61 {
+  background-color: transparent;
+  height: 54.39%;
+  left: 8.82%;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 50.00%;
+}
+
+.tableguidetext2linem61 .rectangle-SmO8MO {
+  background-color: #000000;
+  height: 1px;
+  left: 0px;
+  opacity: 0.08;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.tableguidetext2linem61 .contents-SmO8MO {
+  background-color: transparent;
+  color: #000000;
+  font-family: 'SamsungOneKorean-400', Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 11px;
+  white-space: nowrap;
+  width: 328px;
+}
+
+.basiccomponentgraphbasic .group-3-FPEWSc {
+  height: 56px;
+  left: 0px;
+  width: 680px;
+}
+
+.basiccomponentgraphbasic .table-guide-title-xzVrwO {
+  left: 410px;
+  width: 270px;
+}
+
+.basiccomponentgraphbasic .rectangle-pEnz9z {
+  background-color: var(--black);
+  height: 1px;
+  left: 0px;
+  opacity: 0.3;
+  position: absolute;
+  top: 0px;
+  width: 270px;
+}
+
+.basiccomponentgraphbasic .table-title-text-pEnz9z {
+  width: 258px;
+}
+
+.basiccomponentgraphbasic .table-guide-title-eRh0Lz {
+  left: 60px;
+  width: 340px;
+}
+
+.basiccomponentgraphbasic .rectangle-FoNCxL {
+  background-color: var(--black);
+  height: 1px;
+  left: 0px;
+  opacity: 0.3;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.basiccomponentgraphbasic .table-title-text-FoNCxL {
+  width: 328px;
+}
+
+.basiccomponentgraphbasic .table-guide-title-GOSXeU {
+  left: 0px;
+  width: 50px;
+}
+
+.basiccomponentgraphbasic .rectangle-XR9Emx {
+  background-color: var(--black);
+  height: 1px;
+  left: 0px;
+  opacity: 0.3;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.basiccomponentgraphbasic .table-title-text-XR9Emx {
+  width: 38px;
+}
+
+.basiccomponentgraphbasic .group-35-RZvP4B {
+  background-color: transparent;
+  height: 357px;
+  left: 400px;
+  position: absolute;
+  top: 3519px;
+  width: 1420px;
+}
+
+.basiccomponentgraphbasic .group-6-CBJ3Ko {
+  height: 357px;
+  left: 0px;
+  width: 690px;
+}
+
+.basiccomponentgraphbasic .group-33-CBJ3Ko {
+  background-color: transparent;
+  height: 310px;
+  left: 740px;
+  position: absolute;
+  top: 0px;
+  width: 680px;
+}
+
+.basiccomponentgraphbasic .group-2-copy-2-KgOUEK {
+  height: 37px;
+}
+
+.tableguidetext1line102 {
+  background-color: transparent;
+  height: 83.78%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 7.35%;
+}
+
+.tableguidetext1line102 .rectangle-9nwVol {
+  background-color: #000000;
+  height: 1px;
+  left: 0px;
+  opacity: 0.08;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.tableguidetext1line102 .contents-9nwVol {
+  background-color: transparent;
+  color: #000000;
+  font-family: 'SamsungOneKorean-400', Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 11px;
+  white-space: nowrap;
+  width: 38px;
+}
+
+.tableguidetext1line167 {
+  background-color: transparent;
+  height: 83.78%;
+  opacity: 1;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 39.71%;
+}
+
+.tableguidetext1line167 .rectangle-wbxREl {
+  background-color: #000000;
+  height: 1px;
+  left: 0px;
+  opacity: 0.08;
+  position: absolute;
+  top: 0px;
+  width: 270px;
+}
+
+.tableguidetext1line167 .contents-wbxREl {
+  background-color: transparent;
+  color: #000000;
+  font-family: 'SamsungOneKorean-400', Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 11px;
+  white-space: nowrap;
+  width: 258px;
+}
+
+.tableguidetext2linem62 {
+  background-color: transparent;
+  height: 83.78%;
+  left: 8.82%;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 50.00%;
+}
+
+.tableguidetext2linem62 .rectangle-ICCTrx {
+  background-color: #000000;
+  height: 1px;
+  left: 0px;
+  opacity: 0.08;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.tableguidetext2linem62 .contents-ICCTrx {
+  background-color: transparent;
+  color: #000000;
+  font-family: 'SamsungOneKorean-400', Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 11px;
+  white-space: nowrap;
+  width: 328px;
+}
+
+.basiccomponentgraphbasic .group-2-copy-6-KgOUEK {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 103px;
+  width: 680px;
+}
+
+.tableguidetext1line103 {
+  background-color: transparent;
+  height: 48.44%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 7.35%;
+}
+
+.tableguidetext1line103 .rectangle-Y3GbHm {
+  background-color: #000000;
+  height: 1px;
+  left: 0px;
+  opacity: 0.08;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.tableguidetext1line103 .contents-Y3GbHm {
+  background-color: transparent;
+  color: #000000;
+  font-family: 'SamsungOneKorean-400', Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 11px;
+  white-space: nowrap;
+  width: 38px;
+}
+
+.basiccomponentgraphbasic .table-guide-text1line-emhkxf {
+  height: 53px;
+  left: 410px;
+  width: 270px;
+}
+
+.basiccomponentgraphbasic .rectangle-3XDbOe {
+  background-color: var(--black);
+  height: 1px;
+  left: 0px;
+  opacity: 0.08;
+  position: absolute;
+  top: 0px;
+  width: 270px;
+}
+
+.basiccomponentgraphbasic .contents-3XDbOe {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  white-space: nowrap;
+  width: 258px;
+}
+
+.basiccomponentgraphbasic .contents-copy-3XDbOe {
+  color: var(--fuscous-gray);
+  top: 33px;
+  width: 258px;
+}
+
+.tableguidetext2linem63 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 48.44%;
+  left: 8.82%;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 50.00%;
+}
+
+.tableguidetext2linem63 .rectangle-nMlxe4 {
+  background-color: #000000;
+  height: 1px;
+  left: 0px;
+  opacity: 0.08;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.tableguidetext2linem63 .contents-nMlxe4 {
+  background-color: transparent;
+  color: #0070c0;
+  font-family: 'SamsungOneKorean-400', Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  top: 11px;
+  white-space: nowrap;
+  width: 328px;
+}
+
+.basiccomponentgraphbasic .group-30-KgOUEK {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  position: absolute;
+  top: 273px;
+  width: 680px;
+}
+
+.tableguidetext1line104 {
+  background-color: transparent;
+  height: 83.78%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 7.35%;
+}
+
+.tableguidetext1line104 .rectangle-T9Nlk0 {
+  background-color: #000000;
+  height: 1px;
+  left: 0px;
+  opacity: 0.08;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.tableguidetext1line104 .contents-T9Nlk0 {
+  background-color: transparent;
+  color: #000000;
+  font-family: 'SamsungOneKorean-400', Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 11px;
+  white-space: nowrap;
+  width: 38px;
+}
+
+.tableguidetext1line168 {
+  background-color: transparent;
+  height: 83.78%;
+  opacity: 1;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 39.71%;
+}
+
+.tableguidetext1line168 .rectangle-lZoxz3 {
+  background-color: #000000;
+  height: 1px;
+  left: 0px;
+  opacity: 0.08;
+  position: absolute;
+  top: 0px;
+  width: 270px;
+}
+
+.tableguidetext1line168 .contents-lZoxz3 {
+  background-color: transparent;
+  color: #000000;
+  font-family: 'SamsungOneKorean-400', Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 11px;
+  white-space: nowrap;
+  width: 258px;
+}
+
+.tableguidetext2linem64 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 83.78%;
+  left: 8.82%;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 50.00%;
+}
+
+.tableguidetext2linem64 .rectangle-I0hOIA {
+  background-color: #000000;
+  height: 1px;
+  left: 0px;
+  opacity: 0.08;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.tableguidetext2linem64 .contents-I0hOIA {
+  background-color: transparent;
+  color: #0070c0;
+  font-family: 'SamsungOneKorean-400', Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  top: 11px;
+  white-space: nowrap;
+  width: 328px;
+}
+
+.basiccomponentgraphbasic .group-2-copy-7-KgOUEK {
+  background-color: transparent;
+  height: 86px;
+  left: 0px;
+  position: absolute;
+  top: 177px;
+  width: 680px;
+}
+
+.tableguidetext1line105 {
+  background-color: transparent;
+  height: 36.05%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 7.35%;
+}
+
+.tableguidetext1line105 .rectangle-nWxfIP {
+  background-color: #000000;
+  height: 1px;
+  left: 0px;
+  opacity: 0.08;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.tableguidetext1line105 .contents-nWxfIP {
+  background-color: transparent;
+  color: #000000;
+  font-family: 'SamsungOneKorean-400', Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 11px;
+  white-space: nowrap;
+  width: 38px;
+}
+
+.basiccomponentgraphbasic .table-guide-text1line-RxIo0X {
+  height: 75px;
+  left: 410px;
+  width: 270px;
+}
+
+.basiccomponentgraphbasic .rectangle-imbwaY {
+  background-color: var(--black);
+  height: 1px;
+  left: 0px;
+  opacity: 0.08;
+  position: absolute;
+  top: 0px;
+  width: 270px;
+}
+
+.basiccomponentgraphbasic .group-imbwaY {
+  background-color: transparent;
+  height: 64px;
+  left: 6px;
+  position: absolute;
+  top: 11px;
+  width: 258px;
+}
+
+.basiccomponentgraphbasic .content-efIuzd {
+  color: var(--black);
+  height: 20px;
+  top: 22px;
+  white-space: nowrap;
+  width: 258px;
+}
+
+.basiccomponentgraphbasic .content-MfJgpO {
+  color: var(--fuscous-gray);
+  height: 20px;
+  top: 44px;
+  white-space: nowrap;
+  width: 258px;
+}
+
+.basiccomponentgraphbasic .title-efIuzd {
+  color: var(--science-blue);
+  font-weight: 600;
+  height: 20px;
+  white-space: nowrap;
+  width: 258px;
+}
+
+.tableguidetext2linem65 {
+  background-color: transparent;
+  height: 36.05%;
+  left: 8.82%;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 50.00%;
+}
+
+.tableguidetext2linem65 .rectangle-3rsMJa {
+  background-color: #000000;
+  height: 1px;
+  left: 0px;
+  opacity: 0.08;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.tableguidetext2linem65 .contents-3rsMJa {
+  background-color: transparent;
+  color: #000000;
+  font-family: 'SamsungOneKorean-400', Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 11px;
+  white-space: nowrap;
+  width: 328px;
+}
+
+.basiccomponentgraphbasic .group-3-KgOUEK {
+  height: 56px;
+  left: 0px;
+  width: 680px;
+}
+
+.basiccomponentgraphbasic .table-guide-title-IcoDyk {
+  left: 410px;
+  width: 270px;
+}
+
+.basiccomponentgraphbasic .rectangle-Vl1ESK {
+  background-color: var(--black);
+  height: 1px;
+  left: 0px;
+  opacity: 0.3;
+  position: absolute;
+  top: 0px;
+  width: 270px;
+}
+
+.basiccomponentgraphbasic .table-title-text-Vl1ESK {
+  width: 258px;
+}
+
+.basiccomponentgraphbasic .table-guide-title-v4MysK {
+  left: 60px;
+  width: 340px;
+}
+
+.basiccomponentgraphbasic .rectangle-fr2Z0Z {
+  background-color: var(--black);
+  height: 1px;
+  left: 0px;
+  opacity: 0.3;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.basiccomponentgraphbasic .table-title-text-fr2Z0Z {
+  width: 328px;
+}
+
+.basiccomponentgraphbasic .table-guide-title-fG4WnG {
+  left: 0px;
+  width: 50px;
+}
+
+.basiccomponentgraphbasic .rectangle-Zai4s3 {
+  background-color: var(--black);
+  height: 1px;
+  left: 0px;
+  opacity: 0.3;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.basiccomponentgraphbasic .table-title-text-Zai4s3 {
+  width: 38px;
+}
+
+.basiccomponentgraphbasic .group-36-RZvP4B {
+  background-color: transparent;
+  height: 331px;
+  left: 360px;
+  position: absolute;
+  top: 4026px;
+  width: 1460px;
+}
+
+.basiccomponentgraphbasic .group-7-x5EzBJ {
+  height: 331px;
+  left: 0px;
+  width: 730px;
+}
+
+.basiccomponentgraphbasic .group-16-Q1xhnS {
+  background-color: transparent;
+  height: 56px;
+  left: 60px;
+  position: absolute;
+  top: 0px;
+  width: 670px;
+}
+
+.basiccomponentgraphbasic .table-guide-title-copy-9-cxohEJ {
+  background-color: transparent;
+  height: 38px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 670px;
+}
+
+.basiccomponentgraphbasic .rectangle-VBgGYx {
+  background-color: var(--black);
+  height: 1px;
+  left: 0px;
+  opacity: 0.3;
+  position: absolute;
+  top: 0px;
+  width: 670px;
+}
+
+.basiccomponentgraphbasic .table-title-text-VBgGYx {
+  width: 658px;
+}
+
+.basiccomponentgraphbasic .group-2-Q1xhnS {
+  background-color: transparent;
+  height: 225px;
+  left: 0px;
+  position: absolute;
+  top: 105px;
+  width: 453px;
+}
+
+.basiccomponentgraphbasic .comp-graph-graph-type_-unit-duzjlf {
+  background-color: transparent;
+  height: 185px;
+  left: 61px;
+  position: absolute;
+  top: 24px;
+  width: 312px;
+}
+
+.basiccomponentgraphbasic .unit_bg-5uxbiR {
+  background-color: transparent;
+  height: 185px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 312px;
+}
+
+.basiccomponentgraphbasic .group-ucLiFM {
+  background-color: transparent;
+  height: 126px;
+  left: 0px;
+  position: absolute;
+  top: 6px;
+  width: 287px;
+}
+
+.basiccomponentgraphbasic .divider-nMVHtq {
+  background-color: transparent;
+  height: 126px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 287px;
+}
+
+.basiccomponentgraphbasic .rectangle-b1IQJ6 {
+  background-color: var(--mercury);
+  height: 1px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 287px;
+}
+
+.basiccomponentgraphbasic .rectangle-5-b1IQJ6 {
+  background-color: var(--mercury);
+  height: 1px;
+  left: 0px;
+  position: absolute;
+  top: 25px;
+  width: 287px;
+}
+
+.basiccomponentgraphbasic .rectangle-7-b1IQJ6 {
+  background-color: var(--mercury);
+  height: 1px;
+  left: 0px;
+  position: absolute;
+  top: 50px;
+  width: 287px;
+}
+
+.basiccomponentgraphbasic .rectangle-9-b1IQJ6 {
+  background-color: var(--mercury);
+  height: 1px;
+  left: 0px;
+  position: absolute;
+  top: 75px;
+  width: 287px;
+}
+
+.basiccomponentgraphbasic .rectangle-10-b1IQJ6 {
+  background-color: var(--mercury);
+  height: 1px;
+  left: 0px;
+  position: absolute;
+  top: 100px;
+  width: 287px;
+}
+
+.basiccomponentgraphbasic .rectangle-11-b1IQJ6 {
+  background-color: var(--mercury);
+  height: 1px;
+  left: 0px;
+  position: absolute;
+  top: 125px;
+  width: 287px;
+}
+
+.basiccomponentgraphbasic .group-2-ucLiFM {
+  background-color: transparent;
+  height: 136px;
+  left: 293px;
+  position: absolute;
+  top: 0px;
+  width: 19px;
+}
+
+.basiccomponentgraphbasic .x0-xwZxu3 {
+  background-color: transparent;
+  font-weight: 300;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 13px;
+  position: absolute;
+  text-align: left;
+  top: 123px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.basiccomponentgraphbasic .x250-xwZxu3 {
+  background-color: transparent;
+  font-weight: 300;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 13px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.basiccomponentgraphbasic .x150-xwZxu3 {
+  background-color: transparent;
+  font-weight: 300;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 13px;
+  position: absolute;
+  text-align: left;
+  top: 49px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.basiccomponentgraphbasic .x200-xwZxu3 {
+  background-color: transparent;
+  font-weight: 300;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 13px;
+  position: absolute;
+  text-align: left;
+  top: 25px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.basiccomponentgraphbasic .x50-xwZxu3 {
+  background-color: transparent;
+  font-weight: 300;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 13px;
+  position: absolute;
+  text-align: left;
+  top: 98px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.basiccomponentgraphbasic .x100-xwZxu3 {
+  background-color: transparent;
+  font-weight: 300;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 13px;
+  position: absolute;
+  text-align: left;
+  top: 74px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.basiccomponentgraphbasic .group-5uxbiR {
+  background-color: transparent;
+  height: 145px;
+  left: 0px;
+  position: absolute;
+  top: 16px;
+  width: 287px;
+}
+
+.basiccomponentgraphbasic .group-5-DLvUd5 {
+  height: 115px;
+  left: 156px;
+  top: 0px;
+  width: 24px;
+}
+
+.basiccomponentgraphbasic .graph1line-5-kUFJCt {
+  left: 0px;
+  position: relative;
+}
+
+.basiccomponentgraphbasic .group-CxxPqz {
+  background-color: transparent;
+  height: 115px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 24px;
+}
+
+.basiccomponentgraphbasic .group-2-fCaOgd {
+  background-color: transparent;
+  height: 115px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 24px;
+}
+
+.basiccomponentgraphbasic .componentsgraph-tq28tq {
+  height: 88px;
+  left: 14px;
+  top: 27px;
+}
+
+.basiccomponentgraphbasic .group-KouvHn {
+  background-color: transparent;
+  border-radius: 5px;
+  height: 88px;
+  left: 0px;
+  overflow: hidden;
+  position: relative;
+  top: 0px;
+  width: 10px;
+}
+
+.basiccomponentgraphbasic .rectangle-copy-14-7twhJh {
+  height: 88px;
+}
+
+.basiccomponentgraphbasic .x1_colordefault_3695dd-7twhJh {
+  height: 88px;
+}
+
+.basiccomponentgraphbasic .rectangle-8otHoV {
+  background-color: var(--nobel);
+  height: 88px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 10px;
+}
+
+.basiccomponentgraphbasic .componentsgraph-F56RWC {
+  height: 115px;
+  left: 0px;
+  top: 0px;
+}
+
+.basiccomponentgraphbasic .group-ghxZUr {
+  background-color: transparent;
+  border-radius: 5px;
+  height: 115px;
+  left: 0px;
+  overflow: hidden;
+  position: relative;
+  top: 0px;
+  width: 10px;
+}
+
+.basiccomponentgraphbasic .rectangle-copy-14-ima58x {
+  height: 115px;
+}
+
+.basiccomponentgraphbasic .x1_colordefault_3695dd-ima58x {
+  height: 115px;
+}
+
+.basiccomponentgraphbasic .rectangle-YmajVe {
+  background-color: var(--nobel);
+  height: 115px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 10px;
+}
+
+.basiccomponentgraphbasic .group-4-DLvUd5 {
+  height: 115px;
+  left: 107px;
+  width: 24px;
+}
+
+.basiccomponentgraphbasic .graph1line-5-y77ibO {
+  left: 0px;
+  position: relative;
+}
+
+.basiccomponentgraphbasic .group-fgnpgr {
+  background-color: transparent;
+  height: 115px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 24px;
+}
+
+.basiccomponentgraphbasic .group-2-kUntsU {
+  background-color: transparent;
+  height: 115px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 24px;
+}
+
+.basiccomponentgraphbasic .componentsgraph-4zWAxE {
+  height: 88px;
+  left: 14px;
+  top: 27px;
+}
+
+.basiccomponentgraphbasic .group-28yBLX {
+  background-color: transparent;
+  border-radius: 5px;
+  height: 88px;
+  left: 0px;
+  overflow: hidden;
+  position: relative;
+  top: 0px;
+  width: 10px;
+}
+
+.basiccomponentgraphbasic .rectangle-copy-14-1Tqe6x {
+  height: 88px;
+}
+
+.basiccomponentgraphbasic .x1_colordefault_3695dd-1Tqe6x {
+  height: 88px;
+}
+
+.basiccomponentgraphbasic .rectangle-Ex1Viy {
+  background-color: var(--nobel);
+  height: 88px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 10px;
+}
+
+.basiccomponentgraphbasic .componentsgraph-w3ataX {
+  height: 115px;
+  left: 0px;
+  top: 0px;
+}
+
+.basiccomponentgraphbasic .group-oOZala {
+  background-color: transparent;
+  border-radius: 5px;
+  height: 115px;
+  left: 0px;
+  overflow: hidden;
+  position: relative;
+  top: 0px;
+  width: 10px;
+}
+
+.basiccomponentgraphbasic .rectangle-copy-14-PlKZ3h {
+  height: 115px;
+}
+
+.basiccomponentgraphbasic .x1_colordefault_3695dd-PlKZ3h {
+  height: 115px;
+}
+
+.basiccomponentgraphbasic .rectangle-thq2WF {
+  background-color: var(--nobel);
+  height: 115px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 10px;
+}
+
+.basiccomponentgraphbasic .group-6-DLvUd5 {
+  height: 115px;
+  left: 205px;
+  width: 24px;
+}
+
+.basiccomponentgraphbasic .graph1line-5-Sns8jv {
+  left: 0px;
+  position: relative;
+}
+
+.basiccomponentgraphbasic .group-E4d2WQ {
+  background-color: transparent;
+  height: 115px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 24px;
+}
+
+.basiccomponentgraphbasic .group-2-5iiDx4 {
+  background-color: transparent;
+  height: 115px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 24px;
+}
+
+.basiccomponentgraphbasic .componentsgraph-slZPZg {
+  height: 88px;
+  left: 14px;
+  top: 27px;
+}
+
+.basiccomponentgraphbasic .group-ShKkhx {
+  background-color: transparent;
+  border-radius: 5px;
+  height: 88px;
+  left: 0px;
+  overflow: hidden;
+  position: relative;
+  top: 0px;
+  width: 10px;
+}
+
+.basiccomponentgraphbasic .rectangle-copy-14-0jX5JC {
+  height: 88px;
+}
+
+.basiccomponentgraphbasic .x1_colordefault_3695dd-0jX5JC {
+  height: 88px;
+}
+
+.basiccomponentgraphbasic .rectangle-Y3mo6d {
+  background-color: var(--nobel);
+  height: 88px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 10px;
+}
+
+.basiccomponentgraphbasic .componentsgraph-gbR5o8 {
+  height: 115px;
+  left: 0px;
+  top: 0px;
+}
+
+.basiccomponentgraphbasic .group-7xgasO {
+  background-color: transparent;
+  border-radius: 5px;
+  height: 115px;
+  left: 0px;
+  overflow: hidden;
+  position: relative;
+  top: 0px;
+  width: 10px;
+}
+
+.basiccomponentgraphbasic .rectangle-copy-14-JVK67x {
+  height: 115px;
+}
+
+.basiccomponentgraphbasic .x1_colordefault_3695dd-JVK67x {
+  height: 115px;
+}
+
+.basiccomponentgraphbasic .rectangle-3esJxk {
+  background-color: var(--nobel);
+  height: 115px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 10px;
+}
+
+.basiccomponentgraphbasic .group-7-DLvUd5 {
+  height: 115px;
+  left: 254px;
+  width: 24px;
+}
+
+.basiccomponentgraphbasic .graph1line-5-hsLoEj {
+  left: 0px;
+  position: relative;
+}
+
+.basiccomponentgraphbasic .group-qwW44f {
+  background-color: transparent;
+  height: 115px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 24px;
+}
+
+.basiccomponentgraphbasic .group-2-ce93Ff {
+  background-color: transparent;
+  height: 115px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 24px;
+}
+
+.basiccomponentgraphbasic .componentsgraph-fC4X8S {
+  height: 88px;
+  left: 14px;
+  top: 27px;
+}
+
+.basiccomponentgraphbasic .group-yE3b1h {
+  background-color: transparent;
+  border-radius: 5px;
+  height: 88px;
+  left: 0px;
+  overflow: hidden;
+  position: relative;
+  top: 0px;
+  width: 10px;
+}
+
+.basiccomponentgraphbasic .rectangle-copy-14-MLtBH4 {
+  height: 88px;
+}
+
+.basiccomponentgraphbasic .x1_colordefault_3695dd-MLtBH4 {
+  height: 88px;
+}
+
+.basiccomponentgraphbasic .rectangle-hpJinI {
+  background-color: var(--nobel);
+  height: 88px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 10px;
+}
+
+.basiccomponentgraphbasic .componentsgraph-dZSj9Y {
+  height: 115px;
+  left: 0px;
+  top: 0px;
+}
+
+.basiccomponentgraphbasic .group-e5l3o4 {
+  background-color: transparent;
+  border-radius: 5px;
+  height: 115px;
+  left: 0px;
+  overflow: hidden;
+  position: relative;
+  top: 0px;
+  width: 10px;
+}
+
+.basiccomponentgraphbasic .rectangle-copy-14-wqCWy4 {
+  height: 115px;
+}
+
+.basiccomponentgraphbasic .x1_colordefault_3695dd-wqCWy4 {
+  height: 115px;
+}
+
+.basiccomponentgraphbasic .rectangle-FjO2Cd {
+  background-color: var(--nobel);
+  height: 115px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 10px;
+}
+
+.basiccomponentgraphbasic .group-3-DLvUd5 {
+  height: 115px;
+  left: 59px;
+  width: 24px;
+}
+
+.basiccomponentgraphbasic .graph1line-5-b9J8Ef {
+  left: 0px;
+  position: relative;
+}
+
+.basiccomponentgraphbasic .group-HuZXep {
+  background-color: transparent;
+  height: 115px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 24px;
+}
+
+.basiccomponentgraphbasic .group-2-it4RxR {
+  background-color: transparent;
+  height: 115px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 24px;
+}
+
+.basiccomponentgraphbasic .componentsgraph-L98WGo {
+  height: 88px;
+  left: 14px;
+  top: 27px;
+}
+
+.basiccomponentgraphbasic .group-3pe9Ax {
+  background-color: transparent;
+  border-radius: 5px;
+  height: 88px;
+  left: 0px;
+  overflow: hidden;
+  position: relative;
+  top: 0px;
+  width: 10px;
+}
+
+.basiccomponentgraphbasic .rectangle-copy-14-mFIZLl {
+  height: 88px;
+}
+
+.basiccomponentgraphbasic .x1_colordefault_3695dd-mFIZLl {
+  height: 88px;
+}
+
+.basiccomponentgraphbasic .rectangle-CuMe4n {
+  background-color: var(--nobel);
+  height: 88px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 10px;
+}
+
+.basiccomponentgraphbasic .componentsgraph-hmZcjQ {
+  height: 115px;
+  left: 0px;
+  top: 0px;
+}
+
+.basiccomponentgraphbasic .group-MKx8ys {
+  background-color: transparent;
+  border-radius: 5px;
+  height: 115px;
+  left: 0px;
+  overflow: hidden;
+  position: relative;
+  top: 0px;
+  width: 10px;
+}
+
+.basiccomponentgraphbasic .rectangle-copy-14-pKExOr {
+  height: 115px;
+}
+
+.basiccomponentgraphbasic .x1_colordefault_3695dd-pKExOr {
+  height: 115px;
+}
+
+.basiccomponentgraphbasic .rectangle-CgHr2c {
+  background-color: var(--nobel);
+  height: 115px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 10px;
+}
+
+.basiccomponentgraphbasic .group-2-DLvUd5 {
+  background-color: transparent;
+  height: 145px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 287px;
+}
+
+.basiccomponentgraphbasic .com-graph-feature_-unit_1line_sel-PC5kjD {
+  background-color: transparent;
+  height: 29px;
+  left: 0px;
+  position: absolute;
+  top: 116px;
+  width: 43px;
+}
+
+.basiccomponentgraphbasic .com-graph-feature_2line_bar-vuBbJl {
+  background-color: transparent;
+  height: 3px;
+  left: 5px;
+  position: absolute;
+  top: 2px;
+  width: 34px;
+}
+
+.basiccomponentgraphbasic .rectangle-720-11-iadcki {
+  background-color: #737373;
+  height: 3px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 34px;
+}
+
+.basiccomponentgraphbasic .date-vuBbJl {
+  background-color: transparent;
+  color: #505050;
+  font-style: normal;
+  font-weight: 300;
+  height: 22px;
+  left: -1px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: center;
+  top: 6px;
+  width: 45px;
+}
+
+.basiccomponentgraphbasic .com-graph-feature_-unit_1line-3-PC5kjD {
+  background-color: transparent;
+  height: 31px;
+  left: 245px;
+  position: absolute;
+  top: 114px;
+  width: 42px;
+}
+
+.basiccomponentgraphbasic .com-graph-feature_-unit_1line-4-PC5kjD {
+  left: 49px;
+}
+
+.basiccomponentgraphbasic .com-graph-feature_-unit_1line-4-RQH1xi {
+  left: 97px;
+}
+
+.basiccomponentgraphbasic .com-graph-feature_-unit_1line-4-5B6HJk {
+  left: 145px;
+}
+
+.basiccomponentgraphbasic .com-graph-feature_-unit_1line-4-SpdxDy {
+  left: 196px;
+}
+
+.basiccomponentgraphbasic .graph1line-5-PC5kjD {
+  left: 10px;
+  position: absolute;
+}
+
+.basiccomponentgraphbasic .group-fSQXLC {
+  background-color: transparent;
+  height: 115px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 24px;
+}
+
+.basiccomponentgraphbasic .group-2-nRE94E {
+  background-color: transparent;
+  height: 115px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 24px;
+}
+
+.basiccomponentgraphbasic .componentsgraph-TXun40 {
+  height: 88px;
+  left: 14px;
+  top: 27px;
+}
+
+.basiccomponentgraphbasic .group-KGRniO {
+  background-color: transparent;
+  border-radius: 5px;
+  height: 88px;
+  left: 0px;
+  overflow: hidden;
+  position: relative;
+  top: 0px;
+  width: 10px;
+}
+
+.basiccomponentgraphbasic .rectangle-copy-14-g1RFNm {
+  height: 88px;
+}
+
+.basiccomponentgraphbasic .x1_colordefault_3695dd-g1RFNm {
+  height: 88px;
+}
+
+.basiccomponentgraphbasic .rectangle-huVttM {
+  background-color: var(--nobel);
+  height: 88px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 10px;
+}
+
+.basiccomponentgraphbasic .componentsgraph-2uxpUV {
+  height: 115px;
+  left: 0px;
+  top: 0px;
+}
+
+.basiccomponentgraphbasic .group-pzPnAo {
+  background-color: transparent;
+  border-radius: 5px;
+  height: 115px;
+  left: 0px;
+  overflow: hidden;
+  position: relative;
+  top: 0px;
+  width: 10px;
+}
+
+.basiccomponentgraphbasic .rectangle-copy-14-gzo8j3 {
+  height: 115px;
+}
+
+.basiccomponentgraphbasic .x1_colordefault_3695dd-gzo8j3 {
+  height: 115px;
+}
+
+.basiccomponentgraphbasic .rectangle-ona9yA {
+  background-color: var(--nobel);
+  height: 115px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 10px;
+}
+
+.basiccomponentgraphbasic .line-8-43-duzjlf {
+  background-color: transparent;
+  height: 40px;
+  left: 152px;
+  position: absolute;
+  top: 156px;
+  width: 2px;
+}
+
+.basiccomponentgraphbasic .line-8-45-duzjlf {
+  background-color: transparent;
+  height: 40px;
+  left: 104px;
+  position: absolute;
+  top: 156px;
+  width: 2px;
+}
+
+.basiccomponentgraphbasic .line-8-47-duzjlf {
+  background-color: transparent;
+  height: 40px;
+  left: 200px;
+  position: absolute;
+  top: 156px;
+  width: 2px;
+}
+
+.basiccomponentgraphbasic .line-8-49-duzjlf {
+  background-color: transparent;
+  height: 40px;
+  left: 249px;
+  position: absolute;
+  top: 156px;
+  width: 2px;
+}
+
+.basiccomponentgraphbasic .line-8-51-duzjlf {
+  background-color: transparent;
+  height: 40px;
+  left: 299px;
+  position: absolute;
+  top: 156px;
+  width: 2px;
+}
+
+.basiccomponentgraphbasic .line-8-44-duzjlf {
+  background-color: transparent;
+  height: 40px;
+  left: 158px;
+  position: absolute;
+  top: 156px;
+  width: 2px;
+}
+
+.basiccomponentgraphbasic .line-8-46-duzjlf {
+  background-color: transparent;
+  height: 40px;
+  left: 110px;
+  position: absolute;
+  top: 156px;
+  width: 2px;
+}
+
+.basiccomponentgraphbasic .line-8-48-duzjlf {
+  background-color: transparent;
+  height: 40px;
+  left: 206px;
+  position: absolute;
+  top: 156px;
+  width: 2px;
+}
+
+.basiccomponentgraphbasic .line-8-50-duzjlf {
+  background-color: transparent;
+  height: 40px;
+  left: 255px;
+  position: absolute;
+  top: 156px;
+  width: 2px;
+}
+
+.basiccomponentgraphbasic .line-8-52-duzjlf {
+  background-color: transparent;
+  height: 40px;
+  left: 305px;
+  position: absolute;
+  top: 156px;
+  width: 2px;
+}
+
+.basiccomponentgraphbasic .rectangle-5-duzjlf {
+  background-color: var(--golden-tainoi);
+  height: 40px;
+  left: 152px;
+  opacity: 0.3;
+  position: absolute;
+  top: 156px;
+  width: 6px;
+}
+
+.basiccomponentgraphbasic .rectangle-6-duzjlf {
+  background-color: var(--golden-tainoi);
+  height: 40px;
+  left: 104px;
+  top: 156px;
+  width: 6px;
+}
+
+.basiccomponentgraphbasic .rectangle-7-duzjlf {
+  background-color: var(--golden-tainoi);
+  height: 40px;
+  left: 200px;
+  opacity: 0.3;
+  position: absolute;
+  top: 156px;
+  width: 6px;
+}
+
+.basiccomponentgraphbasic .rectangle-8-duzjlf {
+  background-color: var(--golden-tainoi);
+  height: 40px;
+  left: 249px;
+  top: 156px;
+  width: 6px;
+}
+
+.basiccomponentgraphbasic .rectangle-9-duzjlf {
+  background-color: var(--golden-tainoi);
+  height: 40px;
+  left: 299px;
+  opacity: 0.3;
+  position: absolute;
+  top: 156px;
+  width: 6px;
+}
+
+.basiccomponentgraphbasic .group-duzjlf {
+  background-color: transparent;
+  height: 20px;
+  left: 373px;
+  position: absolute;
+  top: 70px;
+  width: 80px;
+}
+
+.basiccomponentgraphbasic .line-3-fTD2Jo {
+  background-color: transparent;
+  height: 2px;
+  left: -0px;
+  position: absolute;
+  top: 10px;
+  width: 70px;
+}
+
+.basiccomponentgraphbasic .icfont-fTD2Jo {
+  background-color: transparent;
+  height: 20px;
+  left: 60px;
+  position: absolute;
+  top: 0px;
+  width: 20px;
+}
+
+.basiccomponentgraphbasic .oval-zFOqPq {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 20px;
+}
+
+.basiccomponentgraphbasic .section-title-1_-zFOqPq {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-samsungoneui-600);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 600;
+  height: auto;
+  left: 5px;
+  letter-spacing: 0.00px;
+  line-height: 17px;
+  position: absolute;
+  text-align: center;
+  top: 2px;
+  white-space: nowrap;
+  width: 10px;
+}
+
+.basiccomponentgraphbasic .line-8-53-duzjlf {
+  background-color: transparent;
+  height: 172px;
+  left: 354px;
+  position: absolute;
+  top: 24px;
+  width: 2px;
+}
+
+.basiccomponentgraphbasic .line-8-54-duzjlf {
+  background-color: transparent;
+  height: 172px;
+  left: 348px;
+  position: absolute;
+  top: 24px;
+  width: 2px;
+}
+
+.basiccomponentgraphbasic .line-8-55-duzjlf {
+  background-color: transparent;
+  height: 2px;
+  left: 60px;
+  position: absolute;
+  top: 24px;
+  width: 312px;
+}
+
+.basiccomponentgraphbasic .line-8-56-duzjlf {
+  background-color: transparent;
+  height: 2px;
+  left: 45px;
+  position: absolute;
+  top: 55px;
+  width: 328px;
+}
+
+.basiccomponentgraphbasic .line-8-57-duzjlf {
+  background-color: transparent;
+  height: 2px;
+  left: 60px;
+  position: absolute;
+  top: 30px;
+  width: 312px;
+}
+
+.basiccomponentgraphbasic .rectangle-0-duzjlf {
+  background-color: var(--moody-blue);
+  height: 12px;
+  left: 354px;
+  opacity: 0.3;
+  position: absolute;
+  top: 24px;
+  width: 19px;
+}
+
+.basiccomponentgraphbasic .rectangle-5-Z7sy4t {
+  background-color: var(--moody-blue);
+  height: 12px;
+  left: 354px;
+  opacity: 0.3;
+  position: absolute;
+  top: 49px;
+  width: 19px;
+}
+
+.basiccomponentgraphbasic .rectangle-6-Z7sy4t {
+  background-color: var(--moody-blue);
+  height: 12px;
+  left: 354px;
+  top: 74px;
+  width: 19px;
+}
+
+.basiccomponentgraphbasic .rectangle-7-Z7sy4t {
+  background-color: var(--moody-blue);
+  height: 12px;
+  left: 354px;
+  opacity: 0.3;
+  position: absolute;
+  top: 99px;
+  width: 19px;
+}
+
+.basiccomponentgraphbasic .rectangle-8-Z7sy4t {
+  background-color: var(--moody-blue);
+  height: 12px;
+  left: 354px;
+  top: 122px;
+  width: 19px;
+}
+
+.basiccomponentgraphbasic .rectangle-9-Z7sy4t {
+  background-color: var(--moody-blue);
+  height: 12px;
+  left: 354px;
+  opacity: 0.3;
+  position: absolute;
+  top: 147px;
+  width: 19px;
+}
+
+.basiccomponentgraphbasic .sizeh_r-duzjlf {
+  height: 26px;
+  left: 373px;
+  top: 0px;
+  width: 40px;
+}
+
+.basiccomponentgraphbasic .group-wODJpd {
+  background-color: transparent;
+  height: 26px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 40px;
+}
+
+.basiccomponentgraphbasic .line-2-copy-2-z4EX8T {
+  height: 26px;
+  left: 7px;
+  top: -0px;
+  width: 7px;
+}
+
+.basiccomponentgraphbasic .size-h-r2-copy-4-z4EX8T {
+  left: 19px;
+  top: 4px;
+  width: 16px;
+}
+
+.basiccomponentgraphbasic .x25-XqL7Mi {
+  text-align: left;
+  top: 0px;
+}
+
+.basiccomponentgraphbasic .sizeh_r-left-duzjlf {
+  height: 32px;
+  left: 34px;
+  top: 0px;
+  width: 26px;
+}
+
+.basiccomponentgraphbasic .group-i2PxD9 {
+  background-color: transparent;
+  height: 32px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 26px;
+}
+
+.basiccomponentgraphbasic .line-2-copy-2-tQw2Na {
+  height: 32px;
+  left: 11px;
+  top: -0px;
+  width: 7px;
+}
+
+.basiccomponentgraphbasic .size-h-r2-copy-4-tQw2Na {
+  left: 0px;
+  top: 7px;
+  width: 16px;
+}
+
+.basiccomponentgraphbasic .x25-YJxwQk {
+  text-align: left;
+  top: 0px;
+}
+
+.basiccomponentgraphbasic .sizeh_r-left-Z7sy4t {
+  height: 17px;
+  left: 12px;
+  top: 48px;
+  width: 42px;
+}
+
+.basiccomponentgraphbasic .x25-oqG2cC {
+  text-align: left;
+  top: 0px;
+}
+
+.basiccomponentgraphbasic .sizeh_r-12-duzjlf {
+  background-color: transparent;
+  height: 17px;
+  left: 373px;
+  position: absolute;
+  top: 19px;
+  width: 40px;
+}
+
+.basiccomponentgraphbasic .group-tZFBuX {
+  background-color: transparent;
+  height: 17px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 40px;
+}
+
+.basiccomponentgraphbasic .line-2-copy-2-bqPFw3 {
+  height: 8px;
+  left: 7px;
+  top: 5px;
+  width: 7px;
+}
+
+.basiccomponentgraphbasic .size-h-r2-copy-4-bqPFw3 {
+  left: 19px;
+  top: 0px;
+  width: 8px;
+}
+
+.basiccomponentgraphbasic .x25-x38r5O {
+  text-align: left;
+  top: 0px;
+}
+
+.basiccomponentgraphbasic .sizeh_r-Z7sy4t {
+  height: 33px;
+  left: 346px;
+  top: 196px;
+  width: 12px;
+}
+
+.basiccomponentgraphbasic .size-YVUvez {
+  background-color: transparent;
+  height: 33px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 12px;
+}
+
+.basiccomponentgraphbasic .x25-cCr29o {
+  text-align: center;
+  top: 15px;
+}
+
+.basiccomponentgraphbasic .line-2-copy-2-cCr29o {
+  height: 7px;
+  left: 1px;
+  top: 8px;
+  width: 8px;
+}
+
+.basiccomponentgraphbasic .line-2-copy-2-EPGj7g {
+  height: 8px;
+  left: 4px;
+  top: 0px;
+  width: 7px;
+}
+
+.basiccomponentgraphbasic .rectangle-duzjlf {
+  background-color: #ed8566;
+  height: 24px;
+  left: 60px;
+  opacity: 0.3;
+  position: absolute;
+  top: 1px;
+  width: 313px;
+}
+
+.basiccomponentgraphbasic .rectangle-4-duzjlf {
+  height: 44px;
+  top: 154px;
+  width: 290px;
+}
+
+.basiccomponentgraphbasic .rectangle-Z7sy4t {
+  background-color: #78a890;
+  height: 6px;
+  left: 60px;
+  opacity: 0.3;
+  position: absolute;
+  top: 25px;
+  width: 313px;
+}
+
+.basiccomponentgraphbasic .rectangle-4-Z7sy4t {
+  height: 198px;
+  top: -0px;
+  width: 316px;
+}
+
+.basiccomponentgraphbasic .group-3-copy-6-x5EzBJ {
+  background-color: transparent;
+  height: 120px;
+  left: 780px;
+  position: absolute;
+  top: 0px;
+  width: 680px;
+}
+
+.basiccomponentgraphbasic .table-guide-title-rkRU1w {
+  left: 552px;
+  width: 128px;
+}
+
+.basiccomponentgraphbasic .rectangle-uHNAxO {
+  background-color: var(--black);
+  height: 1px;
+  left: 0px;
+  opacity: 0.3;
+  position: absolute;
+  top: 0px;
+  width: 128px;
+}
+
+.basiccomponentgraphbasic .table-title-text-uHNAxO {
+  width: 116px;
+}
+
+.basiccomponentgraphbasic .table-guide-title-PbxhLw {
+  left: 60px;
+  width: 166px;
+}
+
+.basiccomponentgraphbasic .rectangle-RFa4Ym {
+  background-color: var(--black);
+  height: 1px;
+  left: 0px;
+  opacity: 0.3;
+  position: absolute;
+  top: 0px;
+  width: 166px;
+}
+
+.basiccomponentgraphbasic .table-title-text-RFa4Ym {
+  width: 154px;
+}
+
+.basiccomponentgraphbasic .rectangle-qNNerV {
+  background-color: var(--black);
+  height: 1px;
+  left: 0px;
+  opacity: 0.3;
+  position: absolute;
+  top: 0px;
+  width: 106px;
+}
+
+.basiccomponentgraphbasic .table-title-text-qNNerV {
+  width: 94px;
+}
+
+.basiccomponentgraphbasic .rectangle-Bvx7Mr {
+  background-color: var(--black);
+  height: 1px;
+  left: 0px;
+  opacity: 0.3;
+  position: absolute;
+  top: 0px;
+  width: 190px;
+}
+
+.basiccomponentgraphbasic .table-title-text-Bvx7Mr {
+  width: 178px;
+}
+
+.basiccomponentgraphbasic .table-guide-title-NHLQ8a {
+  left: 0px;
+  width: 50px;
+}
+
+.basiccomponentgraphbasic .rectangle-8NDrM2 {
+  background-color: var(--black);
+  height: 1px;
+  left: 0px;
+  opacity: 0.3;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.basiccomponentgraphbasic .table-title-text-8NDrM2 {
+  width: 38px;
+}
+
+.basiccomponentgraphbasic .group-5-ct0j53 {
+  height: 64px;
+  left: 0px;
+  top: 56px;
+  width: 680px;
+}
+
+.basiccomponentgraphbasic .styletable1line_-color-copy-2-edfybI {
+  height: 53px;
+  position: relative;
+  top: 0px;
+}
+
+.basiccomponentgraphbasic .table-guide-text1line-2RG76N {
+  height: 31px;
+  left: 552px;
+  width: 128px;
+}
+
+.basiccomponentgraphbasic .rectangle-8nJ6sq {
+  background-color: var(--black);
+  height: 1px;
+  left: 0px;
+  opacity: 0.08;
+  position: absolute;
+  top: 0px;
+  width: 128px;
+}
+
+.basiccomponentgraphbasic .contents-8nJ6sq {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  white-space: nowrap;
+  width: 116px;
+}
+
+.basiccomponentgraphbasic .table-guide-text1line-Zul1oD {
+  height: 31px;
+  left: 60px;
+  width: 166px;
+}
+
+.basiccomponentgraphbasic .rectangle-JEUYa4 {
+  background-color: var(--black);
+  height: 1px;
+  left: 0px;
+  opacity: 0.08;
+  position: absolute;
+  top: 0px;
+  width: 166px;
+}
+
+.basiccomponentgraphbasic .contents-JEUYa4 {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  white-space: nowrap;
+  width: 154px;
+}
+
+.basiccomponentgraphbasic .table-guide-text1line-8AApMq {
+  height: 31px;
+  left: 236px;
+  width: 100px;
+}
+
+.basiccomponentgraphbasic .rectangle-8YMQUc {
+  background-color: var(--black);
+  height: 1px;
+  left: 0px;
+  opacity: 0.08;
+  position: absolute;
+  top: 0px;
+  width: 100px;
+}
+
+.basiccomponentgraphbasic .contents-8YMQUc {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  white-space: nowrap;
+  width: 88px;
+}
+
+.basiccomponentgraphbasic .table-guide-text2line-2RG76N {
+  height: 53px;
+}
+
+.basiccomponentgraphbasic .rectangle-83foRM {
+  background-color: var(--black);
+  height: 1px;
+  left: 0px;
+  opacity: 0.08;
+  position: absolute;
+  top: 0px;
+  width: 196px;
+}
+
+.basiccomponentgraphbasic .contents-83foRM {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  white-space: nowrap;
+  width: 184px;
+}
+
+.basiccomponentgraphbasic .contents-copy-83foRM {
+  color: var(--fuscous-gray);
+  top: 33px;
+  width: 184px;
+}
+
+.basiccomponentgraphbasic .table-guide-text1line-3xJ84G {
+  height: 31px;
+  left: 0px;
+  width: 50px;
+}
+
+.basiccomponentgraphbasic .rectangle-nEAHpe {
+  background-color: var(--black);
+  height: 1px;
+  left: 0px;
+  opacity: 0.08;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.basiccomponentgraphbasic .contents-nEAHpe {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  white-space: nowrap;
+  width: 38px;
+}
+
+.basiccomponentgraphbasic .group-8-RZvP4B {
+  background-color: transparent;
+  height: 616px;
+  left: 420px;
+  position: absolute;
+  top: 4507px;
+  width: 1400px;
+}
+
+.basiccomponentgraphbasic .web-sub_-title-RZvP4B {
+  background-color: transparent;
+  height: 58px;
+  left: 320px;
+  position: absolute;
+  top: 284px;
+  width: 1600px;
+}
+
+.basiccomponentgraphbasic .web-title-area-RZvP4B {
+  background-color: transparent;
+  height: 170px;
+  left: 320px;
+  position: fixed;
+  top: 64px;
+  width: 1600px;
+}
+
+.basiccomponentgraphbasic .web-tab-service-feature_-basic-layout-RZvP4B {
+  background-color: transparent;
+  height: 47px;
+  left: 320px;
+  position: fixed;
+  top: 187px;
+  width: 1600px;
+}
+
+.basiccomponentgraphbasic .x3rd-depth-n1xyWP {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1600px;
+}
+
+.basiccomponentgraphbasic .tab-n1xyWP {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  height: 17px;
+  justify-content: flex-start;
+  left: 100px;
+  position: absolute;
+  top: 0px;
+  width: auto;
+}
+
+.basiccomponentgraphbasic .basic-7wnuZy {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0;
+  position: relative;
+  width: 33px;
+}
+
+.basiccomponentgraphbasic .service-feature-type-7wnuZy {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 87px;
+}
+
+.basiccomponentgraphbasic .service-feature-type-copy-7wnuZy {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 24px;
+}
+
+.basiccomponentgraphbasic .service-feature-type-copy-2-7wnuZy {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 36px;
+}
+
+.basiccomponentgraphbasic .lnb-favorite-card-RZvP4B {
+  background-color: transparent;
+  height: 1581px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.basiccomponentgraphbasic .rectangle-ReSvt5 {
+  background-color: var(--concrete);
+  height: 1581px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.basiccomponentgraphbasic .background-ReSvt5 {
+  background-color: var(--concrete);
+  height: 1039px;
+  width: 320px;
+}
+
+.basiccomponentgraphbasic .stacked-group-ReSvt5 {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  left: 0px;
+  position: absolute;
+  top: 170px;
+  width: 320px;
+}
+
+.basiccomponentgraphbasic .web-index-title-common-j4xSSE {
+  margin: 0;
+}
+
+.basiccomponentgraphbasic .web-index-contents2dpeth-copy-2-j4xSSE {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentgraphbasic .group-RoNSBv {
+  background-color: transparent;
+  height: 46px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 320px;
+}
+
+.basiccomponentgraphbasic .x2-death-title-vJS1Q9 {
+  color: var(--sonic-silver);
+  font-weight: 400;
+}
+
+.basiccomponentgraphbasic .web-index-contents2dpeth-copy-14-j4xSSE {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentgraphbasic .group-zzrtba {
+  background-color: transparent;
+  height: 46px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 320px;
+}
+
+.basiccomponentgraphbasic .x2-death-title-Npo9OL {
+  color: var(--sonic-silver);
+  font-weight: 400;
+}
+
+.basiccomponentgraphbasic .web-index-contents2dpeth-copy-10-j4xSSE {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentgraphbasic .group-OVNpVf {
+  background-color: transparent;
+  height: 46px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 320px;
+}
+
+.basiccomponentgraphbasic .x2-death-title-dxdzb6 {
+  color: var(--sonic-silver);
+  font-weight: 400;
+}
+
+.basiccomponentgraphbasic .web-index-contents2dpeth-copy-6-j4xSSE {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentgraphbasic .group-X4fRXL {
+  background-color: transparent;
+  height: 46px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 320px;
+}
+
+.basiccomponentgraphbasic .x2-death-title-TGp6Sr {
+  color: var(--sonic-silver);
+  font-weight: 400;
+}
+
+.basiccomponentgraphbasic .web-index-contents2dpeth-copy-11-j4xSSE {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentgraphbasic .group-MiWQPZ {
+  background-color: transparent;
+  height: 46px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 320px;
+}
+
+.basiccomponentgraphbasic .x2-death-title-vhMLcc {
+  color: var(--sonic-silver);
+  font-weight: 400;
+}
+
+.basiccomponentgraphbasic .web-index-contents2dpeth-copy-j4xSSE {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentgraphbasic .group-I1wzpc {
+  background-color: transparent;
+  height: 46px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 320px;
+}
+
+.basiccomponentgraphbasic .x2-death-title-MwFC9W {
+  color: var(--sonic-silver);
+  font-weight: 400;
+}
+
+.basiccomponentgraphbasic .web-index-contents2dpeth-copy-7-j4xSSE {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentgraphbasic .group-xvKBnl {
+  background-color: transparent;
+  height: 46px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 320px;
+}
+
+.basiccomponentgraphbasic .x2-death-title-x1W58M {
+  color: var(--sonic-silver);
+  font-weight: 400;
+}
+
+.basiccomponentgraphbasic .web-index-contents2dpeth-copy-4-j4xSSE {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentgraphbasic .group-AUbKON {
+  background-color: transparent;
+  height: 46px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 320px;
+}
+
+.basiccomponentgraphbasic .x2-death-title-WmxKsd {
+  color: var(--sonic-silver);
+  font-weight: 400;
+}
+
+.basiccomponentgraphbasic .web-index-contents2dpeth-copy-8-j4xSSE {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentgraphbasic .group-Rdurc2 {
+  background-color: transparent;
+  height: 46px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 320px;
+}
+
+.basiccomponentgraphbasic .x2-death-title-xY54tx {
+  color: var(--sonic-silver);
+  font-weight: 400;
+}
+
+.basiccomponentgraphbasic .group-laWSCD {
+  background-color: transparent;
+  height: 46px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 320px;
+}
+
+.basiccomponentgraphbasic .x2-death-title-iSRTos {
+  color: var(--sonic-silver);
+  font-weight: 400;
+}
+
+.basiccomponentgraphbasic .web-index-contents2dpeth-copy-9-j4xSSE {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentgraphbasic .group-FYRYdB {
+  background-color: transparent;
+  height: 46px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 320px;
+}
+
+.basiccomponentgraphbasic .x2-death-title-KnBbmQ {
+  color: var(--sonic-silver);
+  font-weight: 400;
+}
+
+.basiccomponentgraphbasic .web-index-contents2dpeth-copy-5-j4xSSE {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentgraphbasic .group-PdsYpP {
+  background-color: transparent;
+  height: 46px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 320px;
+}
+
+.basiccomponentgraphbasic .x2-death-title-5dZ1B3 {
+  color: var(--sonic-silver);
+  font-weight: 400;
+}
+
+.basiccomponentgraphbasic .group-mbooUh {
+  background-color: transparent;
+  height: 46px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 320px;
+}
+
+.basiccomponentgraphbasic .x2-death-title-xQ4IA7 {
+  color: var(--sonic-silver);
+  font-weight: 400;
+}
+
+.basiccomponentgraphbasic .web-index-contents2dpeth-copy-3-j4xSSE {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentgraphbasic .group-Cchwx7 {
+  background-color: transparent;
+  height: 46px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 320px;
+}
+
+.basiccomponentgraphbasic .x2-death-title-4MWT5b {
+  color: var(--curious-blue);
+  font-weight: 500;
+}
+
+.basiccomponentgraphbasic .web-index-contents2dpeth-copy-12-j4xSSE {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentgraphbasic .group-xINwmm {
+  background-color: transparent;
+  height: 46px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 320px;
+}
+
+.basiccomponentgraphbasic .x2-death-title-yzH8rX {
+  color: var(--sonic-silver);
+  font-weight: 400;
+}
+
+.basiccomponentgraphbasic .web-index-contents2dpeth-copy-15-j4xSSE {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentgraphbasic .group-AqE98A {
+  background-color: transparent;
+  height: 46px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 320px;
+}
+
+.basiccomponentgraphbasic .x2-death-title-viT3QK {
+  color: var(--sonic-silver);
+  font-weight: 400;
+}
+
+.basiccomponentgraphbasic .web-index-contents2dpeth-copy-13-j4xSSE {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentgraphbasic .group-Vi2mlZ {
+  background-color: transparent;
+  height: 46px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 320px;
+}
+
+.basiccomponentgraphbasic .x2-death-title-IHYWnY {
+  color: var(--sonic-silver);
+  font-weight: 400;
+}
+
+.basiccomponentgraphbasic .web-index-contents1dpeth_open_selected-j4xSSE {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentgraphbasic .group-copy-j4xSSE {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentgraphbasic .empty-agiCxW {
+  top: 21px;
+}
+
+.basiccomponentgraphbasic .empty-UeknyL {
+  top: 0px;
+}
+
+.basiccomponentgraphbasic .web-index-title-common-copy-j4xSSE {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentgraphbasic .group-j4xSSE {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentgraphbasic .empty-x6YuWG {
+  top: 21px;
+}
+
+.basiccomponentgraphbasic .empty-oZ7Map {
+  top: 0px;
+}
+
+.basiccomponentgraphbasic .web-index-title-common-7iqqdw {
+  margin: 0px 0 0 0;
+}
+
+.basiccomponentgraphbasic .group-copy-2-j4xSSE {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentgraphbasic .empty-T1Rs0B {
+  top: 21px;
+}
+
+.basiccomponentgraphbasic .empty-PF82L6 {
+  top: 0px;
+}
+
+.basiccomponentgraphbasic .web-index-title-common-copy-2-j4xSSE {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentgraphbasic .line-ReSvt5 {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 154px;
+  width: 275px;
+}
+
+.basiccomponentgraphbasic .home-net-gui-guidelin-ReSvt5 {
+  background-color: transparent;
+  cursor: pointer;
+  font-weight: 700;
+  height: auto;
+  left: 24px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: left;
+  top: 100px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.basiccomponentgraphbasic .webgnb-RZvP4B {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: fixed;
+  top: 0px;
+  width: 1920px;
+}
+
+.basiccomponentgraphbasic .rectangle-zRxgOw {
+  background-color: var(--shark);
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.basiccomponentgraphbasic .background-zRxgOw {
+  background-color: var(--shark);
+  height: 64px;
+  width: 1920px;
+}
+
+.basiccomponentgraphbasic .index-zRxgOw {
+  background-color: transparent;
+  height: 22px;
+  left: 427px;
+  position: absolute;
+  top: 21px;
+  width: 116px;
+}
+
+.basiccomponentgraphbasic .web-index-select-oQSnMx {
+  background-color: transparent;
+  cursor: pointer;
+  height: 22px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 17px;
+}
+
+.basiccomponentgraphbasic .web-index-unselect-oQSnMx {
+  background-color: transparent;
+  cursor: pointer;
+  height: 22px;
+  left: 87px;
+  position: absolute;
+  top: 0px;
+  width: 29px;
+}
+
+.basiccomponentgraphbasic .web-index-unelect_main-zRxgOw {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 18px;
+  position: absolute;
+  top: 20px;
+  width: 293px;
+}
+
+.basiccomponentgraphbasic .logo-3yogS3 {
+  background-color: transparent;
+  height: 24px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 293px;
+}
+
+.basiccomponentgraphbasic .com-graph-feature_-unit_1line-4 {
+  background-color: transparent;
+  height: 31px;
+  position: absolute;
+  top: 114px;
+  width: 42px;
+}
+
+.basiccomponentgraphbasic .componentsgraph {
+  background-color: transparent;
+  position: absolute;
+  width: 10px;
+}
+
+.basiccomponentgraphbasic .content {
+  background-color: transparent;
+  font-style: normal;
+  font-weight: 400;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+}
+
+.basiccomponentgraphbasic .content-copy {
+  background-color: transparent;
+  color: var(--fuscous-gray);
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 258px;
+}
+
+.basiccomponentgraphbasic .content-copy-2 {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  width: 258px;
+}
+
+.basiccomponentgraphbasic .content-copy-3 {
+  background-color: transparent;
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 258px;
+}
+
+.basiccomponentgraphbasic .contents {
+  background-color: transparent;
+  font-style: normal;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 11px;
+}
+
+.basiccomponentgraphbasic .contents-copy {
+  background-color: transparent;
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+}
+
+.basiccomponentgraphbasic .date-6 {
+  background-color: transparent;
+  font-weight: 300;
+  height: 22px;
+  left: -1px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: center;
+  top: 7px;
+  width: 44px;
+}
+
+.basiccomponentgraphbasic .graph1line-5 {
+  background-color: transparent;
+  height: 115px;
+  opacity: 0.8;
+  top: 0px;
+  width: 24px;
+}
+
+.basiccomponentgraphbasic .group-2-copy-2 {
+  background-color: transparent;
+  left: 0px;
+  position: absolute;
+  top: 56px;
+  width: 680px;
+}
+
+.basiccomponentgraphbasic .group-2-copy-3 {
+  background-color: transparent;
+  left: 0px;
+  position: absolute;
+  width: 680px;
+}
+
+.basiccomponentgraphbasic .group-3 {
+  background-color: transparent;
+  position: absolute;
+  top: 0px;
+}
+
+.basiccomponentgraphbasic .group-4 {
+  background-color: transparent;
+  position: absolute;
+  top: 0px;
+}
+
+.basiccomponentgraphbasic .group-5 {
+  background-color: transparent;
+  position: absolute;
+}
+
+.basiccomponentgraphbasic .group-6 {
+  background-color: transparent;
+  position: absolute;
+  top: 0px;
+}
+
+.basiccomponentgraphbasic .group-7 {
+  background-color: transparent;
+  position: absolute;
+  top: 0px;
+}
+
+.basiccomponentgraphbasic .rectangle-4 {
+  background-color: transparent;
+  left: 59px;
+  position: absolute;
+}
+
+.basiccomponentgraphbasic .rectangle-6 {
+  opacity: 0.3;
+  position: absolute;
+}
+
+.basiccomponentgraphbasic .rectangle-8 {
+  opacity: 0.3;
+  position: absolute;
+}
+
+.basiccomponentgraphbasic .rectangle-copy-14 {
+  background-color: transparent;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 10px;
+}
+
+.basiccomponentgraphbasic .size-h-r2-copy-4 {
+  background-color: transparent;
+  height: 17px;
+  position: absolute;
+}
+
+.basiccomponentgraphbasic .sizeh_r {
+  background-color: transparent;
+  position: absolute;
+}
+
+.basiccomponentgraphbasic .sizeh_r-left {
+  background-color: transparent;
+  position: absolute;
+}
+
+.basiccomponentgraphbasic .styletable1line_-color-copy {
+  background-color: transparent;
+  left: 0px;
+  width: 680px;
+}
+
+.basiccomponentgraphbasic .styletable1line_-color-copy-2 {
+  background-color: transparent;
+  left: 0px;
+  width: 680px;
+}
+
+.basiccomponentgraphbasic .table-guide-text1line {
+  background-color: transparent;
+  position: absolute;
+  top: 0px;
+}
+
+.basiccomponentgraphbasic .table-guide-text2line {
+  background-color: transparent;
+  left: 346px;
+  position: absolute;
+  top: 0px;
+  width: 196px;
+}
+
+.basiccomponentgraphbasic .table-guide-text2line_m {
+  background-color: transparent;
+  height: 53px;
+  left: 60px;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.basiccomponentgraphbasic .table-guide-title-copy {
+  background-color: transparent;
+  height: 38px;
+  left: 236px;
+  position: absolute;
+  top: 0px;
+  width: 106px;
+}
+
+.basiccomponentgraphbasic .table-guide-title-copy-2 {
+  background-color: transparent;
+  height: 38px;
+  left: 352px;
+  position: absolute;
+  top: 0px;
+  width: 190px;
+}
+
+.basiccomponentgraphbasic .table-title-text {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 700;
+  height: 22px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 16px;
+  white-space: nowrap;
+}
+
+.basiccomponentgraphbasic .title {
+  background-color: transparent;
+  font-style: normal;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+}
+
+.basiccomponentgraphbasic .web-index-contents1dpeth_close {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentgraphbasic .web-index-title-common {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentgraphbasic .x1_colordefault_3695dd {
+  background-color: transparent;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 10px;
+}
+
+.basiccomponentgraphbasic .x2-death-title {
+  background-color: transparent;
+  font-style: normal;
+  height: 46px;
+  left: 70px;
+  letter-spacing: 0.00px;
+  line-height: 17px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 252px;
+}
+
+.basiccomponentgraphbasic .x25 {
+  background-color: transparent;
+  font-weight: 400;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 17px;
+  position: absolute;
+  white-space: nowrap;
+  width: auto;
+}

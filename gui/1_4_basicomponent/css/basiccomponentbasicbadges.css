@@ -1,0 +1,895 @@
+/* screen - basiccomponentbasicbadges */
+
+.basiccomponentbasicbadges {
+  background-color: var(--white);
+  height: 100vh;
+  margin: 0px;
+  min-height: 1095px;
+  min-width: 1920px;
+  overflow-x: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.basiccomponentbasicbadges .group-10-5J4r7H {
+  background-color: transparent;
+  height: 553px;
+  left: 420px;
+  position: absolute;
+  top: 342px;
+  width: 670px;
+}
+
+.basiccomponentbasicbadges .group-5J4r7H {
+  background-color: transparent;
+  height: 115px;
+  left: 1140px;
+  position: absolute;
+  top: 342px;
+  width: 680px;
+}
+
+.basiccomponentbasicbadges .group-2-copy-2-Iz5MKl {
+  background-color: transparent;
+  height: 59px;
+  left: 0px;
+  position: absolute;
+  top: 56px;
+  width: 680px;
+}
+
+.tableguidetext1line29 {
+  background-color: transparent;
+  height: 52.54%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 7.35%;
+}
+
+.tableguidetext1line29 .rectangle-IhWX62 {
+  background-color: #000000;
+  height: 1px;
+  left: 0px;
+  opacity: 0.08;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.tableguidetext1line29 .contents-IhWX62 {
+  background-color: transparent;
+  color: #000000;
+  font-family: 'SamsungOneKorean-400', Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 11px;
+  white-space: nowrap;
+  width: 38px;
+}
+
+.tableguidetext1line119 {
+  background-color: transparent;
+  height: 52.54%;
+  opacity: 1;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 39.71%;
+}
+
+.tableguidetext1line119 .rectangle-rwOB1W {
+  background-color: #000000;
+  height: 1px;
+  left: 0px;
+  opacity: 0.08;
+  position: absolute;
+  top: 0px;
+  width: 270px;
+}
+
+.tableguidetext1line119 .contents-rwOB1W {
+  background-color: transparent;
+  color: #0074d4;
+  font-family: 'SamsungOneKorean-600', Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 600;
+  height: 20px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 11px;
+  white-space: nowrap;
+  width: 258px;
+}
+
+.basiccomponentbasicbadges .table-guide-text2line_m-jqilbZ {
+  background-color: transparent;
+  height: 53px;
+  left: 60px;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.basiccomponentbasicbadges .rectangle-tLgXHR {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 340px;
+}
+
+.basiccomponentbasicbadges .group-tLgXHR {
+  background-color: transparent;
+  height: 42px;
+  left: 6px;
+  position: absolute;
+  top: 11px;
+  width: 328px;
+}
+
+.basiccomponentbasicbadges .content-9xWGF1 {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 22px;
+  white-space: nowrap;
+  width: 328px;
+}
+
+.basiccomponentbasicbadges .title-9xWGF1 {
+  background-color: transparent;
+  color: var(--persian-green);
+  font-style: normal;
+  font-weight: 600;
+  height: 20px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: 328px;
+}
+
+.basiccomponentbasicbadges .group-3-Iz5MKl {
+  background-color: transparent;
+  height: 56px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 680px;
+}
+
+.basiccomponentbasicbadges .table-guide-title-XmCgtx {
+  left: 410px;
+  width: 270px;
+}
+
+.basiccomponentbasicbadges .rectangle-YsKL6y {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 270px;
+}
+
+.basiccomponentbasicbadges .table-title-text-YsKL6y {
+  width: 258px;
+}
+
+.basiccomponentbasicbadges .table-guide-title-AqxyBU {
+  left: 60px;
+  width: 340px;
+}
+
+.basiccomponentbasicbadges .rectangle-IegCja {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 340px;
+}
+
+.basiccomponentbasicbadges .table-title-text-IegCja {
+  width: 328px;
+}
+
+.basiccomponentbasicbadges .table-guide-title-b2Tv8L {
+  left: 0px;
+  width: 50px;
+}
+
+.basiccomponentbasicbadges .rectangle-aa5qb8 {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 50px;
+}
+
+.basiccomponentbasicbadges .table-title-text-aa5qb8 {
+  width: 38px;
+}
+
+.basiccomponentbasicbadges .web-sub_-title-5J4r7H {
+  background-color: transparent;
+  height: 57px;
+  left: 320px;
+  position: absolute;
+  top: 284px;
+  width: 360px;
+}
+
+.basiccomponentbasicbadges .sub-title-hVsicw {
+  background-color: transparent;
+  font-weight: 700;
+  height: auto;
+  left: 100px;
+  letter-spacing: 0.00px;
+  line-height: 28px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.basiccomponentbasicbadges .web-title-area-5J4r7H {
+  background-color: transparent;
+  height: 170px;
+  left: 320px;
+  position: fixed;
+  top: 64px;
+  width: 1600px;
+}
+
+.basiccomponentbasicbadges .lnb-favorite-card-5J4r7H {
+  background-color: transparent;
+  height: 1581px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.basiccomponentbasicbadges .rectangle-X8F0Md {
+  background-color: var(--concrete);
+  height: 1581px;
+  width: 320px;
+}
+
+.basiccomponentbasicbadges .background-X8F0Md {
+  background-color: var(--concrete);
+  height: 1039px;
+  width: 320px;
+}
+
+.basiccomponentbasicbadges .stacked-group-X8F0Md {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  left: 0px;
+  position: absolute;
+  top: 170px;
+  width: 320px;
+}
+
+.basiccomponentbasicbadges .web-index-title-common-rkowFy {
+  margin: 0;
+}
+
+.basiccomponentbasicbadges .web-index-contents2dpeth-copy-2-rkowFy {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentbasicbadges .group-JvlZIm {
+  background-color: transparent;
+  height: 46px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 320px;
+}
+
+.basiccomponentbasicbadges .x2-death-title-L5CM33 {
+  color: var(--sonic-silver);
+  font-weight: 400;
+}
+
+.basiccomponentbasicbadges .web-index-contents2dpeth-copy-14-rkowFy {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentbasicbadges .group-EgD2LH {
+  background-color: transparent;
+  height: 46px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 320px;
+}
+
+.basiccomponentbasicbadges .x2-death-title-xV5LyE {
+  color: var(--curious-blue);
+  font-weight: 500;
+}
+
+.basiccomponentbasicbadges .web-index-contents2dpeth-copy-10-rkowFy {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentbasicbadges .group-7ovC1X {
+  background-color: transparent;
+  height: 46px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 320px;
+}
+
+.basiccomponentbasicbadges .x2-death-title-BLZDNc {
+  color: var(--sonic-silver);
+  font-weight: 400;
+}
+
+.basiccomponentbasicbadges .web-index-contents2dpeth-copy-6-rkowFy {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentbasicbadges .group-FVtxqx {
+  background-color: transparent;
+  height: 46px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 320px;
+}
+
+.basiccomponentbasicbadges .x2-death-title-a8zmff {
+  color: var(--sonic-silver);
+  font-weight: 400;
+}
+
+.basiccomponentbasicbadges .web-index-contents2dpeth-copy-11-rkowFy {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentbasicbadges .group-nZZUsL {
+  background-color: transparent;
+  height: 46px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 320px;
+}
+
+.basiccomponentbasicbadges .x2-death-title-V0Umnf {
+  color: var(--sonic-silver);
+  font-weight: 400;
+}
+
+.basiccomponentbasicbadges .web-index-contents2dpeth-copy-rkowFy {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentbasicbadges .group-ssILuL {
+  background-color: transparent;
+  height: 46px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 320px;
+}
+
+.basiccomponentbasicbadges .x2-death-title-8VbeK6 {
+  color: var(--sonic-silver);
+  font-weight: 400;
+}
+
+.basiccomponentbasicbadges .web-index-contents2dpeth-copy-7-rkowFy {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentbasicbadges .group-C67cIm {
+  background-color: transparent;
+  height: 46px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 320px;
+}
+
+.basiccomponentbasicbadges .x2-death-title-4vx7xN {
+  color: var(--sonic-silver);
+  font-weight: 400;
+}
+
+.basiccomponentbasicbadges .web-index-contents2dpeth-copy-4-rkowFy {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentbasicbadges .group-ksWjxi {
+  background-color: transparent;
+  height: 46px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 320px;
+}
+
+.basiccomponentbasicbadges .x2-death-title-aexKAD {
+  color: var(--sonic-silver);
+  font-weight: 400;
+}
+
+.basiccomponentbasicbadges .web-index-contents2dpeth-copy-8-rkowFy {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentbasicbadges .group-za0qni {
+  background-color: transparent;
+  height: 46px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 320px;
+}
+
+.basiccomponentbasicbadges .x2-death-title-S7Xle6 {
+  color: var(--sonic-silver);
+  font-weight: 400;
+}
+
+.basiccomponentbasicbadges .group-lnDxoN {
+  background-color: transparent;
+  height: 46px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 320px;
+}
+
+.basiccomponentbasicbadges .x2-death-title-fRRgkx {
+  color: var(--sonic-silver);
+  font-weight: 400;
+}
+
+.basiccomponentbasicbadges .web-index-contents2dpeth-copy-9-rkowFy {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentbasicbadges .group-ZMll7k {
+  background-color: transparent;
+  height: 46px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 320px;
+}
+
+.basiccomponentbasicbadges .x2-death-title-IHPLWc {
+  color: var(--sonic-silver);
+  font-weight: 400;
+}
+
+.basiccomponentbasicbadges .web-index-contents2dpeth-copy-5-rkowFy {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentbasicbadges .group-KzWOrQ {
+  background-color: transparent;
+  height: 46px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 320px;
+}
+
+.basiccomponentbasicbadges .x2-death-title-P1jJV2 {
+  color: var(--sonic-silver);
+  font-weight: 400;
+}
+
+.basiccomponentbasicbadges .group-emCUXY {
+  background-color: transparent;
+  height: 46px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 320px;
+}
+
+.basiccomponentbasicbadges .x2-death-title-ZN0wfi {
+  color: var(--sonic-silver);
+  font-weight: 400;
+}
+
+.basiccomponentbasicbadges .web-index-contents2dpeth-copy-3-rkowFy {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentbasicbadges .group-HCmn0a {
+  background-color: transparent;
+  height: 46px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 320px;
+}
+
+.basiccomponentbasicbadges .x2-death-title-Hp5Mdb {
+  color: var(--sonic-silver);
+  font-weight: 400;
+}
+
+.basiccomponentbasicbadges .web-index-contents2dpeth-copy-12-rkowFy {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentbasicbadges .group-yNILxg {
+  background-color: transparent;
+  height: 46px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 320px;
+}
+
+.basiccomponentbasicbadges .x2-death-title-ZRShtB {
+  color: var(--sonic-silver);
+  font-weight: 400;
+}
+
+.basiccomponentbasicbadges .web-index-contents2dpeth-copy-15-rkowFy {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentbasicbadges .group-fBAxBG {
+  background-color: transparent;
+  height: 46px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 320px;
+}
+
+.basiccomponentbasicbadges .x2-death-title-KILlmL {
+  color: var(--sonic-silver);
+  font-weight: 400;
+}
+
+.basiccomponentbasicbadges .web-index-contents2dpeth-copy-13-rkowFy {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentbasicbadges .group-cbWl1z {
+  background-color: transparent;
+  height: 46px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 320px;
+}
+
+.basiccomponentbasicbadges .x2-death-title-xrOY9X {
+  color: var(--sonic-silver);
+  font-weight: 400;
+}
+
+.basiccomponentbasicbadges .web-index-contents1dpeth_open_selected-rkowFy {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentbasicbadges .group-copy-rkowFy {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentbasicbadges .empty-FHlbPC {
+  top: 21px;
+}
+
+.basiccomponentbasicbadges .empty-VFqmNd {
+  top: 0px;
+}
+
+.basiccomponentbasicbadges .web-index-title-common-copy-rkowFy {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentbasicbadges .group-rkowFy {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentbasicbadges .empty-xRo4Wu {
+  top: 21px;
+}
+
+.basiccomponentbasicbadges .empty-9KDLKe {
+  top: 0px;
+}
+
+.basiccomponentbasicbadges .web-index-title-common-l3H8S5 {
+  margin: 0px 0 0 0;
+}
+
+.basiccomponentbasicbadges .group-copy-2-rkowFy {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentbasicbadges .empty-CMaqpb {
+  top: 21px;
+}
+
+.basiccomponentbasicbadges .empty-MJxUSK {
+  top: 0px;
+}
+
+.basiccomponentbasicbadges .web-index-title-common-copy-2-rkowFy {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentbasicbadges .line-X8F0Md {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 154px;
+  width: 275px;
+}
+
+.basiccomponentbasicbadges .home-net-gui-guidelin-X8F0Md {
+  background-color: transparent;
+  cursor: pointer;
+  font-weight: 700;
+  height: auto;
+  left: 24px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: left;
+  top: 100px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.basiccomponentbasicbadges .webgnb-5J4r7H {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: fixed;
+  top: 0px;
+  width: 1920px;
+}
+
+.basiccomponentbasicbadges .rectangle-hhvIA8 {
+  background-color: var(--shark);
+  height: 64px;
+  width: 1920px;
+}
+
+.basiccomponentbasicbadges .background-hhvIA8 {
+  background-color: var(--shark);
+  height: 64px;
+  width: 1920px;
+}
+
+.basiccomponentbasicbadges .index-hhvIA8 {
+  background-color: transparent;
+  height: 22px;
+  left: 427px;
+  position: absolute;
+  top: 21px;
+  width: 116px;
+}
+
+.basiccomponentbasicbadges .web-index-select-w33zmL {
+  background-color: transparent;
+  cursor: pointer;
+  height: 22px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 17px;
+}
+
+.basiccomponentbasicbadges .web-index-unselect-w33zmL {
+  background-color: transparent;
+  cursor: pointer;
+  height: 22px;
+  left: 87px;
+  position: absolute;
+  top: 0px;
+  width: 29px;
+}
+
+.basiccomponentbasicbadges .web-index-unelect_main-hhvIA8 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 18px;
+  position: absolute;
+  top: 20px;
+  width: 293px;
+}
+
+.basiccomponentbasicbadges .logo-cCUcn9 {
+  background-color: transparent;
+  height: 24px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 293px;
+}
+
+.basiccomponentbasicbadges .table-title-text {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 700;
+  height: 22px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 16px;
+  white-space: nowrap;
+}
+
+.basiccomponentbasicbadges .web-index-contents1dpeth_close {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentbasicbadges .web-index-title-common {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentbasicbadges .x2-death-title {
+  background-color: transparent;
+  font-style: normal;
+  height: 46px;
+  left: 70px;
+  letter-spacing: 0.00px;
+  line-height: 17px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 252px;
+}

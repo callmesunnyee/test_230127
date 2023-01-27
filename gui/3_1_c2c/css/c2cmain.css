@@ -1,0 +1,394 @@
+/* screen - c2cmain */
+
+.c2cmain {
+  background-color: var(--white);
+  height: 1080px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.c2cmain .cover-GCkQx7 {
+  background-color: transparent;
+  height: 764px;
+  left: 417px;
+  position: absolute;
+  top: 112px;
+  width: 949px;
+}
+
+.c2cmain .lnb-service-feature-GCkQx7 {
+  background-color: transparent;
+  height: 569px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.c2cmain .rectangle-JNLu03 {
+  background-color: var(--concrete);
+  height: 569px;
+  width: 320px;
+}
+
+.c2cmain .background-JNLu03 {
+  background-color: var(--concrete);
+  height: 569px;
+  width: 320px;
+}
+
+.c2cmain .line-JNLu03 {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 154px;
+  width: 275px;
+}
+
+.c2cmain .home-net-gui-guidelin-JNLu03 {
+  background-color: transparent;
+  cursor: pointer;
+  font-weight: 700;
+  height: auto;
+  left: 24px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: left;
+  top: 100px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.stackedgroup26 {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 170px;
+  width: 320px;
+}
+
+.stackedgroup26 .web-index-title-reference-copy-2-Btwf6q {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  margin: 0;
+  opacity: 1;
+  overflow: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup26 .group-gkpIi9 {
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 97.81%;
+}
+
+.stackedgroup26 .title-ejxpTb {
+  width: 72px;
+}
+
+.stackedgroup26 .group-Btwf6q {
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup26 .empty-HO7oKx {
+  bottom: 0px;
+}
+
+.stackedgroup26 .empty-h9NruZ {
+  top: 0px;
+}
+
+.stackedgroup26 .web-index-title-reference-copy-Btwf6q {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  overflow: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup26 .group-Jaf5uN {
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 97.81%;
+}
+
+.stackedgroup26 .title-P6fsdU {
+  width: 81px;
+}
+
+.stackedgroup26 .group-copy-Btwf6q {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup26 .empty-8fsevE {
+  bottom: 0px;
+}
+
+.stackedgroup26 .empty-zgElDT {
+  top: 0px;
+}
+
+.stackedgroup26 .web-index-title-reference-Btwf6q {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  overflow: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup26 .group-4rWjhv {
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 97.81%;
+}
+
+.stackedgroup26 .title-UJx1tz {
+  width: 136px;
+}
+
+.stackedgroup26 .web-index-contents1dpeth_close-copy-Btwf6q {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup26 .group-WtXpx6 {
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.stackedgroup26 .x1-depth-title-djOyjF {
+  width: 91px;
+}
+
+.stackedgroup26 .web-index-contents1dpeth_close-Btwf6q {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup26 .group-6ZUNXZ {
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.stackedgroup26 .x1-depth-title-z3hPJK {
+  width: 56px;
+}
+
+.stackedgroup26 .group-copy-2-Btwf6q {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup26 .empty-BDuYah {
+  bottom: 0px;
+}
+
+.stackedgroup26 .empty-fMJ61N {
+  top: 0px;
+}
+
+.stackedgroup26 .web-index-title-reference-copy-3-Btwf6q {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  overflow: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup26 .group-Erswwl {
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 97.81%;
+}
+
+.stackedgroup26 .title-U0TpJp {
+  width: 50px;
+}
+
+.c2cmain .webgnb-GCkQx7 {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.c2cmain .rectangle-ob99dn {
+  background-color: var(--shark);
+  height: 64px;
+  width: 1920px;
+}
+
+.c2cmain .background-ob99dn {
+  background-color: var(--shark);
+  height: 64px;
+  width: 1920px;
+}
+
+.c2cmain .index-ob99dn {
+  background-color: transparent;
+  height: 64px;
+  left: 420px;
+  position: absolute;
+  top: 0px;
+  width: 123px;
+}
+
+.c2cmain .web-index-select-p1RjAJ {
+  background-color: transparent;
+  cursor: pointer;
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 32px;
+}
+
+.c2cmain .web-index-unselect-p1RjAJ {
+  background-color: transparent;
+  cursor: pointer;
+  height: 64px;
+  left: 92px;
+  position: absolute;
+  top: 0px;
+  width: 31px;
+}
+
+.c2cmain .web-index-unelect_main-ob99dn {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 18px;
+  position: absolute;
+  top: 20px;
+  width: 293px;
+}
+
+.c2cmain .logo-4NWoN6 {
+  background-color: transparent;
+  height: 24px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 293px;
+}
+
+.stackedgroup26 .button {
+  background-color: transparent;
+  height: 122.22%;
+  left: -20.00%;
+  opacity: 1;
+  position: absolute;
+  top: -11.11%;
+  width: 140.00%;
+}
+
+.stackedgroup26 .group {
+  background-color: transparent;
+  opacity: 1;
+}
+
+.stackedgroup26 .title {
+  background-color: transparent;
+  color: #252525;
+  font-family: 'SamsungOne-600', Helvetica;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 600;
+  height: 22px;
+  left: 9.58%;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: calc(50.00% - 11px);
+  white-space: nowrap;
+}
+
+.stackedgroup26 .web-fold {
+  background-color: transparent;
+  height: 19.57%;
+  left: 9.38%;
+  opacity: 1;
+  overflow: hidden;
+  position: absolute;
+  top: 40.22%;
+  width: 1.56%;
+}
+
+.stackedgroup26 .x1-depth-title {
+  background-color: transparent;
+  color: #252525;
+  font-family: 'SamsungOne-500', Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 500;
+  height: 17px;
+  left: 15.62%;
+  letter-spacing: 0.00px;
+  line-height: 17px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: calc(50.00% - 8px);
+  white-space: nowrap;
+}

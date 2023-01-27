@@ -1,0 +1,2168 @@
+/* screen - basiccomponentbasicheaderappbar */
+
+.basiccomponentbasicheaderappbar {
+  background-color: var(--white);
+  height: 2243px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.basiccomponentbasicheaderappbar .group-17-QVRPX5 {
+  background-color: transparent;
+  height: 785px;
+  left: 358px;
+  position: absolute;
+  top: 1259px;
+  width: 732px;
+}
+
+.basiccomponentbasicheaderappbar .group-6-QVRPX5 {
+  background-color: transparent;
+  height: 238px;
+  left: 420px;
+  position: absolute;
+  top: 871px;
+  width: 670px;
+}
+
+.basiccomponentbasicheaderappbar .group-7-QVRPX5 {
+  background-color: transparent;
+  height: 379px;
+  left: 420px;
+  position: absolute;
+  top: 342px;
+  width: 670px;
+}
+
+.basiccomponentbasicheaderappbar .group-3-copy-QVRPX5 {
+  background-color: transparent;
+  height: 194px;
+  left: 1140px;
+  position: absolute;
+  top: 871px;
+  width: 680px;
+}
+
+.basiccomponentbasicheaderappbar .table-guide-title-ORmc9h {
+  left: 552px;
+  width: 128px;
+}
+
+.basiccomponentbasicheaderappbar .rectangle-51nIPN {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 128px;
+}
+
+.basiccomponentbasicheaderappbar .table-title-text-51nIPN {
+  width: 116px;
+}
+
+.basiccomponentbasicheaderappbar .table-guide-title-wLTBbz {
+  left: 60px;
+  width: 166px;
+}
+
+.basiccomponentbasicheaderappbar .rectangle-bxs4xs {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 166px;
+}
+
+.basiccomponentbasicheaderappbar .table-title-text-bxs4xs {
+  width: 154px;
+}
+
+.basiccomponentbasicheaderappbar .rectangle-XWlNmO {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 106px;
+}
+
+.basiccomponentbasicheaderappbar .table-title-text-XWlNmO {
+  width: 94px;
+}
+
+.basiccomponentbasicheaderappbar .rectangle-ZHnXhg {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 190px;
+}
+
+.basiccomponentbasicheaderappbar .table-title-text-ZHnXhg {
+  width: 178px;
+}
+
+.basiccomponentbasicheaderappbar .table-guide-title-802ndr {
+  left: 0px;
+  width: 50px;
+}
+
+.basiccomponentbasicheaderappbar .rectangle-plLAcu {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 50px;
+}
+
+.basiccomponentbasicheaderappbar .table-title-text-plLAcu {
+  width: 38px;
+}
+
+.basiccomponentbasicheaderappbar .table-guide-text1line-GtCNL3 {
+  height: 31px;
+  left: 552px;
+  width: 128px;
+}
+
+.basiccomponentbasicheaderappbar .rectangle-5ew9CW {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 128px;
+}
+
+.basiccomponentbasicheaderappbar .contents-5ew9CW {
+  width: 116px;
+}
+
+.basiccomponentbasicheaderappbar .table-guide-text1line-wjj65x {
+  height: 31px;
+  left: 60px;
+  width: 166px;
+}
+
+.basiccomponentbasicheaderappbar .rectangle-j1vzY0 {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 166px;
+}
+
+.basiccomponentbasicheaderappbar .contents-j1vzY0 {
+  width: 154px;
+}
+
+.basiccomponentbasicheaderappbar .table-guide-text1line-rEwxCB {
+  height: 31px;
+  left: 236px;
+  width: 100px;
+}
+
+.basiccomponentbasicheaderappbar .rectangle-viVukD {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 100px;
+}
+
+.basiccomponentbasicheaderappbar .contents-viVukD {
+  width: 88px;
+}
+
+.basiccomponentbasicheaderappbar .rectangle-elPjtr {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 196px;
+}
+
+.basiccomponentbasicheaderappbar .contents-elPjtr {
+  width: 184px;
+}
+
+.basiccomponentbasicheaderappbar .table-guide-text1line-dM2CbS {
+  height: 31px;
+  left: 0px;
+  width: 50px;
+}
+
+.basiccomponentbasicheaderappbar .rectangle-wclZbR {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 50px;
+}
+
+.basiccomponentbasicheaderappbar .contents-wclZbR {
+  width: 38px;
+}
+
+.basiccomponentbasicheaderappbar .table-guide-text1line-J7IGc9 {
+  height: 31px;
+  left: 552px;
+  width: 128px;
+}
+
+.basiccomponentbasicheaderappbar .rectangle-wNwxEf {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 128px;
+}
+
+.basiccomponentbasicheaderappbar .contents-wNwxEf {
+  width: 116px;
+}
+
+.basiccomponentbasicheaderappbar .table-guide-text1line-akRgN7 {
+  height: 31px;
+  left: 60px;
+  width: 166px;
+}
+
+.basiccomponentbasicheaderappbar .rectangle-1lEat7 {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 166px;
+}
+
+.basiccomponentbasicheaderappbar .contents-1lEat7 {
+  width: 154px;
+}
+
+.basiccomponentbasicheaderappbar .table-guide-text1line-HxrPBQ {
+  height: 31px;
+  left: 236px;
+  width: 100px;
+}
+
+.basiccomponentbasicheaderappbar .rectangle-R8V9Q9 {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 100px;
+}
+
+.basiccomponentbasicheaderappbar .contents-R8V9Q9 {
+  width: 88px;
+}
+
+.basiccomponentbasicheaderappbar .rectangle-vwAOVv {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 196px;
+}
+
+.basiccomponentbasicheaderappbar .contents-vwAOVv {
+  width: 184px;
+}
+
+.basiccomponentbasicheaderappbar .table-guide-text1line-7Re7N9 {
+  height: 31px;
+  left: 0px;
+  width: 50px;
+}
+
+.basiccomponentbasicheaderappbar .rectangle-WvHphw {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 50px;
+}
+
+.basiccomponentbasicheaderappbar .contents-WvHphw {
+  width: 38px;
+}
+
+.basiccomponentbasicheaderappbar .group-QVRPX5 {
+  background-color: transparent;
+  height: 219px;
+  left: 1140px;
+  position: absolute;
+  top: 312px;
+  width: 680px;
+}
+
+.basiccomponentbasicheaderappbar .group-2-copy-3-MuxQHx {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  position: absolute;
+  top: 182px;
+  width: 680px;
+}
+
+.tableguidetext1line88 {
+  background-color: transparent;
+  height: 83.78%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 7.35%;
+}
+
+.tableguidetext1line88 .rectangle-qCMxCW {
+  background-color: #000000;
+  height: 1px;
+  left: 0px;
+  opacity: 0.08;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.tableguidetext1line88 .contents-qCMxCW {
+  background-color: transparent;
+  color: #000000;
+  font-family: 'SamsungOneKorean-400', Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 11px;
+  white-space: nowrap;
+  width: 38px;
+}
+
+.tableguidetext1line159 {
+  background-color: transparent;
+  height: 83.78%;
+  opacity: 1;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 39.71%;
+}
+
+.tableguidetext1line159 .rectangle-qM37Xn {
+  background-color: #000000;
+  height: 1px;
+  left: 0px;
+  opacity: 0.08;
+  position: absolute;
+  top: 0px;
+  width: 270px;
+}
+
+.tableguidetext1line159 .contents-qM37Xn {
+  background-color: transparent;
+  color: #0074d4;
+  font-family: 'SamsungOneKorean-600', Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 600;
+  height: 20px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 11px;
+  white-space: nowrap;
+  width: 258px;
+}
+
+.tableguidetext2linem56 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 83.78%;
+  left: 8.82%;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 50.00%;
+}
+
+.tableguidetext2linem56 .rectangle-ovhL1t {
+  background-color: #000000;
+  height: 1px;
+  left: 0px;
+  opacity: 0.08;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.tableguidetext2linem56 .contents-ovhL1t {
+  background-color: transparent;
+  color: #0070c0;
+  font-family: 'SamsungOneKorean-400', Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  top: 11px;
+  white-space: nowrap;
+  width: 328px;
+}
+
+.basiccomponentbasicheaderappbar .group-2-copy-2-MuxQHx {
+  background-color: transparent;
+  height: 86px;
+  left: 0px;
+  position: absolute;
+  top: 86px;
+  width: 680px;
+}
+
+.tableguidetext1line89 {
+  background-color: transparent;
+  height: 36.05%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 7.35%;
+}
+
+.tableguidetext1line89 .rectangle-Lm7Tx5 {
+  background-color: #000000;
+  height: 1px;
+  left: 0px;
+  opacity: 0.08;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.tableguidetext1line89 .contents-Lm7Tx5 {
+  background-color: transparent;
+  color: #000000;
+  font-family: 'SamsungOneKorean-400', Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 11px;
+  white-space: nowrap;
+  width: 38px;
+}
+
+.basiccomponentbasicheaderappbar .table-guide-text1line-e3GiGA {
+  height: 75px;
+  left: 410px;
+  width: 270px;
+}
+
+.basiccomponentbasicheaderappbar .rectangle-Ku0llC {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 270px;
+}
+
+.basiccomponentbasicheaderappbar .group-Ku0llC {
+  background-color: transparent;
+  height: 64px;
+  left: 6px;
+  position: absolute;
+  top: 11px;
+  width: 258px;
+}
+
+.basiccomponentbasicheaderappbar .content-OxLTMF {
+  color: var(--black);
+  top: 22px;
+  width: 258px;
+}
+
+.basiccomponentbasicheaderappbar .content-fgxzkw {
+  color: var(--fuscous-gray);
+  top: 44px;
+  width: 258px;
+}
+
+.basiccomponentbasicheaderappbar .title-OxLTMF {
+  color: var(--science-blue);
+  font-style: normal;
+  font-weight: 600;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  text-align: left;
+  white-space: nowrap;
+  width: 258px;
+}
+
+.basiccomponentbasicheaderappbar .rectangle-iJs4El {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 340px;
+}
+
+.basiccomponentbasicheaderappbar .group-iJs4El {
+  background-color: transparent;
+  height: 42px;
+  left: 6px;
+  position: absolute;
+  top: 11px;
+  width: 328px;
+}
+
+.basiccomponentbasicheaderappbar .content-uVZFas {
+  color: var(--black);
+  top: 22px;
+  width: 328px;
+}
+
+.basiccomponentbasicheaderappbar .title-uVZFas {
+  color: var(--persian-green);
+  font-style: normal;
+  font-weight: 600;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  text-align: left;
+  white-space: nowrap;
+  width: 328px;
+}
+
+.basiccomponentbasicheaderappbar .group-3-MuxQHx {
+  background-color: transparent;
+  height: 56px;
+  left: 0px;
+  position: absolute;
+  top: 30px;
+  width: 680px;
+}
+
+.basiccomponentbasicheaderappbar .table-guide-title-w0xWxD {
+  left: 410px;
+  width: 270px;
+}
+
+.basiccomponentbasicheaderappbar .rectangle-MwZxBi {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 270px;
+}
+
+.basiccomponentbasicheaderappbar .table-title-text-MwZxBi {
+  width: 258px;
+}
+
+.basiccomponentbasicheaderappbar .table-guide-title-BhAGfB {
+  left: 60px;
+  width: 340px;
+}
+
+.basiccomponentbasicheaderappbar .rectangle-Y7tsUz {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 340px;
+}
+
+.basiccomponentbasicheaderappbar .table-title-text-Y7tsUz {
+  width: 328px;
+}
+
+.basiccomponentbasicheaderappbar .table-guide-title-Z3Vpec {
+  left: 0px;
+  width: 50px;
+}
+
+.basiccomponentbasicheaderappbar .rectangle-xzWn46 {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 50px;
+}
+
+.basiccomponentbasicheaderappbar .table-title-text-xzWn46 {
+  width: 38px;
+}
+
+.basiccomponentbasicheaderappbar .title-MuxQHx {
+  left: 60px;
+  width: 283px;
+}
+
+.basiccomponentbasicheaderappbar .group-13-QVRPX5 {
+  background-color: transparent;
+  height: 258px;
+  left: 1140px;
+  position: absolute;
+  top: 1259px;
+  width: 680px;
+}
+
+.basiccomponentbasicheaderappbar .group-2-copy-5-nTOw0n {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  position: absolute;
+  top: 56px;
+  width: 680px;
+}
+
+.tableguidetext1linecopy5 {
+  background-color: transparent;
+  height: 83.78%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 7.35%;
+}
+
+.tableguidetext1linecopy5 .rectangle-qygk6i {
+  background-color: #000000;
+  height: 1px;
+  left: 0px;
+  opacity: 0.08;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.tableguidetext1linecopy5 .contents-qygk6i {
+  background-color: transparent;
+  color: #000000;
+  font-family: 'SamsungOneKorean-400', Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 11px;
+  white-space: nowrap;
+  width: 38px;
+}
+
+.tableguidetext1linecopy6 {
+  background-color: transparent;
+  height: 83.78%;
+  opacity: 1;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 39.71%;
+}
+
+.tableguidetext1linecopy6 .rectangle-kSDPxb {
+  background-color: #000000;
+  height: 1px;
+  left: 0px;
+  opacity: 0.08;
+  position: absolute;
+  top: 0px;
+  width: 270px;
+}
+
+.tableguidetext1linecopy6 .contents-kSDPxb {
+  background-color: transparent;
+  color: #000000;
+  font-family: 'SamsungOneKorean-400', Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 11px;
+  white-space: nowrap;
+  width: 258px;
+}
+
+.tableguidetext2linemcopy22 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 83.78%;
+  left: 8.82%;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 50.00%;
+}
+
+.tableguidetext2linemcopy22 .rectangle-aYTnqx {
+  background-color: #000000;
+  height: 1px;
+  left: 0px;
+  opacity: 0.08;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.tableguidetext2linemcopy22 .contents-aYTnqx {
+  background-color: transparent;
+  color: #0070c0;
+  font-family: 'SamsungOneKorean-400', Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  top: 11px;
+  white-space: nowrap;
+  width: 328px;
+}
+
+.basiccomponentbasicheaderappbar .group-2-copy-4-nTOw0n {
+  background-color: transparent;
+  height: 86px;
+  left: 0px;
+  position: absolute;
+  top: 103px;
+  width: 680px;
+}
+
+.tableguidetext1linecopy3 {
+  background-color: transparent;
+  height: 36.05%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 7.35%;
+}
+
+.tableguidetext1linecopy3 .rectangle-RLr6et {
+  background-color: #000000;
+  height: 1px;
+  left: 0px;
+  opacity: 0.08;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.tableguidetext1linecopy3 .contents-RLr6et {
+  background-color: transparent;
+  color: #000000;
+  font-family: 'SamsungOneKorean-400', Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 11px;
+  white-space: nowrap;
+  width: 38px;
+}
+
+.basiccomponentbasicheaderappbar .table-guide-text1line-copy-4-44Mgdn {
+  background-color: transparent;
+  height: 75px;
+  left: 410px;
+  position: absolute;
+  top: 0px;
+  width: 270px;
+}
+
+.basiccomponentbasicheaderappbar .rectangle-xjdbJP {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 270px;
+}
+
+.basiccomponentbasicheaderappbar .group-xjdbJP {
+  background-color: transparent;
+  height: 64px;
+  left: 6px;
+  position: absolute;
+  top: 11px;
+  width: 258px;
+}
+
+.basiccomponentbasicheaderappbar .content-t93mTg {
+  color: var(--black);
+  top: 22px;
+  width: 258px;
+}
+
+.basiccomponentbasicheaderappbar .content-5ckx5x {
+  color: var(--fuscous-gray);
+  top: 44px;
+  width: 258px;
+}
+
+.basiccomponentbasicheaderappbar .title-t93mTg {
+  color: var(--science-blue);
+  font-style: normal;
+  font-weight: 600;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  text-align: left;
+  white-space: nowrap;
+  width: 258px;
+}
+
+.basiccomponentbasicheaderappbar .rectangle-5UHvR2 {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 340px;
+}
+
+.basiccomponentbasicheaderappbar .group-5UHvR2 {
+  background-color: transparent;
+  height: 42px;
+  left: 6px;
+  position: absolute;
+  top: 11px;
+  width: 328px;
+}
+
+.basiccomponentbasicheaderappbar .content-zPsyxx {
+  color: var(--black);
+  top: 22px;
+  width: 328px;
+}
+
+.basiccomponentbasicheaderappbar .title-zPsyxx {
+  color: var(--persian-green);
+  font-style: normal;
+  font-weight: 600;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  text-align: left;
+  white-space: nowrap;
+  width: 328px;
+}
+
+.basiccomponentbasicheaderappbar .group-3-copy-3-nTOw0n {
+  background-color: transparent;
+  height: 56px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 680px;
+}
+
+.basiccomponentbasicheaderappbar .table-guide-title-NRk3Mx {
+  left: 410px;
+  width: 270px;
+}
+
+.basiccomponentbasicheaderappbar .rectangle-1t3tHR {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 270px;
+}
+
+.basiccomponentbasicheaderappbar .table-title-text-1t3tHR {
+  width: 258px;
+}
+
+.basiccomponentbasicheaderappbar .table-guide-title-mCxT3h {
+  left: 60px;
+  width: 340px;
+}
+
+.basiccomponentbasicheaderappbar .rectangle-PyJW0K {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 340px;
+}
+
+.basiccomponentbasicheaderappbar .table-title-text-PyJW0K {
+  width: 328px;
+}
+
+.basiccomponentbasicheaderappbar .table-guide-title-TABxGh {
+  left: 0px;
+  width: 50px;
+}
+
+.basiccomponentbasicheaderappbar .rectangle-qrgr3k {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 50px;
+}
+
+.basiccomponentbasicheaderappbar .table-title-text-qrgr3k {
+  width: 38px;
+}
+
+.basiccomponentbasicheaderappbar .group-12-nTOw0n {
+  background-color: transparent;
+  height: 59px;
+  left: 0px;
+  position: absolute;
+  top: 199px;
+  width: 680px;
+}
+
+.tableguidetext1line90 {
+  background-color: transparent;
+  height: 52.54%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 7.35%;
+}
+
+.tableguidetext1line90 .rectangle-OuR4GH {
+  background-color: #000000;
+  height: 1px;
+  left: 0px;
+  opacity: 0.08;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.tableguidetext1line90 .contents-OuR4GH {
+  background-color: transparent;
+  color: #000000;
+  font-family: 'SamsungOneKorean-400', Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 11px;
+  white-space: nowrap;
+  width: 38px;
+}
+
+.tableguidetext1line160 {
+  background-color: transparent;
+  height: 52.54%;
+  opacity: 1;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 39.71%;
+}
+
+.tableguidetext1line160 .rectangle-xkz6ng {
+  background-color: #000000;
+  height: 1px;
+  left: 0px;
+  opacity: 0.08;
+  position: absolute;
+  top: 0px;
+  width: 270px;
+}
+
+.tableguidetext1line160 .contents-xkz6ng {
+  background-color: transparent;
+  color: #0074d4;
+  font-family: 'SamsungOneKorean-600', Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 600;
+  height: 20px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 11px;
+  white-space: nowrap;
+  width: 258px;
+}
+
+.basiccomponentbasicheaderappbar .table-guide-text2line_m-PX7Ooo {
+  cursor: pointer;
+}
+
+.basiccomponentbasicheaderappbar .rectangle-A8nbup {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 340px;
+}
+
+.basiccomponentbasicheaderappbar .group-A8nbup {
+  background-color: transparent;
+  height: 42px;
+  left: 6px;
+  position: absolute;
+  top: 11px;
+  width: 328px;
+}
+
+.basiccomponentbasicheaderappbar .content-HvfTo7 {
+  color: var(--lochmara);
+  text-decoration: underline;
+  top: 22px;
+  width: 328px;
+}
+
+.basiccomponentbasicheaderappbar .title-HvfTo7 {
+  color: var(--persian-green);
+  font-style: normal;
+  font-weight: 600;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  text-align: left;
+  white-space: nowrap;
+  width: 328px;
+}
+
+.basiccomponentbasicheaderappbar .group-3-copy-2-QVRPX5 {
+  background-color: transparent;
+  height: 190px;
+  left: 1140px;
+  position: absolute;
+  top: 1617px;
+  width: 680px;
+}
+
+.basiccomponentbasicheaderappbar .table-guide-title-wwwxQH {
+  left: 552px;
+  width: 128px;
+}
+
+.basiccomponentbasicheaderappbar .rectangle-ErmC5r {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 128px;
+}
+
+.basiccomponentbasicheaderappbar .table-title-text-ErmC5r {
+  width: 116px;
+}
+
+.basiccomponentbasicheaderappbar .table-guide-title-dKWVeP {
+  left: 60px;
+  width: 166px;
+}
+
+.basiccomponentbasicheaderappbar .rectangle-6ZHx7X {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 166px;
+}
+
+.basiccomponentbasicheaderappbar .table-title-text-6ZHx7X {
+  width: 154px;
+}
+
+.basiccomponentbasicheaderappbar .rectangle-bPP55F {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 106px;
+}
+
+.basiccomponentbasicheaderappbar .table-title-text-bPP55F {
+  width: 94px;
+}
+
+.basiccomponentbasicheaderappbar .rectangle-EY6WYg {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 190px;
+}
+
+.basiccomponentbasicheaderappbar .table-title-text-EY6WYg {
+  width: 178px;
+}
+
+.basiccomponentbasicheaderappbar .table-guide-title-AUTYeH {
+  left: 0px;
+  width: 50px;
+}
+
+.basiccomponentbasicheaderappbar .rectangle-joshqD {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 50px;
+}
+
+.basiccomponentbasicheaderappbar .table-title-text-joshqD {
+  width: 38px;
+}
+
+.basiccomponentbasicheaderappbar .table-guide-text1line-xixFzS {
+  height: 31px;
+  left: 552px;
+  width: 128px;
+}
+
+.basiccomponentbasicheaderappbar .rectangle-mFYTnV {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 128px;
+}
+
+.basiccomponentbasicheaderappbar .contents-mFYTnV {
+  width: 116px;
+}
+
+.basiccomponentbasicheaderappbar .table-guide-text1line-y4T5yd {
+  height: 31px;
+  left: 60px;
+  width: 166px;
+}
+
+.basiccomponentbasicheaderappbar .rectangle-l2pcjh {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 166px;
+}
+
+.basiccomponentbasicheaderappbar .contents-l2pcjh {
+  width: 154px;
+}
+
+.basiccomponentbasicheaderappbar .table-guide-text1line-6sWDKp {
+  height: 31px;
+  left: 236px;
+  width: 100px;
+}
+
+.basiccomponentbasicheaderappbar .rectangle-Oq2ihH {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 100px;
+}
+
+.basiccomponentbasicheaderappbar .contents-Oq2ihH {
+  width: 88px;
+}
+
+.basiccomponentbasicheaderappbar .rectangle-H2tBDK {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 196px;
+}
+
+.basiccomponentbasicheaderappbar .contents-H2tBDK {
+  width: 184px;
+}
+
+.basiccomponentbasicheaderappbar .table-guide-text1line-xWCC9w {
+  height: 31px;
+  left: 0px;
+  width: 50px;
+}
+
+.basiccomponentbasicheaderappbar .rectangle-4LLExE {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 50px;
+}
+
+.basiccomponentbasicheaderappbar .contents-4LLExE {
+  width: 38px;
+}
+
+.basiccomponentbasicheaderappbar .table-guide-text1line-sUdx6f {
+  height: 31px;
+  left: 552px;
+  width: 128px;
+}
+
+.basiccomponentbasicheaderappbar .rectangle-jm3nx8 {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 128px;
+}
+
+.basiccomponentbasicheaderappbar .contents-jm3nx8 {
+  width: 116px;
+}
+
+.basiccomponentbasicheaderappbar .table-guide-text1line-yfLsBm {
+  height: 31px;
+  left: 60px;
+  width: 166px;
+}
+
+.basiccomponentbasicheaderappbar .rectangle-avQeFd {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 166px;
+}
+
+.basiccomponentbasicheaderappbar .contents-avQeFd {
+  width: 154px;
+}
+
+.basiccomponentbasicheaderappbar .table-guide-text1line-0xmq5z {
+  height: 31px;
+  left: 236px;
+  width: 100px;
+}
+
+.basiccomponentbasicheaderappbar .rectangle-YRxMBl {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 100px;
+}
+
+.basiccomponentbasicheaderappbar .contents-YRxMBl {
+  width: 88px;
+}
+
+.basiccomponentbasicheaderappbar .rectangle-jC5e9j {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 196px;
+}
+
+.basiccomponentbasicheaderappbar .contents-jC5e9j {
+  width: 184px;
+}
+
+.basiccomponentbasicheaderappbar .table-guide-text1line-TKfT3x {
+  height: 31px;
+  left: 0px;
+  width: 50px;
+}
+
+.basiccomponentbasicheaderappbar .rectangle-8KLS4x {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 50px;
+}
+
+.basiccomponentbasicheaderappbar .contents-8KLS4x {
+  width: 38px;
+}
+
+.basiccomponentbasicheaderappbar .web-sub_-title-QVRPX5 {
+  background-color: transparent;
+  height: 57px;
+  left: 320px;
+  position: absolute;
+  top: 284px;
+  width: 360px;
+}
+
+.basiccomponentbasicheaderappbar .sub-title-7FUomp {
+  background-color: transparent;
+  font-weight: 700;
+  height: auto;
+  left: 100px;
+  letter-spacing: 0.00px;
+  line-height: 28px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.basiccomponentbasicheaderappbar .web-title-area-QVRPX5 {
+  background-color: transparent;
+  height: 170px;
+  left: 320px;
+  position: fixed;
+  top: 64px;
+  width: 1600px;
+}
+
+.basiccomponentbasicheaderappbar .web-tab-service-feature_-basic-layout-QVRPX5 {
+  background-color: transparent;
+  height: 47px;
+  left: 320px;
+  position: fixed;
+  top: 187px;
+  width: 1600px;
+}
+
+.basiccomponentbasicheaderappbar .x3rd-depth-bfEhqg {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1600px;
+}
+
+.basiccomponentbasicheaderappbar .tab-bfEhqg {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  height: 17px;
+  justify-content: flex-start;
+  left: 100px;
+  position: absolute;
+  top: 0px;
+  width: auto;
+}
+
+.basiccomponentbasicheaderappbar .header_-app-bar-Ioao9b {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0;
+  position: relative;
+  width: 102px;
+}
+
+.basiccomponentbasicheaderappbar .service-feature-type-Ioao9b {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 71px;
+}
+
+.basiccomponentbasicheaderappbar .layout_-basic-grid_-de-Ioao9b {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 202px;
+}
+
+.basiccomponentbasicheaderappbar .layout_-basic-grid_-se-Ioao9b {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 206px;
+}
+
+.basiccomponentbasicheaderappbar .layout_bg-Ioao9b {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 68px;
+}
+
+.basiccomponentbasicheaderappbar .layout_bg_-dynamic-br-Ioao9b {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 251px;
+}
+
+.basiccomponentbasicheaderappbar .progress-circle-Ioao9b {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 91px;
+}
+
+.basiccomponentbasicheaderappbar .refresh-Ioao9b {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 48px;
+}
+
+.basiccomponentbasicheaderappbar .lnb-favorite-card-QVRPX5 {
+  background-color: transparent;
+  height: 1581px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.basiccomponentbasicheaderappbar .rectangle-VlteOa {
+  background-color: var(--concrete);
+  height: 1581px;
+  width: 320px;
+}
+
+.basiccomponentbasicheaderappbar .background-VlteOa {
+  background-color: var(--concrete);
+  height: 1039px;
+  width: 320px;
+}
+
+.basiccomponentbasicheaderappbar .stacked-group-VlteOa {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  left: 0px;
+  position: absolute;
+  top: 170px;
+  width: 320px;
+}
+
+.basiccomponentbasicheaderappbar .web-index-title-common-GmRnc8 {
+  margin: 0;
+}
+
+.basiccomponentbasicheaderappbar .web-index-contents2dpeth-copy-2-GmRnc8 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentbasicheaderappbar .group-nuGVeR {
+  background-color: transparent;
+  height: 46px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 320px;
+}
+
+.basiccomponentbasicheaderappbar .x2-death-title-zte6vO {
+  color: var(--curious-blue);
+  font-weight: 500;
+}
+
+.basiccomponentbasicheaderappbar .web-index-contents2dpeth-copy-14-GmRnc8 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentbasicheaderappbar .group-aQtads {
+  background-color: transparent;
+  height: 46px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 320px;
+}
+
+.basiccomponentbasicheaderappbar .x2-death-title-5xme8q {
+  color: var(--sonic-silver);
+  font-weight: 400;
+}
+
+.basiccomponentbasicheaderappbar .web-index-contents2dpeth-copy-10-GmRnc8 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentbasicheaderappbar .group-xImdUJ {
+  background-color: transparent;
+  height: 46px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 320px;
+}
+
+.basiccomponentbasicheaderappbar .x2-death-title-Lnq6bv {
+  color: var(--sonic-silver);
+  font-weight: 400;
+}
+
+.basiccomponentbasicheaderappbar .web-index-contents2dpeth-copy-6-GmRnc8 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentbasicheaderappbar .group-44EuCu {
+  background-color: transparent;
+  height: 46px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 320px;
+}
+
+.basiccomponentbasicheaderappbar .x2-death-title-lhxGpl {
+  color: var(--sonic-silver);
+  font-weight: 400;
+}
+
+.basiccomponentbasicheaderappbar .web-index-contents2dpeth-copy-11-GmRnc8 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentbasicheaderappbar .group-K4JJKi {
+  background-color: transparent;
+  height: 46px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 320px;
+}
+
+.basiccomponentbasicheaderappbar .x2-death-title-YknUbt {
+  color: var(--sonic-silver);
+  font-weight: 400;
+}
+
+.basiccomponentbasicheaderappbar .web-index-contents2dpeth-copy-GmRnc8 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentbasicheaderappbar .group-FnH7TJ {
+  background-color: transparent;
+  height: 46px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 320px;
+}
+
+.basiccomponentbasicheaderappbar .x2-death-title-SWoYfb {
+  color: var(--sonic-silver);
+  font-weight: 400;
+}
+
+.basiccomponentbasicheaderappbar .web-index-contents2dpeth-copy-7-GmRnc8 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentbasicheaderappbar .group-8TystX {
+  background-color: transparent;
+  height: 46px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 320px;
+}
+
+.basiccomponentbasicheaderappbar .x2-death-title-cHw6xg {
+  color: var(--sonic-silver);
+  font-weight: 400;
+}
+
+.basiccomponentbasicheaderappbar .web-index-contents2dpeth-copy-4-GmRnc8 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentbasicheaderappbar .group-Uy6i9y {
+  background-color: transparent;
+  height: 46px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 320px;
+}
+
+.basiccomponentbasicheaderappbar .x2-death-title-aZP2o2 {
+  color: var(--sonic-silver);
+  font-weight: 400;
+}
+
+.basiccomponentbasicheaderappbar .web-index-contents2dpeth-copy-8-GmRnc8 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentbasicheaderappbar .group-SQQLHo {
+  background-color: transparent;
+  height: 46px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 320px;
+}
+
+.basiccomponentbasicheaderappbar .x2-death-title-xv7nhG {
+  color: var(--sonic-silver);
+  font-weight: 400;
+}
+
+.basiccomponentbasicheaderappbar .group-cg0XUL {
+  background-color: transparent;
+  height: 46px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 320px;
+}
+
+.basiccomponentbasicheaderappbar .x2-death-title-oO0FxO {
+  color: var(--sonic-silver);
+  font-weight: 400;
+}
+
+.basiccomponentbasicheaderappbar .web-index-contents2dpeth-copy-9-GmRnc8 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentbasicheaderappbar .group-EHYxtq {
+  background-color: transparent;
+  height: 46px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 320px;
+}
+
+.basiccomponentbasicheaderappbar .x2-death-title-VEOxqu {
+  color: var(--sonic-silver);
+  font-weight: 400;
+}
+
+.basiccomponentbasicheaderappbar .web-index-contents2dpeth-copy-5-GmRnc8 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentbasicheaderappbar .group-cBlWix {
+  background-color: transparent;
+  height: 46px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 320px;
+}
+
+.basiccomponentbasicheaderappbar .x2-death-title-Cn0JDR {
+  color: var(--sonic-silver);
+  font-weight: 400;
+}
+
+.basiccomponentbasicheaderappbar .group-NALbAb {
+  background-color: transparent;
+  height: 46px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 320px;
+}
+
+.basiccomponentbasicheaderappbar .x2-death-title-zGkA5J {
+  color: var(--sonic-silver);
+  font-weight: 400;
+}
+
+.basiccomponentbasicheaderappbar .web-index-contents2dpeth-copy-3-GmRnc8 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentbasicheaderappbar .group-ZNHxRX {
+  background-color: transparent;
+  height: 46px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 320px;
+}
+
+.basiccomponentbasicheaderappbar .x2-death-title-oVWQbq {
+  color: var(--sonic-silver);
+  font-weight: 400;
+}
+
+.basiccomponentbasicheaderappbar .web-index-contents2dpeth-copy-12-GmRnc8 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentbasicheaderappbar .group-EGXkv2 {
+  background-color: transparent;
+  height: 46px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 320px;
+}
+
+.basiccomponentbasicheaderappbar .x2-death-title-KhjrHD {
+  color: var(--sonic-silver);
+  font-weight: 400;
+}
+
+.basiccomponentbasicheaderappbar .web-index-contents2dpeth-copy-15-GmRnc8 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentbasicheaderappbar .group-5TKPWo {
+  background-color: transparent;
+  height: 46px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 320px;
+}
+
+.basiccomponentbasicheaderappbar .x2-death-title-q6mxDG {
+  color: var(--sonic-silver);
+  font-weight: 400;
+}
+
+.basiccomponentbasicheaderappbar .web-index-contents2dpeth-copy-13-GmRnc8 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentbasicheaderappbar .group-Ir7yIC {
+  background-color: transparent;
+  height: 46px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 320px;
+}
+
+.basiccomponentbasicheaderappbar .x2-death-title-NkkW5c {
+  color: var(--sonic-silver);
+  font-weight: 400;
+}
+
+.basiccomponentbasicheaderappbar .web-index-contents1dpeth_open_selected-GmRnc8 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentbasicheaderappbar .group-copy-GmRnc8 {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentbasicheaderappbar .empty-RZNR2Z {
+  top: 21px;
+}
+
+.basiccomponentbasicheaderappbar .empty-zBWp7V {
+  top: 0px;
+}
+
+.basiccomponentbasicheaderappbar .web-index-title-common-copy-GmRnc8 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentbasicheaderappbar .group-GmRnc8 {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentbasicheaderappbar .empty-vSkH9o {
+  top: 21px;
+}
+
+.basiccomponentbasicheaderappbar .empty-RsbqcF {
+  top: 0px;
+}
+
+.basiccomponentbasicheaderappbar .web-index-title-common-CBppAK {
+  margin: 0px 0 0 0;
+}
+
+.basiccomponentbasicheaderappbar .group-copy-2-GmRnc8 {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentbasicheaderappbar .empty-V32uWu {
+  top: 21px;
+}
+
+.basiccomponentbasicheaderappbar .empty-Idoi0B {
+  top: 0px;
+}
+
+.basiccomponentbasicheaderappbar .web-index-title-common-copy-2-GmRnc8 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentbasicheaderappbar .line-VlteOa {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 154px;
+  width: 275px;
+}
+
+.basiccomponentbasicheaderappbar .home-net-gui-guidelin-VlteOa {
+  background-color: transparent;
+  cursor: pointer;
+  font-weight: 700;
+  height: auto;
+  left: 24px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: left;
+  top: 100px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.basiccomponentbasicheaderappbar .webgnb-QVRPX5 {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: fixed;
+  top: 0px;
+  width: 1920px;
+}
+
+.basiccomponentbasicheaderappbar .rectangle-e5xxNu {
+  background-color: var(--shark);
+  height: 64px;
+  width: 1920px;
+}
+
+.basiccomponentbasicheaderappbar .background-e5xxNu {
+  background-color: var(--shark);
+  height: 64px;
+  width: 1920px;
+}
+
+.basiccomponentbasicheaderappbar .index-e5xxNu {
+  background-color: transparent;
+  height: 22px;
+  left: 427px;
+  position: absolute;
+  top: 21px;
+  width: 116px;
+}
+
+.basiccomponentbasicheaderappbar .web-index-select-FqtRtx {
+  background-color: transparent;
+  cursor: pointer;
+  height: 22px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 17px;
+}
+
+.basiccomponentbasicheaderappbar .web-index-unselect-FqtRtx {
+  background-color: transparent;
+  cursor: pointer;
+  height: 22px;
+  left: 87px;
+  position: absolute;
+  top: 0px;
+  width: 29px;
+}
+
+.basiccomponentbasicheaderappbar .web-index-unelect_main-e5xxNu {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 18px;
+  position: absolute;
+  top: 20px;
+  width: 293px;
+}
+
+.basiccomponentbasicheaderappbar .logo-HadctS {
+  background-color: transparent;
+  height: 24px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 293px;
+}
+
+.basiccomponentbasicheaderappbar .content {
+  background-color: transparent;
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+}
+
+.basiccomponentbasicheaderappbar .contents {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 11px;
+  white-space: nowrap;
+}
+
+.basiccomponentbasicheaderappbar .contents-copy {
+  background-color: transparent;
+  color: var(--fuscous-gray);
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 33px;
+  white-space: nowrap;
+  width: 184px;
+}
+
+.basiccomponentbasicheaderappbar .styletable1line_-color {
+  background-color: transparent;
+  height: 53px;
+  left: 0px;
+  position: absolute;
+  top: 56px;
+  width: 680px;
+}
+
+.basiccomponentbasicheaderappbar .styletable1line_-color-copy {
+  background-color: transparent;
+  height: 53px;
+  left: 0px;
+  position: absolute;
+  top: 130px;
+  width: 680px;
+}
+
+.basiccomponentbasicheaderappbar .table-guide-text1line {
+  background-color: transparent;
+  position: absolute;
+  top: 0px;
+}
+
+.basiccomponentbasicheaderappbar .table-guide-text2line {
+  background-color: transparent;
+  height: 53px;
+  left: 346px;
+  position: absolute;
+  top: 0px;
+  width: 196px;
+}
+
+.basiccomponentbasicheaderappbar .table-guide-text2line_m {
+  background-color: transparent;
+  height: 53px;
+  left: 60px;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.basiccomponentbasicheaderappbar .table-guide-title-copy {
+  background-color: transparent;
+  height: 38px;
+  left: 236px;
+  position: absolute;
+  top: 0px;
+  width: 106px;
+}
+
+.basiccomponentbasicheaderappbar .table-guide-title-copy-2 {
+  background-color: transparent;
+  height: 38px;
+  left: 352px;
+  position: absolute;
+  top: 0px;
+  width: 190px;
+}
+
+.basiccomponentbasicheaderappbar .table-title-text {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 700;
+  height: 22px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 16px;
+  white-space: nowrap;
+}
+
+.basiccomponentbasicheaderappbar .title {
+  background-color: transparent;
+  height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  top: 0px;
+}
+
+.basiccomponentbasicheaderappbar .web-index-contents1dpeth_close {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentbasicheaderappbar .web-index-title-common {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentbasicheaderappbar .x2-death-title {
+  background-color: transparent;
+  font-style: normal;
+  height: 46px;
+  left: 70px;
+  letter-spacing: 0.00px;
+  line-height: 17px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 252px;
+}

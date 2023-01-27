@@ -1,0 +1,2408 @@
+/* screen - basiccomponentplugininformation */
+
+.basiccomponentplugininformation {
+  background-color: var(--white);
+  height: 4305px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.basiccomponentplugininformation .group-20-DnMQk9 {
+  background-color: transparent;
+  height: 1935px;
+  left: 368px;
+  position: absolute;
+  top: 342px;
+  width: 1452px;
+}
+
+.basiccomponentplugininformation .group-10-CfI0Z7 {
+  background-color: transparent;
+  height: 1935px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 722px;
+}
+
+.basiccomponentplugininformation .group-copy-CfI0Z7 {
+  background-color: transparent;
+  height: 287px;
+  left: 772px;
+  position: absolute;
+  top: 0px;
+  width: 680px;
+}
+
+.basiccomponentplugininformation .group-2-copy-2-qnfGFm {
+  background-color: transparent;
+  height: 164px;
+  left: 0px;
+  position: absolute;
+  top: 56px;
+  width: 680px;
+}
+
+.tableguidetext1line106 {
+  background-color: transparent;
+  height: 18.90%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 7.35%;
+}
+
+.tableguidetext1line106 .rectangle-1AQsaM {
+  background-color: #000000;
+  height: 1px;
+  left: 0px;
+  opacity: 0.08;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.tableguidetext1line106 .contents-1AQsaM {
+  background-color: transparent;
+  color: #000000;
+  font-family: 'SamsungOneKorean-400', Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 11px;
+  white-space: nowrap;
+  width: 38px;
+}
+
+.basiccomponentplugininformation .table-guide-text1line-FDv1C4 {
+  height: 153px;
+  left: 410px;
+  width: 270px;
+}
+
+.basiccomponentplugininformation .rectangle-mk38ci {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 270px;
+}
+
+.basiccomponentplugininformation .contents-mk38ci {
+  color: var(--science-blue);
+  font-weight: 600;
+  width: 258px;
+}
+
+.basiccomponentplugininformation .contents-copy-mk38ci {
+  color: var(--black);
+  height: 120px;
+  width: 258px;
+}
+
+.basiccomponentplugininformation .rectangle-XcZkTj {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 340px;
+}
+
+.basiccomponentplugininformation .group-XcZkTj {
+  background-color: transparent;
+  height: 42px;
+  left: 6px;
+  position: absolute;
+  top: 11px;
+  width: 328px;
+}
+
+.basiccomponentplugininformation .content-IGRDh3 {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 22px;
+  white-space: nowrap;
+  width: 328px;
+}
+
+.basiccomponentplugininformation .title-IGRDh3 {
+  background-color: transparent;
+  color: var(--persian-green);
+  font-style: normal;
+  font-weight: 600;
+  height: 20px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: 328px;
+}
+
+.basiccomponentplugininformation .group-2-copy-3-qnfGFm {
+  height: 57px;
+  top: 230px;
+}
+
+.tableguidetext1line107 {
+  background-color: transparent;
+  height: 54.39%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 7.35%;
+}
+
+.tableguidetext1line107 .rectangle-420S0p {
+  background-color: #000000;
+  height: 1px;
+  left: 0px;
+  opacity: 0.08;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.tableguidetext1line107 .contents-420S0p {
+  background-color: transparent;
+  color: #000000;
+  font-family: 'SamsungOneKorean-400', Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 11px;
+  white-space: nowrap;
+  width: 38px;
+}
+
+.tableguidetext1line169 {
+  background-color: transparent;
+  height: 54.39%;
+  opacity: 1;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 39.71%;
+}
+
+.tableguidetext1line169 .rectangle-vKu2Oh {
+  background-color: #000000;
+  height: 1px;
+  left: 0px;
+  opacity: 0.08;
+  position: absolute;
+  top: 0px;
+  width: 270px;
+}
+
+.tableguidetext1line169 .contents-vKu2Oh {
+  background-color: transparent;
+  color: #000000;
+  font-family: 'SamsungOneKorean-400', Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 11px;
+  white-space: nowrap;
+  width: 258px;
+}
+
+.tableguidetext2linem66 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 89.47%;
+  left: 8.82%;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 50.00%;
+}
+
+.tableguidetext2linem66 .rectangle-mbbkG6 {
+  background-color: #000000;
+  height: 1px;
+  left: 0px;
+  opacity: 0.08;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.tableguidetext2linem66 .contents-mbbkG6 {
+  background-color: transparent;
+  color: #0070c0;
+  font-family: 'SamsungOneKorean-400', Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  height: 40px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  top: 11px;
+  width: 328px;
+}
+
+.basiccomponentplugininformation .table-guide-title-3PeTI7 {
+  left: 410px;
+  width: 270px;
+}
+
+.basiccomponentplugininformation .rectangle-UmYt9v {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 270px;
+}
+
+.basiccomponentplugininformation .table-title-text-UmYt9v {
+  width: 258px;
+}
+
+.basiccomponentplugininformation .table-guide-title-sATl17 {
+  left: 60px;
+  width: 340px;
+}
+
+.basiccomponentplugininformation .rectangle-UQwkPY {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 340px;
+}
+
+.basiccomponentplugininformation .table-title-text-UQwkPY {
+  width: 328px;
+}
+
+.basiccomponentplugininformation .table-guide-title-Dkaf9h {
+  left: 0px;
+  width: 50px;
+}
+
+.basiccomponentplugininformation .rectangle-c7BPtQ {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 50px;
+}
+
+.basiccomponentplugininformation .table-title-text-c7BPtQ {
+  width: 38px;
+}
+
+.basiccomponentplugininformation .group-3-copy-12-CfI0Z7 {
+  background-color: transparent;
+  height: 194px;
+  left: 772px;
+  position: absolute;
+  top: 387px;
+  width: 680px;
+}
+
+.basiccomponentplugininformation .table-guide-title-dZZy1y {
+  left: 552px;
+  width: 128px;
+}
+
+.basiccomponentplugininformation .rectangle-xWXqmP {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 128px;
+}
+
+.basiccomponentplugininformation .table-title-text-xWXqmP {
+  width: 116px;
+}
+
+.basiccomponentplugininformation .table-guide-title-aC3kKX {
+  left: 60px;
+  width: 166px;
+}
+
+.basiccomponentplugininformation .rectangle-2TOCkE {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 166px;
+}
+
+.basiccomponentplugininformation .table-title-text-2TOCkE {
+  width: 154px;
+}
+
+.basiccomponentplugininformation .rectangle-Z60ebR {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 106px;
+}
+
+.basiccomponentplugininformation .table-title-text-Z60ebR {
+  width: 94px;
+}
+
+.basiccomponentplugininformation .rectangle-xKT2oi {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 190px;
+}
+
+.basiccomponentplugininformation .table-title-text-xKT2oi {
+  width: 178px;
+}
+
+.basiccomponentplugininformation .table-guide-title-aCzxip {
+  left: 0px;
+  width: 50px;
+}
+
+.basiccomponentplugininformation .rectangle-XU36bW {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 50px;
+}
+
+.basiccomponentplugininformation .table-title-text-XU36bW {
+  width: 38px;
+}
+
+.basiccomponentplugininformation .group-5-mj1Nxj {
+  height: 64px;
+}
+
+.basiccomponentplugininformation .group-12-copy-4i0x0H {
+  height: 64px;
+}
+
+.basiccomponentplugininformation .styletable1line_-color-copy-2-lmXmX1 {
+  height: 53px;
+}
+
+.basiccomponentplugininformation .table-guide-text1line-riOiLD {
+  height: 31px;
+  left: 552px;
+  width: 128px;
+}
+
+.basiccomponentplugininformation .rectangle-PkO7uB {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 128px;
+}
+
+.basiccomponentplugininformation .contents-PkO7uB {
+  color: var(--black);
+  font-weight: 400;
+  width: 116px;
+}
+
+.basiccomponentplugininformation .table-guide-text1line-ieynLx {
+  height: 31px;
+  left: 60px;
+  width: 166px;
+}
+
+.basiccomponentplugininformation .rectangle-PEdcOR {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 166px;
+}
+
+.basiccomponentplugininformation .contents-PEdcOR {
+  color: var(--black);
+  font-weight: 400;
+  width: 154px;
+}
+
+.basiccomponentplugininformation .table-guide-text1line-irI3R5 {
+  height: 31px;
+  left: 236px;
+  width: 100px;
+}
+
+.basiccomponentplugininformation .rectangle-knimJw {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 100px;
+}
+
+.basiccomponentplugininformation .contents-knimJw {
+  color: var(--black);
+  font-weight: 400;
+  width: 88px;
+}
+
+.basiccomponentplugininformation .table-guide-text2line-riOiLD {
+  height: 53px;
+}
+
+.basiccomponentplugininformation .rectangle-7NYabp {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 196px;
+}
+
+.basiccomponentplugininformation .contents-7NYabp {
+  color: var(--black);
+  font-weight: 400;
+  width: 184px;
+}
+
+.basiccomponentplugininformation .contents-copy-7NYabp {
+  color: var(--fuscous-gray);
+  height: 20px;
+  white-space: nowrap;
+  width: 184px;
+}
+
+.basiccomponentplugininformation .table-guide-text1line-Xztx6n {
+  height: 31px;
+  left: 0px;
+  width: 50px;
+}
+
+.basiccomponentplugininformation .rectangle-tDi0xD {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 50px;
+}
+
+.basiccomponentplugininformation .contents-tDi0xD {
+  color: var(--black);
+  font-weight: 400;
+  width: 38px;
+}
+
+.basiccomponentplugininformation .group-13-mj1Nxj {
+  height: 64px;
+  top: 130px;
+  width: 680px;
+}
+
+.basiccomponentplugininformation .group-5-copy-2-FNXPmT {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 680px;
+}
+
+.basiccomponentplugininformation .group-12-copy-Z1ZOhx {
+  height: 64px;
+}
+
+.basiccomponentplugininformation .styletable1line_-color-copy-2-a3DPPm {
+  height: 53px;
+}
+
+.basiccomponentplugininformation .table-guide-text1line-4HhBO4 {
+  height: 31px;
+  left: 552px;
+  width: 128px;
+}
+
+.basiccomponentplugininformation .rectangle-GyetbU {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 128px;
+}
+
+.basiccomponentplugininformation .contents-GyetbU {
+  color: var(--black);
+  font-weight: 400;
+  width: 116px;
+}
+
+.basiccomponentplugininformation .table-guide-text1line-Yv7trT {
+  height: 31px;
+  left: 60px;
+  width: 166px;
+}
+
+.basiccomponentplugininformation .rectangle-VY66Fq {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 166px;
+}
+
+.basiccomponentplugininformation .contents-VY66Fq {
+  color: var(--black);
+  font-weight: 400;
+  width: 154px;
+}
+
+.basiccomponentplugininformation .table-guide-text1line-P4GTUV {
+  height: 31px;
+  left: 236px;
+  width: 100px;
+}
+
+.basiccomponentplugininformation .rectangle-Qhzwpy {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 100px;
+}
+
+.basiccomponentplugininformation .contents-Qhzwpy {
+  color: var(--black);
+  font-weight: 400;
+  width: 88px;
+}
+
+.basiccomponentplugininformation .table-guide-text2line-4HhBO4 {
+  height: 53px;
+}
+
+.basiccomponentplugininformation .rectangle-t9CGsx {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 196px;
+}
+
+.basiccomponentplugininformation .contents-t9CGsx {
+  color: var(--black);
+  font-weight: 400;
+  width: 184px;
+}
+
+.basiccomponentplugininformation .contents-copy-t9CGsx {
+  color: var(--fuscous-gray);
+  height: 20px;
+  white-space: nowrap;
+  width: 184px;
+}
+
+.basiccomponentplugininformation .table-guide-text1line-wcxqxi {
+  height: 31px;
+  left: 0px;
+  width: 50px;
+}
+
+.basiccomponentplugininformation .rectangle-YjyFSv {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 50px;
+}
+
+.basiccomponentplugininformation .contents-YjyFSv {
+  color: var(--black);
+  font-weight: 400;
+  width: 38px;
+}
+
+.basiccomponentplugininformation .group-18-DnMQk9 {
+  background-color: transparent;
+  height: 631px;
+  left: 380px;
+  position: absolute;
+  top: 3474px;
+  width: 1440px;
+}
+
+.basiccomponentplugininformation .group-11-k1KxBg {
+  background-color: transparent;
+  height: 481px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 710px;
+}
+
+.basiccomponentplugininformation .group-9-k1KxBg {
+  background-color: transparent;
+  height: 364px;
+  left: 760px;
+  position: absolute;
+  top: 0px;
+  width: 680px;
+}
+
+.basiccomponentplugininformation .group-17-mxAOcA {
+  background-color: transparent;
+  height: 20px;
+  left: 408px;
+  position: absolute;
+  top: 344px;
+  width: 272px;
+}
+
+.basiccomponentplugininformation .group-copy-3-mxAOcA {
+  background-color: transparent;
+  height: 334px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 680px;
+}
+
+.basiccomponentplugininformation .group-2-copy-3-SVNQ4o {
+  height: 104px;
+  top: 56px;
+}
+
+.tableguidetext1line108 {
+  background-color: transparent;
+  height: 29.81%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 7.35%;
+}
+
+.tableguidetext1line108 .rectangle-084v4G {
+  background-color: #000000;
+  height: 1px;
+  left: 0px;
+  opacity: 0.08;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.tableguidetext1line108 .contents-084v4G {
+  background-color: transparent;
+  color: #000000;
+  font-family: 'SamsungOneKorean-400', Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 11px;
+  white-space: nowrap;
+  width: 38px;
+}
+
+.basiccomponentplugininformation .table-guide-text1line-4PakYb {
+  height: 93px;
+  left: 410px;
+  width: 270px;
+}
+
+.basiccomponentplugininformation .rectangle-yqW6H1 {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 270px;
+}
+
+.basiccomponentplugininformation .contents-yqW6H1 {
+  color: var(--science-blue);
+  font-weight: 600;
+  width: 258px;
+}
+
+.basiccomponentplugininformation .contents-copy-yqW6H1 {
+  color: var(--black);
+  height: 60px;
+  width: 258px;
+}
+
+.basiccomponentplugininformation .rectangle-Swzwb2 {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 340px;
+}
+
+.basiccomponentplugininformation .contents-Swzwb2 {
+  color: var(--persian-green);
+  font-weight: 600;
+  width: 328px;
+}
+
+.basiccomponentplugininformation .contents-copy-Swzwb2 {
+  color: var(--black);
+  height: 20px;
+  white-space: nowrap;
+  width: 328px;
+}
+
+.basiccomponentplugininformation .group-2-copy-4-SVNQ4o {
+  background-color: transparent;
+  height: 164px;
+  left: 0px;
+  position: absolute;
+  top: 170px;
+  width: 680px;
+}
+
+.tableguidetext1line109 {
+  background-color: transparent;
+  height: 18.90%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 7.35%;
+}
+
+.tableguidetext1line109 .rectangle-lxXF3w {
+  background-color: #000000;
+  height: 1px;
+  left: 0px;
+  opacity: 0.08;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.tableguidetext1line109 .contents-lxXF3w {
+  background-color: transparent;
+  color: #000000;
+  font-family: 'SamsungOneKorean-400', Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 11px;
+  white-space: nowrap;
+  width: 38px;
+}
+
+.basiccomponentplugininformation .table-guide-text1line-yy2Dj4 {
+  height: 153px;
+  left: 410px;
+  width: 270px;
+}
+
+.basiccomponentplugininformation .rectangle-9jO012 {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 270px;
+}
+
+.basiccomponentplugininformation .contents-9jO012 {
+  color: var(--science-blue);
+  font-weight: 600;
+  width: 258px;
+}
+
+.basiccomponentplugininformation .contents-copy-9jO012 {
+  color: var(--black);
+  height: 120px;
+  width: 258px;
+}
+
+.basiccomponentplugininformation .rectangle-f1uxtp {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 340px;
+}
+
+.basiccomponentplugininformation .contents-f1uxtp {
+  color: var(--persian-green);
+  font-weight: 600;
+  width: 328px;
+}
+
+.basiccomponentplugininformation .contents-copy-f1uxtp {
+  color: var(--black);
+  height: 20px;
+  white-space: nowrap;
+  width: 328px;
+}
+
+.basiccomponentplugininformation .table-guide-title-aMQcLC {
+  left: 410px;
+  width: 270px;
+}
+
+.basiccomponentplugininformation .rectangle-xSJSxo {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 270px;
+}
+
+.basiccomponentplugininformation .table-title-text-xSJSxo {
+  width: 258px;
+}
+
+.basiccomponentplugininformation .table-guide-title-vsF4uR {
+  left: 60px;
+  width: 340px;
+}
+
+.basiccomponentplugininformation .rectangle-cs4N6A {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 340px;
+}
+
+.basiccomponentplugininformation .table-title-text-cs4N6A {
+  width: 328px;
+}
+
+.basiccomponentplugininformation .table-guide-title-F4e9xw {
+  left: 0px;
+  width: 50px;
+}
+
+.basiccomponentplugininformation .rectangle-YTaZjC {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 50px;
+}
+
+.basiccomponentplugininformation .table-title-text-YTaZjC {
+  width: 38px;
+}
+
+.basiccomponentplugininformation .group-3-copy-13-k1KxBg {
+  background-color: transparent;
+  height: 167px;
+  left: 760px;
+  position: absolute;
+  top: 464px;
+  width: 680px;
+}
+
+.basiccomponentplugininformation .table-guide-title-4Muvp5 {
+  left: 552px;
+  width: 128px;
+}
+
+.basiccomponentplugininformation .rectangle-WGNVNz {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 128px;
+}
+
+.basiccomponentplugininformation .table-title-text-WGNVNz {
+  width: 116px;
+}
+
+.basiccomponentplugininformation .table-guide-title-IR0wV6 {
+  left: 60px;
+  width: 166px;
+}
+
+.basiccomponentplugininformation .rectangle-wgPqmj {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 166px;
+}
+
+.basiccomponentplugininformation .table-title-text-wgPqmj {
+  width: 154px;
+}
+
+.basiccomponentplugininformation .rectangle-9AftVn {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 106px;
+}
+
+.basiccomponentplugininformation .table-title-text-9AftVn {
+  width: 94px;
+}
+
+.basiccomponentplugininformation .rectangle-x92uLs {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 190px;
+}
+
+.basiccomponentplugininformation .table-title-text-x92uLs {
+  width: 178px;
+}
+
+.basiccomponentplugininformation .table-guide-title-In8mJ0 {
+  left: 0px;
+  width: 50px;
+}
+
+.basiccomponentplugininformation .rectangle-GuVlba {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 50px;
+}
+
+.basiccomponentplugininformation .table-title-text-GuVlba {
+  width: 38px;
+}
+
+.basiccomponentplugininformation .group-5-wT7GsG {
+  height: 37px;
+}
+
+.basiccomponentplugininformation .group-12-copy-yLNyyj {
+  height: 37px;
+}
+
+.basiccomponentplugininformation .styletable1line_-color-copy-2-j3gr4o {
+  height: 31px;
+}
+
+.basiccomponentplugininformation .table-guide-text1line-hi8GFF {
+  height: 31px;
+  left: 552px;
+  width: 128px;
+}
+
+.basiccomponentplugininformation .rectangle-tUjhc6 {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 128px;
+}
+
+.basiccomponentplugininformation .contents-tUjhc6 {
+  color: var(--black);
+  font-weight: 400;
+  width: 116px;
+}
+
+.basiccomponentplugininformation .table-guide-text1line-M8C78I {
+  height: 31px;
+  left: 60px;
+  width: 166px;
+}
+
+.basiccomponentplugininformation .rectangle-Y7xPQt {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 166px;
+}
+
+.basiccomponentplugininformation .contents-Y7xPQt {
+  color: var(--black);
+  font-weight: 400;
+  width: 154px;
+}
+
+.basiccomponentplugininformation .table-guide-text1line-qxGFIA {
+  height: 31px;
+  left: 236px;
+  width: 100px;
+}
+
+.basiccomponentplugininformation .rectangle-zXHlEQ {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 100px;
+}
+
+.basiccomponentplugininformation .contents-zXHlEQ {
+  color: var(--black);
+  font-weight: 400;
+  width: 88px;
+}
+
+.basiccomponentplugininformation .table-guide-text2line-hi8GFF {
+  height: 31px;
+}
+
+.basiccomponentplugininformation .rectangle-74yFii {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 196px;
+}
+
+.basiccomponentplugininformation .contents-74yFii {
+  color: var(--black);
+  font-weight: 400;
+  width: 184px;
+}
+
+.basiccomponentplugininformation .table-guide-text1line-myHWQV {
+  height: 31px;
+  left: 0px;
+  width: 50px;
+}
+
+.basiccomponentplugininformation .rectangle-mGHab2 {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 50px;
+}
+
+.basiccomponentplugininformation .contents-mGHab2 {
+  color: var(--black);
+  font-weight: 400;
+  width: 38px;
+}
+
+.basiccomponentplugininformation .group-5-copy-wT7GsG {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 103px;
+  width: 680px;
+}
+
+.basiccomponentplugininformation .group-12-copy-rJLSEP {
+  height: 64px;
+}
+
+.basiccomponentplugininformation .styletable1line_-color-copy-2-9nhfGL {
+  height: 53px;
+}
+
+.basiccomponentplugininformation .table-guide-text1line-oHPr0u {
+  height: 31px;
+  left: 552px;
+  width: 128px;
+}
+
+.basiccomponentplugininformation .rectangle-5FMawg {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 128px;
+}
+
+.basiccomponentplugininformation .contents-5FMawg {
+  color: var(--black);
+  font-weight: 400;
+  width: 116px;
+}
+
+.basiccomponentplugininformation .table-guide-text1line-IJAXdY {
+  height: 31px;
+  left: 60px;
+  width: 166px;
+}
+
+.basiccomponentplugininformation .rectangle-LaGgZI {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 166px;
+}
+
+.basiccomponentplugininformation .contents-LaGgZI {
+  color: var(--black);
+  font-weight: 400;
+  width: 154px;
+}
+
+.basiccomponentplugininformation .table-guide-text1line-aB6shx {
+  height: 31px;
+  left: 236px;
+  width: 100px;
+}
+
+.basiccomponentplugininformation .rectangle-BCZ0aW {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 100px;
+}
+
+.basiccomponentplugininformation .contents-BCZ0aW {
+  color: var(--black);
+  font-weight: 400;
+  width: 88px;
+}
+
+.basiccomponentplugininformation .table-guide-text2line-oHPr0u {
+  height: 53px;
+}
+
+.basiccomponentplugininformation .rectangle-6tKQUu {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 196px;
+}
+
+.basiccomponentplugininformation .contents-6tKQUu {
+  color: var(--black);
+  font-weight: 400;
+  width: 184px;
+}
+
+.basiccomponentplugininformation .contents-copy-6tKQUu {
+  color: var(--fuscous-gray);
+  height: 20px;
+  white-space: nowrap;
+  width: 184px;
+}
+
+.basiccomponentplugininformation .table-guide-text1line-YDKyiK {
+  height: 31px;
+  left: 0px;
+  width: 50px;
+}
+
+.basiccomponentplugininformation .rectangle-SG94Km {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 50px;
+}
+
+.basiccomponentplugininformation .contents-SG94Km {
+  color: var(--black);
+  font-weight: 400;
+  width: 38px;
+}
+
+.basiccomponentplugininformation .group-19-DnMQk9 {
+  background-color: transparent;
+  height: 897px;
+  left: 368px;
+  position: absolute;
+  top: 2427px;
+  width: 1452px;
+}
+
+.basiccomponentplugininformation .group-13-P6jzBm {
+  height: 897px;
+  top: 0px;
+  width: 722px;
+}
+
+.basiccomponentplugininformation .group-copy-2-P6jzBm {
+  background-color: transparent;
+  height: 113px;
+  left: 772px;
+  position: absolute;
+  top: 0px;
+  width: 680px;
+}
+
+.basiccomponentplugininformation .group-2-copy-3-h5WxCM {
+  height: 57px;
+  top: 56px;
+}
+
+.tableguidetext1line170 {
+  background-color: transparent;
+  height: 54.39%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 7.35%;
+}
+
+.tableguidetext1line170 .rectangle-DxDoPL {
+  background-color: #000000;
+  height: 1px;
+  left: 0px;
+  opacity: 0.08;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.tableguidetext1line170 .contents-DxDoPL {
+  background-color: transparent;
+  color: #000000;
+  font-family: 'SamsungOneKorean-400', Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 11px;
+  white-space: nowrap;
+  width: 38px;
+}
+
+.tableguidetext1line171 {
+  background-color: transparent;
+  height: 54.39%;
+  opacity: 1;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 39.71%;
+}
+
+.tableguidetext1line171 .rectangle-QAXWUV {
+  background-color: #000000;
+  height: 1px;
+  left: 0px;
+  opacity: 0.08;
+  position: absolute;
+  top: 0px;
+  width: 270px;
+}
+
+.tableguidetext1line171 .contents-QAXWUV {
+  background-color: transparent;
+  color: #000000;
+  font-family: 'SamsungOneKorean-400', Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 11px;
+  white-space: nowrap;
+  width: 258px;
+}
+
+.tableguidetext2linem67 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 89.47%;
+  left: 8.82%;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 50.00%;
+}
+
+.tableguidetext2linem67 .rectangle-bQBULG {
+  background-color: #000000;
+  height: 1px;
+  left: 0px;
+  opacity: 0.08;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.tableguidetext2linem67 .contents-bQBULG {
+  background-color: transparent;
+  color: #0070c0;
+  font-family: 'SamsungOneKorean-400', Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  height: 40px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  top: 11px;
+  width: 328px;
+}
+
+.basiccomponentplugininformation .table-guide-title-1KxZAg {
+  left: 410px;
+  width: 270px;
+}
+
+.basiccomponentplugininformation .rectangle-MwC30N {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 270px;
+}
+
+.basiccomponentplugininformation .table-title-text-MwC30N {
+  width: 258px;
+}
+
+.basiccomponentplugininformation .table-guide-title-0oubkw {
+  left: 60px;
+  width: 340px;
+}
+
+.basiccomponentplugininformation .rectangle-TGbxFh {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 340px;
+}
+
+.basiccomponentplugininformation .table-title-text-TGbxFh {
+  width: 328px;
+}
+
+.basiccomponentplugininformation .table-guide-title-6x3cUw {
+  left: 0px;
+  width: 50px;
+}
+
+.basiccomponentplugininformation .rectangle-z73nBM {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 50px;
+}
+
+.basiccomponentplugininformation .table-title-text-z73nBM {
+  width: 38px;
+}
+
+.basiccomponentplugininformation .group-3-copy-14-P6jzBm {
+  background-color: transparent;
+  height: 120px;
+  left: 772px;
+  position: absolute;
+  top: 213px;
+  width: 680px;
+}
+
+.basiccomponentplugininformation .table-guide-title-szq4Et {
+  left: 552px;
+  width: 128px;
+}
+
+.basiccomponentplugininformation .rectangle-TL8i1y {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 128px;
+}
+
+.basiccomponentplugininformation .table-title-text-TL8i1y {
+  width: 116px;
+}
+
+.basiccomponentplugininformation .table-guide-title-zHj0ps {
+  left: 60px;
+  width: 166px;
+}
+
+.basiccomponentplugininformation .rectangle-sK6mwF {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 166px;
+}
+
+.basiccomponentplugininformation .table-title-text-sK6mwF {
+  width: 154px;
+}
+
+.basiccomponentplugininformation .rectangle-X9govd {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 106px;
+}
+
+.basiccomponentplugininformation .table-title-text-X9govd {
+  width: 94px;
+}
+
+.basiccomponentplugininformation .rectangle-bhbwvf {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 190px;
+}
+
+.basiccomponentplugininformation .table-title-text-bhbwvf {
+  width: 178px;
+}
+
+.basiccomponentplugininformation .table-guide-title-PTfFUh {
+  left: 0px;
+  width: 50px;
+}
+
+.basiccomponentplugininformation .rectangle-z4R6mC {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 50px;
+}
+
+.basiccomponentplugininformation .table-title-text-z4R6mC {
+  width: 38px;
+}
+
+.basiccomponentplugininformation .group-5-2HoOzQ {
+  height: 64px;
+}
+
+.basiccomponentplugininformation .group-12-copy-NaG0Gx {
+  height: 64px;
+}
+
+.basiccomponentplugininformation .styletable1line_-color-copy-2-6QddQ2 {
+  height: 53px;
+}
+
+.basiccomponentplugininformation .table-guide-text1line-nZjehR {
+  height: 31px;
+  left: 552px;
+  width: 128px;
+}
+
+.basiccomponentplugininformation .rectangle-Z5qVBW {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 128px;
+}
+
+.basiccomponentplugininformation .contents-Z5qVBW {
+  color: var(--black);
+  font-weight: 400;
+  width: 116px;
+}
+
+.basiccomponentplugininformation .table-guide-text1line-CdTMlt {
+  height: 31px;
+  left: 60px;
+  width: 166px;
+}
+
+.basiccomponentplugininformation .rectangle-TpIXu5 {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 166px;
+}
+
+.basiccomponentplugininformation .contents-TpIXu5 {
+  color: var(--black);
+  font-weight: 400;
+  width: 154px;
+}
+
+.basiccomponentplugininformation .table-guide-text1line-SaqStL {
+  height: 31px;
+  left: 236px;
+  width: 100px;
+}
+
+.basiccomponentplugininformation .rectangle-2WN4hW {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 100px;
+}
+
+.basiccomponentplugininformation .contents-2WN4hW {
+  color: var(--black);
+  font-weight: 400;
+  width: 88px;
+}
+
+.basiccomponentplugininformation .table-guide-text2line-nZjehR {
+  height: 53px;
+}
+
+.basiccomponentplugininformation .rectangle-B9h2Ox {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 196px;
+}
+
+.basiccomponentplugininformation .contents-B9h2Ox {
+  color: var(--black);
+  font-weight: 400;
+  width: 184px;
+}
+
+.basiccomponentplugininformation .contents-copy-B9h2Ox {
+  color: var(--fuscous-gray);
+  height: 20px;
+  white-space: nowrap;
+  width: 184px;
+}
+
+.basiccomponentplugininformation .table-guide-text1line-EyxPxA {
+  height: 31px;
+  left: 0px;
+  width: 50px;
+}
+
+.basiccomponentplugininformation .rectangle-cfcu4Y {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 50px;
+}
+
+.basiccomponentplugininformation .contents-cfcu4Y {
+  color: var(--black);
+  font-weight: 400;
+  width: 38px;
+}
+
+.basiccomponentplugininformation .web-sub_-title-DnMQk9 {
+  background-color: transparent;
+  height: 58px;
+  left: 320px;
+  position: absolute;
+  top: 284px;
+  width: 1600px;
+}
+
+.basiccomponentplugininformation .web-title-area-DnMQk9 {
+  background-color: transparent;
+  height: 170px;
+  left: 320px;
+  position: fixed;
+  top: 64px;
+  width: 1600px;
+}
+
+.basiccomponentplugininformation .web-tab-service-feature_-basic-layout-DnMQk9 {
+  background-color: transparent;
+  height: 47px;
+  left: 320px;
+  position: fixed;
+  top: 187px;
+  width: 1599px;
+}
+
+.basiccomponentplugininformation .x3rd-depth-DWlFyl {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1599px;
+}
+
+.basiccomponentplugininformation .tab-DWlFyl {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  height: 17px;
+  justify-content: flex-start;
+  left: 100px;
+  position: absolute;
+  top: 0px;
+  width: auto;
+}
+
+.basiccomponentplugininformation .plug-in-information-YrU01q {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0;
+  position: relative;
+  width: 122px;
+}
+
+.basiccomponentplugininformation .lnb-favorite-card-DnMQk9 {
+  background-color: transparent;
+  height: 1581px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.basiccomponentplugininformation .rectangle-ZhfNKk {
+  background-color: var(--concrete);
+  height: 1581px;
+  width: 320px;
+}
+
+.basiccomponentplugininformation .background-ZhfNKk {
+  background-color: var(--concrete);
+  height: 1039px;
+  width: 320px;
+}
+
+.basiccomponentplugininformation .stacked-group-ZhfNKk {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  left: 0px;
+  position: absolute;
+  top: 170px;
+  width: 320px;
+}
+
+.basiccomponentplugininformation .web-index-title-common-Pzbvy6 {
+  margin: 0;
+}
+
+.basiccomponentplugininformation .web-index-contents2dpeth-copy-2-Pzbvy6 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentplugininformation .group-NPn78Y {
+  background-color: transparent;
+  height: 46px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 320px;
+}
+
+.basiccomponentplugininformation .x2-death-title-Aaa4sZ {
+  color: var(--sonic-silver);
+  font-weight: 400;
+}
+
+.basiccomponentplugininformation .web-index-contents2dpeth-copy-14-Pzbvy6 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentplugininformation .group-lW26Rx {
+  background-color: transparent;
+  height: 46px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 320px;
+}
+
+.basiccomponentplugininformation .x2-death-title-Snl7Z4 {
+  color: var(--sonic-silver);
+  font-weight: 400;
+}
+
+.basiccomponentplugininformation .web-index-contents2dpeth-copy-10-Pzbvy6 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentplugininformation .group-zVFNOk {
+  background-color: transparent;
+  height: 46px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 320px;
+}
+
+.basiccomponentplugininformation .x2-death-title-xWxbPQ {
+  color: var(--sonic-silver);
+  font-weight: 400;
+}
+
+.basiccomponentplugininformation .web-index-contents2dpeth-copy-6-Pzbvy6 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentplugininformation .group-7Yhxhk {
+  background-color: transparent;
+  height: 46px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 320px;
+}
+
+.basiccomponentplugininformation .x2-death-title-jSSyBG {
+  color: var(--sonic-silver);
+  font-weight: 400;
+}
+
+.basiccomponentplugininformation .web-index-contents2dpeth-copy-11-Pzbvy6 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentplugininformation .group-xa2lUL {
+  background-color: transparent;
+  height: 46px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 320px;
+}
+
+.basiccomponentplugininformation .x2-death-title-qPyahb {
+  color: var(--sonic-silver);
+  font-weight: 400;
+}
+
+.basiccomponentplugininformation .web-index-contents2dpeth-copy-Pzbvy6 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentplugininformation .group-A0JvCu {
+  background-color: transparent;
+  height: 46px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 320px;
+}
+
+.basiccomponentplugininformation .x2-death-title-eE9wyl {
+  color: var(--sonic-silver);
+  font-weight: 400;
+}
+
+.basiccomponentplugininformation .web-index-contents2dpeth-copy-7-Pzbvy6 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentplugininformation .group-9pde4H {
+  background-color: transparent;
+  height: 46px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 320px;
+}
+
+.basiccomponentplugininformation .x2-death-title-pWyZUo {
+  color: var(--sonic-silver);
+  font-weight: 400;
+}
+
+.basiccomponentplugininformation .web-index-contents2dpeth-copy-4-Pzbvy6 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentplugininformation .group-mMHw85 {
+  background-color: transparent;
+  height: 46px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 320px;
+}
+
+.basiccomponentplugininformation .x2-death-title-9lM3KC {
+  color: var(--sonic-silver);
+  font-weight: 400;
+}
+
+.basiccomponentplugininformation .web-index-contents2dpeth-copy-8-Pzbvy6 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentplugininformation .group-ZU1RTL {
+  background-color: transparent;
+  height: 46px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 320px;
+}
+
+.basiccomponentplugininformation .x2-death-title-DVP4li {
+  color: var(--sonic-silver);
+  font-weight: 400;
+}
+
+.basiccomponentplugininformation .group-FEOTsV {
+  background-color: transparent;
+  height: 46px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 320px;
+}
+
+.basiccomponentplugininformation .x2-death-title-jwt7Lj {
+  color: var(--sonic-silver);
+  font-weight: 400;
+}
+
+.basiccomponentplugininformation .web-index-contents2dpeth-copy-9-Pzbvy6 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentplugininformation .group-12Qtf0 {
+  background-color: transparent;
+  height: 46px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 320px;
+}
+
+.basiccomponentplugininformation .x2-death-title-XDexxk {
+  color: var(--sonic-silver);
+  font-weight: 400;
+}
+
+.basiccomponentplugininformation .web-index-contents2dpeth-copy-5-Pzbvy6 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentplugininformation .group-LfC4Yw {
+  background-color: transparent;
+  height: 46px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 320px;
+}
+
+.basiccomponentplugininformation .x2-death-title-ayaHse {
+  color: var(--sonic-silver);
+  font-weight: 400;
+}
+
+.basiccomponentplugininformation .group-kwwDqa {
+  background-color: transparent;
+  height: 46px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 320px;
+}
+
+.basiccomponentplugininformation .x2-death-title-zwJVG4 {
+  color: var(--sonic-silver);
+  font-weight: 400;
+}
+
+.basiccomponentplugininformation .web-index-contents2dpeth-copy-3-Pzbvy6 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentplugininformation .group-BaxrNy {
+  background-color: transparent;
+  height: 46px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 320px;
+}
+
+.basiccomponentplugininformation .x2-death-title-v6dp8u {
+  color: var(--sonic-silver);
+  font-weight: 400;
+}
+
+.basiccomponentplugininformation .web-index-contents2dpeth-copy-12-Pzbvy6 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentplugininformation .group-gGunUJ {
+  background-color: transparent;
+  height: 46px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 320px;
+}
+
+.basiccomponentplugininformation .x2-death-title-jC8poj {
+  color: var(--sonic-silver);
+  font-weight: 400;
+}
+
+.basiccomponentplugininformation .web-index-contents2dpeth-copy-15-Pzbvy6 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentplugininformation .group-tLmxQX {
+  background-color: transparent;
+  height: 46px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 320px;
+}
+
+.basiccomponentplugininformation .x2-death-title-tggxz7 {
+  color: var(--curious-blue);
+  font-weight: 500;
+}
+
+.basiccomponentplugininformation .web-index-contents2dpeth-copy-13-Pzbvy6 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentplugininformation .group-Z1qefF {
+  background-color: transparent;
+  height: 46px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 320px;
+}
+
+.basiccomponentplugininformation .x2-death-title-GTNUBn {
+  color: var(--sonic-silver);
+  font-weight: 400;
+}
+
+.basiccomponentplugininformation .web-index-contents1dpeth_open_selected-Pzbvy6 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentplugininformation .group-copy-Pzbvy6 {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentplugininformation .empty-xUSb67 {
+  top: 21px;
+}
+
+.basiccomponentplugininformation .empty-Cz4C7N {
+  top: 0px;
+}
+
+.basiccomponentplugininformation .web-index-title-common-copy-Pzbvy6 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentplugininformation .group-Pzbvy6 {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentplugininformation .empty-JmK7hN {
+  top: 21px;
+}
+
+.basiccomponentplugininformation .empty-yM4ez2 {
+  top: 0px;
+}
+
+.basiccomponentplugininformation .web-index-title-common-ISOJPv {
+  margin: 0px 0 0 0;
+}
+
+.basiccomponentplugininformation .group-copy-2-Pzbvy6 {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentplugininformation .empty-9nw8uP {
+  top: 21px;
+}
+
+.basiccomponentplugininformation .empty-iuH5aD {
+  top: 0px;
+}
+
+.basiccomponentplugininformation .web-index-title-common-copy-2-Pzbvy6 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentplugininformation .line-ZhfNKk {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 154px;
+  width: 275px;
+}
+
+.basiccomponentplugininformation .home-net-gui-guidelin-ZhfNKk {
+  background-color: transparent;
+  cursor: pointer;
+  font-weight: 700;
+  height: auto;
+  left: 24px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: left;
+  top: 100px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.basiccomponentplugininformation .webgnb-DnMQk9 {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: fixed;
+  top: 0px;
+  width: 1920px;
+}
+
+.basiccomponentplugininformation .rectangle-pfMwwm {
+  background-color: var(--shark);
+  height: 64px;
+  width: 1920px;
+}
+
+.basiccomponentplugininformation .background-pfMwwm {
+  background-color: var(--shark);
+  height: 64px;
+  width: 1920px;
+}
+
+.basiccomponentplugininformation .index-pfMwwm {
+  background-color: transparent;
+  height: 22px;
+  left: 427px;
+  position: absolute;
+  top: 21px;
+  width: 116px;
+}
+
+.basiccomponentplugininformation .web-index-select-PjBxXB {
+  background-color: transparent;
+  cursor: pointer;
+  height: 22px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 17px;
+}
+
+.basiccomponentplugininformation .web-index-unselect-PjBxXB {
+  background-color: transparent;
+  cursor: pointer;
+  height: 22px;
+  left: 87px;
+  position: absolute;
+  top: 0px;
+  width: 29px;
+}
+
+.basiccomponentplugininformation .web-index-unelect_main-pfMwwm {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 18px;
+  position: absolute;
+  top: 20px;
+  width: 293px;
+}
+
+.basiccomponentplugininformation .logo-o9tDTP {
+  background-color: transparent;
+  height: 24px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 293px;
+}
+
+.basiccomponentplugininformation .contents {
+  background-color: transparent;
+  font-style: normal;
+  height: 20px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 11px;
+  white-space: nowrap;
+}
+
+.basiccomponentplugininformation .contents-copy {
+  background-color: transparent;
+  font-style: normal;
+  font-weight: 400;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 33px;
+}
+
+.basiccomponentplugininformation .group-12-copy {
+  background-color: transparent;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 680px;
+}
+
+.basiccomponentplugininformation .group-13 {
+  background-color: transparent;
+  left: 0px;
+  position: absolute;
+}
+
+.basiccomponentplugininformation .group-2-copy-3 {
+  background-color: transparent;
+  left: 0px;
+  position: absolute;
+  width: 680px;
+}
+
+.basiccomponentplugininformation .group-3 {
+  background-color: transparent;
+  height: 56px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 680px;
+}
+
+.basiccomponentplugininformation .group-5 {
+  background-color: transparent;
+  left: 0px;
+  position: absolute;
+  top: 56px;
+  width: 680px;
+}
+
+.basiccomponentplugininformation .styletable1line_-color-copy-2 {
+  background-color: transparent;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 680px;
+}
+
+.basiccomponentplugininformation .table-guide-text1line {
+  background-color: transparent;
+  position: absolute;
+  top: 0px;
+}
+
+.basiccomponentplugininformation .table-guide-text2line {
+  background-color: transparent;
+  left: 346px;
+  position: absolute;
+  top: 0px;
+  width: 196px;
+}
+
+.basiccomponentplugininformation .table-guide-text2line_m {
+  background-color: transparent;
+  height: 53px;
+  left: 60px;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.basiccomponentplugininformation .table-guide-title-copy {
+  background-color: transparent;
+  height: 38px;
+  left: 236px;
+  position: absolute;
+  top: 0px;
+  width: 106px;
+}
+
+.basiccomponentplugininformation .table-guide-title-copy-2 {
+  background-color: transparent;
+  height: 38px;
+  left: 352px;
+  position: absolute;
+  top: 0px;
+  width: 190px;
+}
+
+.basiccomponentplugininformation .table-title-text {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 700;
+  height: 22px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 16px;
+  white-space: nowrap;
+}
+
+.basiccomponentplugininformation .web-index-contents1dpeth_close {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentplugininformation .web-index-title-common {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentplugininformation .x2-death-title {
+  background-color: transparent;
+  font-style: normal;
+  height: 46px;
+  left: 70px;
+  letter-spacing: 0.00px;
+  line-height: 17px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 252px;
+}

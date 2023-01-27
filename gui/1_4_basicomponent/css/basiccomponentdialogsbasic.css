@@ -1,0 +1,1356 @@
+/* screen - basiccomponentdialogsbasic */
+
+.basiccomponentdialogsbasic {
+  background-color: var(--white);
+  height: 1235px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.basiccomponentdialogsbasic .group-6-OQG5EQ {
+  background-color: transparent;
+  height: 189px;
+  left: 400px;
+  position: absolute;
+  top: 342px;
+  width: 690px;
+}
+
+.basiccomponentdialogsbasic .group-7-OQG5EQ {
+  background-color: transparent;
+  height: 354px;
+  left: 365px;
+  position: absolute;
+  top: 681px;
+  width: 655px;
+}
+
+.basiccomponentdialogsbasic .group-8-OQG5EQ {
+  background-color: transparent;
+  height: 428px;
+  left: 1140px;
+  position: absolute;
+  top: 342px;
+  width: 680px;
+}
+
+.basiccomponentdialogsbasic .refer-to-androi-qr90oL {
+  background-color: transparent;
+  color: var(--rose);
+  font-style: normal;
+  font-weight: 400;
+  height: 40px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 388px;
+  width: auto;
+}
+
+.basiccomponentdialogsbasic .group-qr90oL {
+  background-color: transparent;
+  height: 378px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 680px;
+}
+
+.basiccomponentdialogsbasic .group-2-copy-2-cKGTkc {
+  background-color: transparent;
+  height: 166px;
+  left: 0px;
+  position: absolute;
+  top: 56px;
+  width: 680px;
+}
+
+.tableguidetext1line91 {
+  background-color: transparent;
+  height: 18.67%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 7.35%;
+}
+
+.tableguidetext1line91 .rectangle-0MjsdU {
+  background-color: #000000;
+  height: 1px;
+  left: 0px;
+  opacity: 0.08;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.tableguidetext1line91 .contents-0MjsdU {
+  background-color: transparent;
+  color: #000000;
+  font-family: 'SamsungOneKorean-400', Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 11px;
+  white-space: nowrap;
+  width: 38px;
+}
+
+.basiccomponentdialogsbasic .table-guide-text1line-fIy2Uh {
+  height: 155px;
+  left: 410px;
+  width: 270px;
+}
+
+.basiccomponentdialogsbasic .rectangle-fwedxL {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 270px;
+}
+
+.basiccomponentdialogsbasic .group-fwedxL {
+  background-color: transparent;
+  height: 144px;
+  left: 6px;
+  position: absolute;
+  top: 11px;
+  width: 258px;
+}
+
+.basiccomponentdialogsbasic .content-x8F27L {
+  color: var(--black);
+  height: 80px;
+  top: 22px;
+  width: 258px;
+}
+
+.basiccomponentdialogsbasic .content-dVW8IO {
+  color: var(--fuscous-gray);
+  height: 40px;
+  top: 104px;
+  width: 258px;
+}
+
+.basiccomponentdialogsbasic .title-x8F27L {
+  color: var(--science-blue);
+  font-weight: 600;
+  width: 258px;
+}
+
+.basiccomponentdialogsbasic .rectangle-vDqn0w {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 340px;
+}
+
+.basiccomponentdialogsbasic .group-vDqn0w {
+  background-color: transparent;
+  height: 42px;
+  left: 6px;
+  position: absolute;
+  top: 11px;
+  width: 328px;
+}
+
+.basiccomponentdialogsbasic .content-Lkc9qx {
+  color: var(--black);
+  height: 20px;
+  top: 22px;
+  white-space: nowrap;
+  width: 328px;
+}
+
+.basiccomponentdialogsbasic .title-Lkc9qx {
+  color: var(--persian-green);
+  font-weight: 600;
+  width: 328px;
+}
+
+.basiccomponentdialogsbasic .group-2-copy-3-cKGTkc {
+  background-color: transparent;
+  height: 146px;
+  left: 0px;
+  position: absolute;
+  top: 232px;
+  width: 680px;
+}
+
+.tableguidetext1line92 {
+  background-color: transparent;
+  height: 21.23%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 7.35%;
+}
+
+.tableguidetext1line92 .rectangle-ijYSFx {
+  background-color: #000000;
+  height: 1px;
+  left: 0px;
+  opacity: 0.08;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.tableguidetext1line92 .contents-ijYSFx {
+  background-color: transparent;
+  color: #000000;
+  font-family: 'SamsungOneKorean-400', Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 11px;
+  white-space: nowrap;
+  width: 38px;
+}
+
+.basiccomponentdialogsbasic .table-guide-text1line-4oxkwc {
+  height: 135px;
+  left: 410px;
+  width: 270px;
+}
+
+.basiccomponentdialogsbasic .rectangle-xfV7OM {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 270px;
+}
+
+.basiccomponentdialogsbasic .group-xfV7OM {
+  background-color: transparent;
+  height: 124px;
+  left: 6px;
+  position: absolute;
+  top: 11px;
+  width: 258px;
+}
+
+.basiccomponentdialogsbasic .content-sZt7nL {
+  color: var(--black);
+  height: 60px;
+  top: 22px;
+  width: 258px;
+}
+
+.basiccomponentdialogsbasic .content-xgAktQ {
+  color: var(--fuscous-gray);
+  height: 40px;
+  top: 84px;
+  width: 258px;
+}
+
+.basiccomponentdialogsbasic .title-sZt7nL {
+  color: var(--science-blue);
+  font-weight: 600;
+  width: 258px;
+}
+
+.basiccomponentdialogsbasic .rectangle-iCC0un {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 340px;
+}
+
+.basiccomponentdialogsbasic .group-iCC0un {
+  background-color: transparent;
+  height: 42px;
+  left: 6px;
+  position: absolute;
+  top: 11px;
+  width: 328px;
+}
+
+.basiccomponentdialogsbasic .content-rNC8hZ {
+  color: var(--black);
+  height: 20px;
+  top: 22px;
+  white-space: nowrap;
+  width: 328px;
+}
+
+.basiccomponentdialogsbasic .title-rNC8hZ {
+  color: var(--persian-green);
+  font-weight: 600;
+  width: 328px;
+}
+
+.basiccomponentdialogsbasic .group-3-cKGTkc {
+  background-color: transparent;
+  height: 56px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 680px;
+}
+
+.basiccomponentdialogsbasic .table-guide-title-lDsEIP {
+  left: 410px;
+  width: 270px;
+}
+
+.basiccomponentdialogsbasic .rectangle-iFzH1x {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 270px;
+}
+
+.basiccomponentdialogsbasic .table-title-text-iFzH1x {
+  width: 258px;
+}
+
+.basiccomponentdialogsbasic .table-guide-title-xzfWeN {
+  left: 60px;
+  width: 340px;
+}
+
+.basiccomponentdialogsbasic .rectangle-W8zGzV {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 340px;
+}
+
+.basiccomponentdialogsbasic .table-title-text-W8zGzV {
+  width: 328px;
+}
+
+.basiccomponentdialogsbasic .table-guide-title-s0ZT3b {
+  left: 0px;
+  width: 50px;
+}
+
+.basiccomponentdialogsbasic .rectangle-XCXdVv {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 50px;
+}
+
+.basiccomponentdialogsbasic .table-title-text-XCXdVv {
+  width: 38px;
+}
+
+.basiccomponentdialogsbasic .group-3-copy-4-OQG5EQ {
+  background-color: transparent;
+  height: 142px;
+  left: 1140px;
+  position: absolute;
+  top: 870px;
+  width: 680px;
+}
+
+.basiccomponentdialogsbasic .styletabletop-QszWCg {
+  background-color: transparent;
+  height: 38px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 680px;
+}
+
+.basiccomponentdialogsbasic .table-guide-title-3m1cdG {
+  left: 552px;
+  width: 128px;
+}
+
+.basiccomponentdialogsbasic .rectangle-Gm5qy7 {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 128px;
+}
+
+.basiccomponentdialogsbasic .table-title-text-Gm5qy7 {
+  width: 116px;
+}
+
+.basiccomponentdialogsbasic .table-guide-title-gx9dFO {
+  left: 60px;
+  width: 166px;
+}
+
+.basiccomponentdialogsbasic .rectangle-lVxSlx {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 166px;
+}
+
+.basiccomponentdialogsbasic .table-title-text-lVxSlx {
+  width: 154px;
+}
+
+.basiccomponentdialogsbasic .table-guide-title-copy-3m1cdG {
+  background-color: transparent;
+  height: 38px;
+  left: 236px;
+  position: absolute;
+  top: 0px;
+  width: 106px;
+}
+
+.basiccomponentdialogsbasic .rectangle-P4Rmwt {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 106px;
+}
+
+.basiccomponentdialogsbasic .table-title-text-P4Rmwt {
+  width: 94px;
+}
+
+.basiccomponentdialogsbasic .table-guide-title-copy-2-3m1cdG {
+  background-color: transparent;
+  height: 38px;
+  left: 352px;
+  position: absolute;
+  top: 0px;
+  width: 190px;
+}
+
+.basiccomponentdialogsbasic .rectangle-SrE7Fq {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 190px;
+}
+
+.basiccomponentdialogsbasic .table-title-text-SrE7Fq {
+  width: 178px;
+}
+
+.basiccomponentdialogsbasic .table-guide-title-q7p1BT {
+  left: 0px;
+  width: 50px;
+}
+
+.basiccomponentdialogsbasic .rectangle-tzj4he {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 50px;
+}
+
+.basiccomponentdialogsbasic .table-title-text-tzj4he {
+  width: 38px;
+}
+
+.basiccomponentdialogsbasic .group-5-QszWCg {
+  background-color: transparent;
+  height: 86px;
+  left: 0px;
+  position: absolute;
+  top: 56px;
+  width: 680px;
+}
+
+.basiccomponentdialogsbasic .styletable1line_-color-copy-vEhoGq {
+  background-color: transparent;
+  height: 75px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 680px;
+}
+
+.basiccomponentdialogsbasic .table-guide-text1line-jfDhSh {
+  height: 31px;
+  left: 552px;
+  width: 128px;
+}
+
+.basiccomponentdialogsbasic .rectangle-5NFm4h {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 128px;
+}
+
+.basiccomponentdialogsbasic .contents-5NFm4h {
+  width: 116px;
+}
+
+.basiccomponentdialogsbasic .table-guide-text1line-9X7NF1 {
+  height: 31px;
+  left: 60px;
+  width: 166px;
+}
+
+.basiccomponentdialogsbasic .rectangle-YdWNMz {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 166px;
+}
+
+.basiccomponentdialogsbasic .contents-YdWNMz {
+  width: 154px;
+}
+
+.basiccomponentdialogsbasic .table-guide-text1line-SSXdu2 {
+  height: 31px;
+  left: 236px;
+  width: 100px;
+}
+
+.basiccomponentdialogsbasic .rectangle-2UjiGi {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 100px;
+}
+
+.basiccomponentdialogsbasic .contents-2UjiGi {
+  width: 88px;
+}
+
+.basiccomponentdialogsbasic .table-guide-text2line-jfDhSh {
+  background-color: transparent;
+  height: 75px;
+  left: 346px;
+  position: absolute;
+  top: 0px;
+  width: 196px;
+}
+
+.basiccomponentdialogsbasic .rectangle-ZqkUjK {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 196px;
+}
+
+.basiccomponentdialogsbasic .group-ZqkUjK {
+  background-color: transparent;
+  height: 64px;
+  left: 6px;
+  position: absolute;
+  top: 11px;
+  width: 184px;
+}
+
+.basiccomponentdialogsbasic .content-QadUBx {
+  color: var(--fuscous-gray);
+  height: 20px;
+  top: 22px;
+  white-space: nowrap;
+  width: 184px;
+}
+
+.basiccomponentdialogsbasic .content-RLZLS3 {
+  color: var(--rose);
+  height: 20px;
+  top: 44px;
+  white-space: nowrap;
+  width: 184px;
+}
+
+.basiccomponentdialogsbasic .title-QadUBx {
+  color: var(--black);
+  font-weight: 400;
+  width: 184px;
+}
+
+.basiccomponentdialogsbasic .table-guide-text1line-S6phjx {
+  height: 31px;
+  left: 0px;
+  width: 50px;
+}
+
+.basiccomponentdialogsbasic .rectangle-S5Ldnh {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 50px;
+}
+
+.basiccomponentdialogsbasic .contents-S5Ldnh {
+  width: 38px;
+}
+
+.basiccomponentdialogsbasic .web-sub_-title-OQG5EQ {
+  background-color: transparent;
+  height: 57px;
+  left: 320px;
+  position: absolute;
+  top: 284px;
+  width: 360px;
+}
+
+.basiccomponentdialogsbasic .sub-title-erxZmL {
+  background-color: transparent;
+  font-weight: 700;
+  height: auto;
+  left: 100px;
+  letter-spacing: 0.00px;
+  line-height: 28px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.basiccomponentdialogsbasic .web-title-area-OQG5EQ {
+  background-color: transparent;
+  height: 170px;
+  left: 320px;
+  position: fixed;
+  top: 64px;
+  width: 1600px;
+}
+
+.basiccomponentdialogsbasic .web-tab-service-feature_-basic-layout-OQG5EQ {
+  background-color: transparent;
+  height: 47px;
+  left: 320px;
+  position: fixed;
+  top: 187px;
+  width: 1599px;
+}
+
+.basiccomponentdialogsbasic .x3rd-depth-GSiMFx {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1599px;
+}
+
+.basiccomponentdialogsbasic .tab-GSiMFx {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  height: 17px;
+  justify-content: flex-start;
+  left: 100px;
+  position: absolute;
+  top: 0px;
+  width: auto;
+}
+
+.basiccomponentdialogsbasic .basic-iwBxeh {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0;
+  position: relative;
+  width: 33px;
+}
+
+.basiccomponentdialogsbasic .lnb-favorite-card-OQG5EQ {
+  background-color: transparent;
+  height: 1581px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.basiccomponentdialogsbasic .rectangle-nxVlnF {
+  background-color: var(--concrete);
+  height: 1581px;
+  width: 320px;
+}
+
+.basiccomponentdialogsbasic .background-nxVlnF {
+  background-color: var(--concrete);
+  height: 1039px;
+  width: 320px;
+}
+
+.basiccomponentdialogsbasic .stacked-group-nxVlnF {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  left: 0px;
+  position: absolute;
+  top: 170px;
+  width: 320px;
+}
+
+.basiccomponentdialogsbasic .web-index-title-common-ZQfb0R {
+  margin: 0;
+}
+
+.basiccomponentdialogsbasic .web-index-contents2dpeth-copy-2-ZQfb0R {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentdialogsbasic .group-Mvtqkb {
+  background-color: transparent;
+  height: 46px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 320px;
+}
+
+.basiccomponentdialogsbasic .x2-death-title-m6FSBb {
+  color: var(--sonic-silver);
+  font-weight: 400;
+}
+
+.basiccomponentdialogsbasic .web-index-contents2dpeth-copy-14-ZQfb0R {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentdialogsbasic .group-1kD5IJ {
+  background-color: transparent;
+  height: 46px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 320px;
+}
+
+.basiccomponentdialogsbasic .x2-death-title-D9M6rU {
+  color: var(--sonic-silver);
+  font-weight: 400;
+}
+
+.basiccomponentdialogsbasic .web-index-contents2dpeth-copy-10-ZQfb0R {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentdialogsbasic .group-TxtGWJ {
+  background-color: transparent;
+  height: 46px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 320px;
+}
+
+.basiccomponentdialogsbasic .x2-death-title-FgYF7W {
+  color: var(--sonic-silver);
+  font-weight: 400;
+}
+
+.basiccomponentdialogsbasic .web-index-contents2dpeth-copy-6-ZQfb0R {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentdialogsbasic .group-mdqNrm {
+  background-color: transparent;
+  height: 46px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 320px;
+}
+
+.basiccomponentdialogsbasic .x2-death-title-3VaLx5 {
+  color: var(--sonic-silver);
+  font-weight: 400;
+}
+
+.basiccomponentdialogsbasic .web-index-contents2dpeth-copy-11-ZQfb0R {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentdialogsbasic .group-6tW2Su {
+  background-color: transparent;
+  height: 46px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 320px;
+}
+
+.basiccomponentdialogsbasic .x2-death-title-Nlu5UT {
+  color: var(--sonic-silver);
+  font-weight: 400;
+}
+
+.basiccomponentdialogsbasic .web-index-contents2dpeth-copy-ZQfb0R {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentdialogsbasic .group-lttPDg {
+  background-color: transparent;
+  height: 46px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 320px;
+}
+
+.basiccomponentdialogsbasic .x2-death-title-4B0qhl {
+  color: var(--sonic-silver);
+  font-weight: 400;
+}
+
+.basiccomponentdialogsbasic .web-index-contents2dpeth-copy-7-ZQfb0R {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentdialogsbasic .group-XBkZdr {
+  background-color: transparent;
+  height: 46px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 320px;
+}
+
+.basiccomponentdialogsbasic .x2-death-title-m6wP5a {
+  color: var(--sonic-silver);
+  font-weight: 400;
+}
+
+.basiccomponentdialogsbasic .web-index-contents2dpeth-copy-4-ZQfb0R {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentdialogsbasic .group-62TQZb {
+  background-color: transparent;
+  height: 46px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 320px;
+}
+
+.basiccomponentdialogsbasic .x2-death-title-gp6Taj {
+  color: var(--sonic-silver);
+  font-weight: 400;
+}
+
+.basiccomponentdialogsbasic .web-index-contents2dpeth-copy-8-ZQfb0R {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentdialogsbasic .group-OWt1tx {
+  background-color: transparent;
+  height: 46px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 320px;
+}
+
+.basiccomponentdialogsbasic .x2-death-title-GmxO4p {
+  color: var(--sonic-silver);
+  font-weight: 400;
+}
+
+.basiccomponentdialogsbasic .group-aovWZM {
+  background-color: transparent;
+  height: 46px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 320px;
+}
+
+.basiccomponentdialogsbasic .x2-death-title-9fhaMs {
+  color: var(--sonic-silver);
+  font-weight: 400;
+}
+
+.basiccomponentdialogsbasic .web-index-contents2dpeth-copy-9-ZQfb0R {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentdialogsbasic .group-1kLICj {
+  background-color: transparent;
+  height: 46px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 320px;
+}
+
+.basiccomponentdialogsbasic .x2-death-title-a8jpPA {
+  color: var(--sonic-silver);
+  font-weight: 400;
+}
+
+.basiccomponentdialogsbasic .web-index-contents2dpeth-copy-5-ZQfb0R {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentdialogsbasic .group-OE9N2Q {
+  background-color: transparent;
+  height: 46px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 320px;
+}
+
+.basiccomponentdialogsbasic .x2-death-title-X3vc2X {
+  color: var(--curious-blue);
+  font-weight: 500;
+}
+
+.basiccomponentdialogsbasic .group-zoIvdP {
+  background-color: transparent;
+  height: 46px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 320px;
+}
+
+.basiccomponentdialogsbasic .x2-death-title-7vwN2i {
+  color: var(--sonic-silver);
+  font-weight: 400;
+}
+
+.basiccomponentdialogsbasic .web-index-contents2dpeth-copy-3-ZQfb0R {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentdialogsbasic .group-Lx0fXh {
+  background-color: transparent;
+  height: 46px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 320px;
+}
+
+.basiccomponentdialogsbasic .x2-death-title-WqcHx2 {
+  color: var(--sonic-silver);
+  font-weight: 400;
+}
+
+.basiccomponentdialogsbasic .web-index-contents2dpeth-copy-12-ZQfb0R {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentdialogsbasic .group-EJ5nxN {
+  background-color: transparent;
+  height: 46px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 320px;
+}
+
+.basiccomponentdialogsbasic .x2-death-title-2QPFcQ {
+  color: var(--sonic-silver);
+  font-weight: 400;
+}
+
+.basiccomponentdialogsbasic .web-index-contents2dpeth-copy-15-ZQfb0R {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentdialogsbasic .group-rSHSX1 {
+  background-color: transparent;
+  height: 46px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 320px;
+}
+
+.basiccomponentdialogsbasic .x2-death-title-kEuEFL {
+  color: var(--sonic-silver);
+  font-weight: 400;
+}
+
+.basiccomponentdialogsbasic .web-index-contents2dpeth-copy-13-ZQfb0R {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentdialogsbasic .group-zKZdBX {
+  background-color: transparent;
+  height: 46px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 320px;
+}
+
+.basiccomponentdialogsbasic .x2-death-title-sxmM6s {
+  color: var(--sonic-silver);
+  font-weight: 400;
+}
+
+.basiccomponentdialogsbasic .web-index-contents1dpeth_open_selected-ZQfb0R {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentdialogsbasic .group-copy-ZQfb0R {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentdialogsbasic .empty-sfM7Ux {
+  top: 21px;
+}
+
+.basiccomponentdialogsbasic .empty-yL2Uoz {
+  top: 0px;
+}
+
+.basiccomponentdialogsbasic .web-index-title-common-copy-ZQfb0R {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentdialogsbasic .group-ZQfb0R {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentdialogsbasic .empty-xxXdvZ {
+  top: 21px;
+}
+
+.basiccomponentdialogsbasic .empty-1MRhw6 {
+  top: 0px;
+}
+
+.basiccomponentdialogsbasic .web-index-title-common-JMfKOx {
+  margin: 0px 0 0 0;
+}
+
+.basiccomponentdialogsbasic .group-copy-2-ZQfb0R {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentdialogsbasic .empty-jaZyXZ {
+  top: 21px;
+}
+
+.basiccomponentdialogsbasic .empty-1OCE3z {
+  top: 0px;
+}
+
+.basiccomponentdialogsbasic .web-index-title-common-copy-2-ZQfb0R {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentdialogsbasic .line-nxVlnF {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 154px;
+  width: 275px;
+}
+
+.basiccomponentdialogsbasic .home-net-gui-guidelin-nxVlnF {
+  background-color: transparent;
+  cursor: pointer;
+  font-weight: 700;
+  height: auto;
+  left: 24px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: left;
+  top: 100px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.basiccomponentdialogsbasic .webgnb-OQG5EQ {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: fixed;
+  top: 0px;
+  width: 1920px;
+}
+
+.basiccomponentdialogsbasic .rectangle-mHFJCr {
+  background-color: var(--shark);
+  height: 64px;
+  width: 1920px;
+}
+
+.basiccomponentdialogsbasic .background-mHFJCr {
+  background-color: var(--shark);
+  height: 64px;
+  width: 1920px;
+}
+
+.basiccomponentdialogsbasic .index-mHFJCr {
+  background-color: transparent;
+  height: 22px;
+  left: 427px;
+  position: absolute;
+  top: 21px;
+  width: 116px;
+}
+
+.basiccomponentdialogsbasic .web-index-select-v4zROE {
+  background-color: transparent;
+  cursor: pointer;
+  height: 22px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 17px;
+}
+
+.basiccomponentdialogsbasic .web-index-unselect-v4zROE {
+  background-color: transparent;
+  cursor: pointer;
+  height: 22px;
+  left: 87px;
+  position: absolute;
+  top: 0px;
+  width: 29px;
+}
+
+.basiccomponentdialogsbasic .web-index-unelect_main-mHFJCr {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 18px;
+  position: absolute;
+  top: 20px;
+  width: 293px;
+}
+
+.basiccomponentdialogsbasic .logo-PIIJfJ {
+  background-color: transparent;
+  height: 24px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 293px;
+}
+
+.basiccomponentdialogsbasic .content {
+  background-color: transparent;
+  font-style: normal;
+  font-weight: 400;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+}
+
+.basiccomponentdialogsbasic .contents {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 11px;
+  white-space: nowrap;
+}
+
+.basiccomponentdialogsbasic .table-guide-text1line {
+  background-color: transparent;
+  position: absolute;
+  top: 0px;
+}
+
+.basiccomponentdialogsbasic .table-guide-text2line_m {
+  background-color: transparent;
+  height: 53px;
+  left: 60px;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.basiccomponentdialogsbasic .table-title-text {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 700;
+  height: 22px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 16px;
+  white-space: nowrap;
+}
+
+.basiccomponentdialogsbasic .title {
+  background-color: transparent;
+  font-style: normal;
+  height: 20px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+}
+
+.basiccomponentdialogsbasic .web-index-contents1dpeth_close {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentdialogsbasic .web-index-title-common {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentdialogsbasic .x2-death-title {
+  background-color: transparent;
+  font-style: normal;
+  height: 46px;
+  left: 70px;
+  letter-spacing: 0.00px;
+  line-height: 17px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 252px;
+}

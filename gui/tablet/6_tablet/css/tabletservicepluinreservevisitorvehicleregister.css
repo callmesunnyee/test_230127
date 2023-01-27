@@ -1,0 +1,899 @@
+/* screen - tabletservicepluinreservevisitorvehicleregister */
+
+.tabletservicepluinreservevisitorvehicleregister {
+  background-color: var(--white);
+  height: 3284px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.tabletservicepluinreservevisitorvehicleregister .group-5-lnN34Q {
+  background-color: transparent;
+  height: 1056px;
+  left: 420px;
+  position: absolute;
+  top: 2028px;
+  width: 670px;
+}
+
+.tabletservicepluinreservevisitorvehicleregister .group-3-lnN34Q {
+  background-color: transparent;
+  height: 1536px;
+  left: 420px;
+  position: absolute;
+  top: 342px;
+  width: 670px;
+}
+
+.tabletservicepluinreservevisitorvehicleregister .group-9-lnN34Q {
+  background-color: transparent;
+  height: 135px;
+  left: 1140px;
+  position: absolute;
+  top: 342px;
+  width: 680px;
+}
+
+.tabletservicepluinreservevisitorvehicleregister .group-8-Z0xxFr {
+  background-color: transparent;
+  height: 79px;
+  left: 0px;
+  position: absolute;
+  top: 56px;
+  width: 680px;
+}
+
+.tabletservicepluinreservevisitorvehicleregister .table-guide-text2line_m-copy-6-7YycHW {
+  background-color: transparent;
+  cursor: pointer;
+  height: 73px;
+  left: 60px;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.tabletservicepluinreservevisitorvehicleregister .rectangle-6pYxY8 {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 340px;
+}
+
+.tabletservicepluinreservevisitorvehicleregister .group-6pYxY8 {
+  background-color: transparent;
+  height: 62px;
+  left: 6px;
+  position: absolute;
+  top: 11px;
+  width: 328px;
+}
+
+.tabletservicepluinreservevisitorvehicleregister .title-FU4fqv {
+  background-color: transparent;
+  color: var(--persian-green);
+  font-style: normal;
+  font-weight: 600;
+  height: 20px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: 328px;
+}
+
+.tabletservicepluinreservevisitorvehicleregister .contents-FU4fqv {
+  color: var(--lochmara);
+  font-weight: 400;
+  height: 40px;
+  left: 0px;
+  text-decoration: underline;
+  top: 22px;
+  width: 328px;
+}
+
+.tabletservicepluinreservevisitorvehicleregister .table-guide-text1line-copy-8-7YycHW {
+  background-color: transparent;
+  height: 31px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.tabletservicepluinreservevisitorvehicleregister .rectangle-npxN4R {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 50px;
+}
+
+.tabletservicepluinreservevisitorvehicleregister .contents-npxN4R {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  top: 11px;
+  white-space: nowrap;
+  width: 38px;
+}
+
+.tabletservicepluinreservevisitorvehicleregister .table-guide-text1line-copy-7YycHW {
+  background-color: transparent;
+  height: 31px;
+  left: 410px;
+  position: absolute;
+  top: 0px;
+  width: 270px;
+}
+
+.tabletservicepluinreservevisitorvehicleregister .rectangle-TVFmhJ {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 270px;
+}
+
+.tabletservicepluinreservevisitorvehicleregister .contents-TVFmhJ {
+  color: var(--science-blue);
+  font-weight: 600;
+  height: 20px;
+  left: 6px;
+  top: 11px;
+  white-space: nowrap;
+  width: 258px;
+}
+
+.tabletservicepluinreservevisitorvehicleregister .descriptiontabletop-copy-Z0xxFr {
+  background-color: transparent;
+  height: 38px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 680px;
+}
+
+.tabletservicepluinreservevisitorvehicleregister .table-guide-title-gafIYK {
+  left: 410px;
+  width: 270px;
+}
+
+.tabletservicepluinreservevisitorvehicleregister .rectangle-vi2oex {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 270px;
+}
+
+.tabletservicepluinreservevisitorvehicleregister .table-title-text-vi2oex {
+  width: 258px;
+}
+
+.tabletservicepluinreservevisitorvehicleregister .table-guide-title-vkRJxr {
+  left: 60px;
+  width: 340px;
+}
+
+.tabletservicepluinreservevisitorvehicleregister .rectangle-DbxSUr {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 340px;
+}
+
+.tabletservicepluinreservevisitorvehicleregister .table-title-text-DbxSUr {
+  width: 328px;
+}
+
+.tabletservicepluinreservevisitorvehicleregister .table-guide-title-DlYrMe {
+  left: 0px;
+  width: 50px;
+}
+
+.tabletservicepluinreservevisitorvehicleregister .rectangle-nDaxgo {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 50px;
+}
+
+.tabletservicepluinreservevisitorvehicleregister .table-title-text-nDaxgo {
+  width: 38px;
+}
+
+.tabletservicepluinreservevisitorvehicleregister .group-7-lnN34Q {
+  background-color: transparent;
+  height: 133px;
+  left: 1140px;
+  position: absolute;
+  top: 2028px;
+  width: 680px;
+}
+
+.tabletservicepluinreservevisitorvehicleregister .descriptiontabletop-copy-4-inQ5fV {
+  background-color: transparent;
+  height: 38px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 680px;
+}
+
+.tabletservicepluinreservevisitorvehicleregister .table-guide-title-qV8TUE {
+  left: 410px;
+  width: 270px;
+}
+
+.tabletservicepluinreservevisitorvehicleregister .rectangle-DxrVrD {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 270px;
+}
+
+.tabletservicepluinreservevisitorvehicleregister .table-title-text-DxrVrD {
+  width: 258px;
+}
+
+.tabletservicepluinreservevisitorvehicleregister .table-guide-title-Gq5K67 {
+  left: 60px;
+  width: 340px;
+}
+
+.tabletservicepluinreservevisitorvehicleregister .rectangle-Vk07Br {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 340px;
+}
+
+.tabletservicepluinreservevisitorvehicleregister .table-title-text-Vk07Br {
+  width: 328px;
+}
+
+.tabletservicepluinreservevisitorvehicleregister .table-guide-title-cwWXqZ {
+  left: 0px;
+  width: 50px;
+}
+
+.tabletservicepluinreservevisitorvehicleregister .rectangle-jozuxs {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 50px;
+}
+
+.tabletservicepluinreservevisitorvehicleregister .table-title-text-jozuxs {
+  width: 38px;
+}
+
+.tabletservicepluinreservevisitorvehicleregister .group-6-inQ5fV {
+  background-color: transparent;
+  height: 77px;
+  left: 0px;
+  position: absolute;
+  top: 56px;
+  width: 680px;
+}
+
+.tabletservicepluinreservevisitorvehicleregister .table-guide-text1line-copy-7-9iYHJ5 {
+  background-color: transparent;
+  height: 31px;
+  left: 410px;
+  position: absolute;
+  top: 0px;
+  width: 270px;
+}
+
+.tabletservicepluinreservevisitorvehicleregister .rectangle-NEDD1Y {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 270px;
+}
+
+.tabletservicepluinreservevisitorvehicleregister .contents-NEDD1Y {
+  color: var(--science-blue);
+  font-weight: 600;
+  height: 20px;
+  left: 6px;
+  top: 11px;
+  white-space: nowrap;
+  width: 258px;
+}
+
+.tabletservicepluinreservevisitorvehicleregister .table-guide-text1line-copy-24-9iYHJ5 {
+  background-color: transparent;
+  height: 31px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.tabletservicepluinreservevisitorvehicleregister .rectangle-rulsvA {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 50px;
+}
+
+.tabletservicepluinreservevisitorvehicleregister .contents-rulsvA {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  top: 11px;
+  white-space: nowrap;
+  width: 38px;
+}
+
+.tabletservicepluinreservevisitorvehicleregister .table-guide-text2line_m-copy-28-9iYHJ5 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 71px;
+  left: 60px;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.tabletservicepluinreservevisitorvehicleregister .rectangle-Cc12ju {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 340px;
+}
+
+.tabletservicepluinreservevisitorvehicleregister .contents-Cc12ju {
+  color: var(--lochmara);
+  font-weight: 400;
+  height: 60px;
+  left: 6px;
+  text-decoration: underline;
+  top: 11px;
+  width: 328px;
+}
+
+.tabletservicepluinreservevisitorvehicleregister .web-sub_-title-lnN34Q {
+  background-color: transparent;
+  height: 57px;
+  left: 320px;
+  position: absolute;
+  top: 284px;
+  width: 360px;
+}
+
+.tabletservicepluinreservevisitorvehicleregister .sub-title-fzCoHe {
+  background-color: transparent;
+  font-weight: 700;
+  height: auto;
+  left: 100px;
+  letter-spacing: 0.00px;
+  line-height: 28px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.tabletservicepluinreservevisitorvehicleregister .web-title-area-lnN34Q {
+  background-color: transparent;
+  height: 170px;
+  left: 320px;
+  position: fixed;
+  top: 64px;
+  width: 1600px;
+}
+
+.tabletservicepluinreservevisitorvehicleregister .web-tabtablet_service-plug-inems-lnN34Q {
+  background-color: transparent;
+  height: 47px;
+  left: 320px;
+  position: fixed;
+  top: 187px;
+  width: 1600px;
+}
+
+.tabletservicepluinreservevisitorvehicleregister .x3rd-depth-hTe68l {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1600px;
+}
+
+.tabletservicepluinreservevisitorvehicleregister .tab-hTe68l {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  height: 17px;
+  justify-content: flex-start;
+  left: 100px;
+  position: absolute;
+  top: 0px;
+  width: auto;
+}
+
+.tabletservicepluinreservevisitorvehicleregister .feature-CUyCEu {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0;
+  position: relative;
+  width: 48px;
+}
+
+.tabletservicepluinreservevisitorvehicleregister .feature-register-CUyCEu {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 112px;
+}
+
+.tabletservicepluinreservevisitorvehicleregister .feature-_-delete-lis-CUyCEu {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 128px;
+}
+
+.tabletservicepluinreservevisitorvehicleregister .feature-_-no-item-CUyCEu {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 111px;
+}
+
+.tabletservicepluinreservevisitorvehicleregister .lnbtablet_serviceplugin-lnN34Q {
+  background-color: transparent;
+  height: 1351px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.tabletservicepluinreservevisitorvehicleregister .rectangle-nAZX7O {
+  background-color: var(--concrete);
+  height: 1351px;
+  width: 320px;
+}
+
+.tabletservicepluinreservevisitorvehicleregister .line-nAZX7O {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 154px;
+  width: 275px;
+}
+
+.tabletservicepluinreservevisitorvehicleregister .home-net-gui-guidelin-nAZX7O {
+  background-color: transparent;
+  cursor: pointer;
+  font-weight: 700;
+  height: auto;
+  left: 24px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: left;
+  top: 100px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.stackedgroup22 {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 170px;
+  width: 320px;
+}
+
+.stackedgroup22 .web-index-title-reference-copy-2-MSm7nV {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup22 .group-MSm7nV {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup22 .empty-cuAAUT {
+  bottom: 0px;
+}
+
+.stackedgroup22 .empty-h2bLti {
+  top: 0px;
+}
+
+.stackedgroup22 .web-index-title-reference-copy-MSm7nV {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup22 .group-copy-MSm7nV {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup22 .empty-Ss487G {
+  bottom: 0px;
+}
+
+.stackedgroup22 .empty-BNIP8t {
+  top: 0px;
+}
+
+.stackedgroup22 .web-index-title-reference-MSm7nV {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup22 .group-copy-2-MSm7nV {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup22 .empty-copy-xViNmL {
+  background-color: transparent;
+  bottom: 0px;
+  height: 48.78%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  width: 100%;
+}
+
+.stackedgroup22 .line-copy-2-xViNmL {
+  background-color: transparent;
+  height: 2.44%;
+  left: 7.19%;
+  opacity: 0.2;
+  position: absolute;
+  top: 48.78%;
+  width: 85.62%;
+}
+
+.stackedgroup22 .empty-copy-2-xViNmL {
+  background-color: transparent;
+  height: 48.78%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.stackedgroup22 .web-index-title-reference-copy-3-MSm7nV {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup22 .web-index-contents2dpeth-copy-3-MSm7nV {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup22 .web-index-contents2dpeth-copy-2-MSm7nV {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup22 .web-index-contents2dpeth-copy-MSm7nV {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup22 .web-index-contents2dpeth-copy-4-MSm7nV {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup22 .web-index-contents2dpeth-copy-5-MSm7nV {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup22 .web-index-contents2dpeth-copy-6-MSm7nV {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup22 .web-index-contents2dpeth-copy-16-MSm7nV {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup22 .web-index-contents2dpeth-copy-15-MSm7nV {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup22 .web-index-contents2dpeth-copy-14-MSm7nV {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup22 .web-index-contents2dpeth-copy-13-MSm7nV {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup22 .web-index-contents2dpeth-copy-12-MSm7nV {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup22 .web-index-contents2dpeth-copy-11-MSm7nV {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup22 .web-index-contents2dpeth-copy-10-MSm7nV {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup22 .web-index-contents2dpeth-copy-18-MSm7nV {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup22 .web-index-contents2dpeth-copy-17-MSm7nV {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup22 .web-index-contents2dpeth-copy-19-MSm7nV {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup22 .web-index-contents2dpeth-copy-21-MSm7nV {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup22 .web-index-contents2dpeth-copy-20-MSm7nV {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup22 .web-index-contents2dpeth-copy-22-MSm7nV {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.tabletservicepluinreservevisitorvehicleregister .webgnb-lnN34Q {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.tabletservicepluinreservevisitorvehicleregister .rectangle-eDP4KJ {
+  background-color: var(--shark);
+  height: 64px;
+  width: 1920px;
+}
+
+.tabletservicepluinreservevisitorvehicleregister .background-eDP4KJ {
+  background-color: var(--shark);
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.tabletservicepluinreservevisitorvehicleregister .index-eDP4KJ {
+  background-color: transparent;
+  height: 64px;
+  left: 420px;
+  position: absolute;
+  top: 0px;
+  width: 123px;
+}
+
+.tabletservicepluinreservevisitorvehicleregister .web-index-select-nOOjPH {
+  background-color: transparent;
+  cursor: pointer;
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 32px;
+}
+
+.tabletservicepluinreservevisitorvehicleregister .web-index-unselect-nOOjPH {
+  background-color: transparent;
+  cursor: pointer;
+  height: 64px;
+  left: 92px;
+  position: absolute;
+  top: 0px;
+  width: 31px;
+}
+
+.tabletservicepluinreservevisitorvehicleregister .web-index-unelect_main-eDP4KJ {
+  background-color: transparent;
+  cursor: pointer;
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.tabletservicepluinreservevisitorvehicleregister .logo-sL9cIh {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.tabletservicepluinreservevisitorvehicleregister .contents {
+  background-color: transparent;
+  font-style: normal;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+}

@@ -1,0 +1,438 @@
+/* screen - deviceplugingasvalvecontrollertype */
+
+.deviceplugingasvalvecontrollertype {
+  background-color: var(--white);
+  height: 100vh;
+  margin: 0px;
+  min-height: 1257px;
+  min-width: 1920px;
+  overflow-x: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.deviceplugingasvalvecontrollertype .group-8-0bGH0d {
+  background-color: transparent;
+  height: 715px;
+  left: 420px;
+  position: absolute;
+  top: 342px;
+  width: 670px;
+}
+
+.deviceplugingasvalvecontrollertype .group-42-0bGH0d {
+  background-color: transparent;
+  height: 691px;
+  left: 1140px;
+  position: absolute;
+  top: 342px;
+  width: 680px;
+}
+
+.deviceplugingasvalvecontrollertype .descriptiontabletop-GYwaoa {
+  background-color: transparent;
+  height: 56px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 680px;
+}
+
+.deviceplugingasvalvecontrollertype .group-GYwaoa {
+  background-color: transparent;
+  height: 199px;
+  left: 0px;
+  position: absolute;
+  top: 56px;
+  width: 680px;
+}
+
+.deviceplugingasvalvecontrollertype .table-guide-text2line_mint-eWmkxY {
+  height: 199px;
+}
+
+.deviceplugingasvalvecontrollertype .table-guide-text2line_mint-copy-eWmkxY {
+  cursor: pointer;
+}
+
+.deviceplugingasvalvecontrollertype .group-2-GYwaoa {
+  background-color: transparent;
+  height: 119px;
+  left: 0px;
+  position: absolute;
+  top: 265px;
+  width: 680px;
+}
+
+.deviceplugingasvalvecontrollertype .table-guide-text2line_mint-kG0v1P {
+  height: 119px;
+}
+
+.deviceplugingasvalvecontrollertype .table-guide-text2line_mint-copy-kG0v1P {
+  cursor: pointer;
+}
+
+.deviceplugingasvalvecontrollertype .group-3-GYwaoa {
+  background-color: transparent;
+  height: 79px;
+  left: 0px;
+  position: absolute;
+  top: 394px;
+  width: 680px;
+}
+
+.deviceplugingasvalvecontrollertype .table-guide-text2line_mint-mxqiFr {
+  height: 79px;
+}
+
+.deviceplugingasvalvecontrollertype .table-guide-text2line_mint-copy-mxqiFr {
+  cursor: pointer;
+}
+
+.deviceplugingasvalvecontrollertype .group-4-GYwaoa {
+  background-color: transparent;
+  height: 79px;
+  left: 0px;
+  position: absolute;
+  top: 483px;
+  width: 680px;
+}
+
+.deviceplugingasvalvecontrollertype .table-guide-text2line_mint-PLAqAc {
+  height: 79px;
+}
+
+.deviceplugingasvalvecontrollertype .table-guide-text2line_mint-copy-PLAqAc {
+  cursor: pointer;
+}
+
+.deviceplugingasvalvecontrollertype .group-5-GYwaoa {
+  background-color: transparent;
+  height: 119px;
+  left: 0px;
+  position: absolute;
+  top: 572px;
+  width: 680px;
+}
+
+.deviceplugingasvalvecontrollertype .table-guide-text2line_mint-wKEc9g {
+  height: 119px;
+}
+
+.deviceplugingasvalvecontrollertype .web-sub_-title-0bGH0d {
+  background-color: transparent;
+  height: 58px;
+  left: 320px;
+  position: absolute;
+  top: 284px;
+  width: 1600px;
+}
+
+.deviceplugingasvalvecontrollertype .web-title-area-0bGH0d {
+  background-color: transparent;
+  height: 170px;
+  left: 320px;
+  position: fixed;
+  top: 64px;
+  width: 1600px;
+}
+
+.deviceplugingasvalvecontrollertype .web-tab-device-plug-in_-gas-valve-0bGH0d {
+  background-color: transparent;
+  height: 47px;
+  left: 320px;
+  position: fixed;
+  top: 187px;
+  width: 1600px;
+}
+
+.deviceplugingasvalvecontrollertype .x3rd-depth-o1ez5x {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 1600px;
+}
+
+.deviceplugingasvalvecontrollertype .tab-E3EAxA {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  height: 17px;
+  justify-content: flex-start;
+  left: 100px;
+  position: relative;
+  top: 0px;
+  width: auto;
+}
+
+.deviceplugingasvalvecontrollertype .status-type-7SGowQ {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0;
+  position: relative;
+  width: 70px;
+}
+
+.deviceplugingasvalvecontrollertype .status-type-_-intera-copy-7SGowQ {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 182px;
+}
+
+.deviceplugingasvalvecontrollertype .controller-type-copy-7SGowQ {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 93px;
+}
+
+.deviceplugingasvalvecontrollertype .controller-type-_-in-7SGowQ {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 204px;
+}
+
+.deviceplugingasvalvecontrollertype .lnb-device-plug-in-0bGH0d {
+  background-color: transparent;
+  height: 1596px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.deviceplugingasvalvecontrollertype .rectangle-zqutA4 {
+  background-color: var(--concrete);
+  height: 1596px;
+  width: 320px;
+}
+
+.deviceplugingasvalvecontrollertype .stacked-group-zqutA4 {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  left: 0px;
+  position: absolute;
+  top: 185px;
+  width: 320px;
+}
+
+.deviceplugingasvalvecontrollertype .web-index-title-common-m8bJWR {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0;
+  position: relative;
+  width: 320px;
+}
+
+.deviceplugingasvalvecontrollertype .group-m8bJWR {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.deviceplugingasvalvecontrollertype .empty-I9iGmx {
+  top: 21px;
+}
+
+.deviceplugingasvalvecontrollertype .empty-5aiFaB {
+  top: 0px;
+}
+
+.deviceplugingasvalvecontrollertype .web-index-contents1dpeth_open_selected-m8bJWR {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.deviceplugingasvalvecontrollertype .web-index-contents2dpeth-copy-m8bJWR {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.deviceplugingasvalvecontrollertype .group-uLD8W7 {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.deviceplugingasvalvecontrollertype .empty-svDOxM {
+  top: 21px;
+}
+
+.deviceplugingasvalvecontrollertype .empty-N9OPgp {
+  top: 0px;
+}
+
+.deviceplugingasvalvecontrollertype .group-copy-m8bJWR {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.deviceplugingasvalvecontrollertype .empty-copy-akLnTo {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 21px;
+  width: 320px;
+}
+
+.deviceplugingasvalvecontrollertype .line-copy-2-akLnTo {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 20px;
+  width: 275px;
+}
+
+.deviceplugingasvalvecontrollertype .empty-copy-2-akLnTo {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.deviceplugingasvalvecontrollertype .web-index-title-reference-copy-m8bJWR {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 313px;
+}
+
+.deviceplugingasvalvecontrollertype .line-zqutA4 {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 154px;
+  width: 275px;
+}
+
+.deviceplugingasvalvecontrollertype .home-net-ui-guideline-zqutA4 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 24px;
+  position: absolute;
+  top: 100px;
+  width: 199px;
+}
+
+.deviceplugingasvalvecontrollertype .webgnb-0bGH0d {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: fixed;
+  top: 0px;
+  width: 1920px;
+}
+
+.deviceplugingasvalvecontrollertype .rectangle-qlVS9G {
+  background-color: var(--shark);
+  height: 64px;
+  width: 1920px;
+}
+
+.deviceplugingasvalvecontrollertype .background-qlVS9G {
+  background-color: var(--shark);
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.deviceplugingasvalvecontrollertype .index-qlVS9G {
+  background-color: transparent;
+  height: 28px;
+  left: 420px;
+  position: absolute;
+  top: 21px;
+  width: 122px;
+}
+
+.deviceplugingasvalvecontrollertype .web-index-select-eL0HSP {
+  background-color: transparent;
+  cursor: pointer;
+  height: 28px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 32px;
+}
+
+.deviceplugingasvalvecontrollertype .web-index-unselect-eL0HSP {
+  background-color: transparent;
+  cursor: pointer;
+  height: 22px;
+  left: 93px;
+  position: absolute;
+  top: 0px;
+  width: 29px;
+}
+
+.deviceplugingasvalvecontrollertype .web-index-unelect_main-qlVS9G {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 18px;
+  position: absolute;
+  top: 20px;
+  width: 293px;
+}
+
+.deviceplugingasvalvecontrollertype .logo-ywbxty {
+  background-color: transparent;
+  height: 24px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 293px;
+}
+
+.deviceplugingasvalvecontrollertype .table-guide-text2line_mint-copy {
+  background-color: transparent;
+  height: 57px;
+  left: 470px;
+  position: absolute;
+  top: 0px;
+  width: 210px;
+}

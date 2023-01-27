@@ -1,0 +1,1304 @@
+/* screen - basiccomponentpageindicatorscrollbar */
+
+.basiccomponentpageindicatorscrollbar {
+  background-color: var(--white);
+  height: 1080px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.basiccomponentpageindicatorscrollbar .group-5-8xizdC {
+  background-color: transparent;
+  height: 382px;
+  left: 420px;
+  position: absolute;
+  top: 342px;
+  width: 670px;
+}
+
+.basiccomponentpageindicatorscrollbar .group-8xizdC {
+  background-color: transparent;
+  height: 298px;
+  left: 1140px;
+  position: absolute;
+  top: 342px;
+  width: 680px;
+}
+
+.basiccomponentpageindicatorscrollbar .group-2-copy-2-tY2f3X {
+  background-color: transparent;
+  height: 146px;
+  left: 0px;
+  position: absolute;
+  top: 56px;
+  width: 680px;
+}
+
+.tableguidetext1line6 {
+  background-color: transparent;
+  height: 21.23%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 7.35%;
+}
+
+.tableguidetext1line6 .rectangle-R44u0y {
+  background-color: #000000;
+  height: 1px;
+  left: 0px;
+  opacity: 0.08;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.tableguidetext1line6 .contents-R44u0y {
+  background-color: transparent;
+  color: #000000;
+  font-family: 'SamsungOneKorean-400', Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 11px;
+  white-space: nowrap;
+  width: 38px;
+}
+
+.basiccomponentpageindicatorscrollbar .table-guide-text1line-RibYi0 {
+  height: 135px;
+}
+
+.basiccomponentpageindicatorscrollbar .rectangle-RZwDzq {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 270px;
+}
+
+.basiccomponentpageindicatorscrollbar .group-RZwDzq {
+  background-color: transparent;
+  height: 124px;
+  left: 6px;
+  position: absolute;
+  top: 11px;
+  width: 258px;
+}
+
+.basiccomponentpageindicatorscrollbar .content-ZX18w5 {
+  color: var(--black);
+  height: 80px;
+  top: 22px;
+  width: 258px;
+}
+
+.basiccomponentpageindicatorscrollbar .content-iWotmA {
+  color: var(--fuscous-gray);
+  height: 20px;
+  top: 104px;
+  white-space: nowrap;
+  width: 258px;
+}
+
+.basiccomponentpageindicatorscrollbar .title-ZX18w5 {
+  color: var(--science-blue);
+  height: 20px;
+  left: 0px;
+  line-height: 20px;
+  opacity: 0.8;
+  top: 0px;
+  width: 258px;
+}
+
+.basiccomponentpageindicatorscrollbar .rectangle-oGBhmH {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 340px;
+}
+
+.basiccomponentpageindicatorscrollbar .group-oGBhmH {
+  background-color: transparent;
+  height: 42px;
+  left: 6px;
+  position: absolute;
+  top: 11px;
+  width: 328px;
+}
+
+.basiccomponentpageindicatorscrollbar .content-h3CyrA {
+  color: var(--black);
+  height: 20px;
+  top: 22px;
+  white-space: nowrap;
+  width: 328px;
+}
+
+.basiccomponentpageindicatorscrollbar .title-h3CyrA {
+  color: var(--persian-green);
+  height: 20px;
+  left: 0px;
+  line-height: 20px;
+  opacity: 0.8;
+  top: 0px;
+  width: 328px;
+}
+
+.basiccomponentpageindicatorscrollbar .group-2-copy-3-tY2f3X {
+  background-color: transparent;
+  height: 86px;
+  left: 0px;
+  position: absolute;
+  top: 212px;
+  width: 680px;
+}
+
+.tableguidetext1line7 {
+  background-color: transparent;
+  height: 36.05%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 7.35%;
+}
+
+.tableguidetext1line7 .rectangle-UaBHVq {
+  background-color: #000000;
+  height: 1px;
+  left: 0px;
+  opacity: 0.08;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.tableguidetext1line7 .contents-UaBHVq {
+  background-color: transparent;
+  color: #000000;
+  font-family: 'SamsungOneKorean-400', Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 11px;
+  white-space: nowrap;
+  width: 38px;
+}
+
+.basiccomponentpageindicatorscrollbar .table-guide-text1line-xITHmZ {
+  height: 75px;
+}
+
+.basiccomponentpageindicatorscrollbar .rectangle-ndPo1l {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 270px;
+}
+
+.basiccomponentpageindicatorscrollbar .group-ndPo1l {
+  background-color: transparent;
+  height: 64px;
+  left: 6px;
+  position: absolute;
+  top: 11px;
+  width: 258px;
+}
+
+.basiccomponentpageindicatorscrollbar .content-GLvPOq {
+  color: var(--black);
+  height: 20px;
+  top: 22px;
+  white-space: nowrap;
+  width: 258px;
+}
+
+.basiccomponentpageindicatorscrollbar .content-Fy7wZJ {
+  color: var(--fuscous-gray);
+  height: 20px;
+  top: 44px;
+  white-space: nowrap;
+  width: 258px;
+}
+
+.basiccomponentpageindicatorscrollbar .title-GLvPOq {
+  color: var(--science-blue);
+  height: 20px;
+  left: 0px;
+  line-height: 20px;
+  opacity: 0.8;
+  top: 0px;
+  width: 258px;
+}
+
+.basiccomponentpageindicatorscrollbar .rectangle-KLDCeR {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 340px;
+}
+
+.basiccomponentpageindicatorscrollbar .group-KLDCeR {
+  background-color: transparent;
+  height: 42px;
+  left: 6px;
+  position: absolute;
+  top: 11px;
+  width: 328px;
+}
+
+.basiccomponentpageindicatorscrollbar .content-XkIH1t {
+  color: var(--black);
+  height: 20px;
+  top: 22px;
+  white-space: nowrap;
+  width: 328px;
+}
+
+.basiccomponentpageindicatorscrollbar .title-XkIH1t {
+  color: var(--persian-green);
+  height: 20px;
+  left: 0px;
+  line-height: 20px;
+  opacity: 0.8;
+  top: 0px;
+  width: 328px;
+}
+
+.basiccomponentpageindicatorscrollbar .group-3-tY2f3X {
+  background-color: transparent;
+  height: 56px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 680px;
+}
+
+.basiccomponentpageindicatorscrollbar .table-guide-title-j14TzL {
+  left: 410px;
+  width: 270px;
+}
+
+.basiccomponentpageindicatorscrollbar .rectangle-xWcRsk {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 270px;
+}
+
+.basiccomponentpageindicatorscrollbar .table-title-text-xWcRsk {
+  width: 258px;
+}
+
+.basiccomponentpageindicatorscrollbar .table-guide-title-CBWCzW {
+  left: 60px;
+  width: 340px;
+}
+
+.basiccomponentpageindicatorscrollbar .rectangle-QvkAzP {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 340px;
+}
+
+.basiccomponentpageindicatorscrollbar .table-title-text-QvkAzP {
+  width: 328px;
+}
+
+.basiccomponentpageindicatorscrollbar .table-guide-title-O0RwDs {
+  left: 0px;
+  width: 50px;
+}
+
+.basiccomponentpageindicatorscrollbar .rectangle-NfpEBP {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 50px;
+}
+
+.basiccomponentpageindicatorscrollbar .table-title-text-NfpEBP {
+  width: 38px;
+}
+
+.basiccomponentpageindicatorscrollbar .web-sub_-title-8xizdC {
+  background-color: transparent;
+  height: 57px;
+  left: 320px;
+  position: absolute;
+  top: 284px;
+  width: 360px;
+}
+
+.basiccomponentpageindicatorscrollbar .sub-title-DLQcXF {
+  background-color: transparent;
+  font-weight: 700;
+  height: auto;
+  left: 100px;
+  letter-spacing: 0.00px;
+  line-height: 28px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.basiccomponentpageindicatorscrollbar .web-title-area-8xizdC {
+  background-color: transparent;
+  height: 170px;
+  left: 320px;
+  position: fixed;
+  top: 64px;
+  width: 1600px;
+}
+
+.basiccomponentpageindicatorscrollbar .web-tab-service-feature_-basic-layout-8xizdC {
+  background-color: transparent;
+  height: 47px;
+  left: 320px;
+  position: fixed;
+  top: 187px;
+  width: 1599px;
+}
+
+.basiccomponentpageindicatorscrollbar .x3rd-depth-L9xOkA {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1599px;
+}
+
+.basiccomponentpageindicatorscrollbar .tab-L9xOkA {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  height: 17px;
+  justify-content: flex-start;
+  left: 100px;
+  position: absolute;
+  top: 0px;
+  width: auto;
+}
+
+.basiccomponentpageindicatorscrollbar .page-indicator-fntTn0 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0;
+  position: relative;
+  width: 89px;
+}
+
+.basiccomponentpageindicatorscrollbar .service-feature-type-fntTn0 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 60px;
+}
+
+.basiccomponentpageindicatorscrollbar .lnb-favorite-card-8xizdC {
+  background-color: transparent;
+  height: 1581px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.basiccomponentpageindicatorscrollbar .rectangle-tjxliV {
+  background-color: var(--concrete);
+  height: 1581px;
+  width: 320px;
+}
+
+.basiccomponentpageindicatorscrollbar .background-tjxliV {
+  background-color: var(--concrete);
+  height: 1039px;
+  width: 320px;
+}
+
+.basiccomponentpageindicatorscrollbar .stacked-group-tjxliV {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  left: 0px;
+  position: absolute;
+  top: 170px;
+  width: 320px;
+}
+
+.basiccomponentpageindicatorscrollbar .web-index-title-common-Cxyuxo {
+  margin: 0;
+}
+
+.basiccomponentpageindicatorscrollbar .group-gi3nix {
+  background-color: transparent;
+  height: 46px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.basiccomponentpageindicatorscrollbar .title-GxXz18 {
+  color: var(--shark);
+  height: auto;
+  left: 30px;
+  line-height: 22px;
+  top: 12px;
+  width: auto;
+}
+
+.basiccomponentpageindicatorscrollbar .group-ETq6oI {
+  background-color: transparent;
+  height: 46px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.basiccomponentpageindicatorscrollbar .x1-depth-title-RER6Ff {
+  color: var(--shark);
+  font-weight: 500;
+}
+
+.basiccomponentpageindicatorscrollbar .button-WR9owv {
+  left: -1px;
+  top: -1px;
+}
+
+.basiccomponentpageindicatorscrollbar .group-Kd8Vdj {
+  background-color: transparent;
+  height: 46px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.basiccomponentpageindicatorscrollbar .x1-depth-title-YyZDnT {
+  color: var(--shark);
+  font-weight: 500;
+}
+
+.basiccomponentpageindicatorscrollbar .button-l0LLxr {
+  left: -1px;
+  top: -1px;
+}
+
+.basiccomponentpageindicatorscrollbar .group-Kk8oPU {
+  background-color: transparent;
+  height: 46px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.basiccomponentpageindicatorscrollbar .x1-depth-title-GyZFen {
+  color: var(--curious-blue);
+  font-weight: 600;
+}
+
+.basiccomponentpageindicatorscrollbar .web-expanded-Kk8oPU {
+  background-color: transparent;
+  height: 7px;
+  left: 27px;
+  position: absolute;
+  top: 20px;
+  width: 11px;
+}
+
+.basiccomponentpageindicatorscrollbar .button-Xl8xc4 {
+  left: 1px;
+  top: -3px;
+  transform: rotate(90deg);
+}
+
+.basiccomponentpageindicatorscrollbar .web-index-contents2dpeth-copy-2-Cxyuxo {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentpageindicatorscrollbar .group-E2yc5G {
+  background-color: transparent;
+  height: 46px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 320px;
+}
+
+.basiccomponentpageindicatorscrollbar .x2-death-title-jfMkUn {
+  color: var(--sonic-silver);
+  font-weight: 400;
+}
+
+.basiccomponentpageindicatorscrollbar .web-index-contents2dpeth-copy-14-Cxyuxo {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentpageindicatorscrollbar .group-lwTxVZ {
+  background-color: transparent;
+  height: 46px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 320px;
+}
+
+.basiccomponentpageindicatorscrollbar .x2-death-title-lPWMlc {
+  color: var(--sonic-silver);
+  font-weight: 400;
+}
+
+.basiccomponentpageindicatorscrollbar .web-index-contents2dpeth-copy-10-Cxyuxo {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentpageindicatorscrollbar .group-ILZKZs {
+  background-color: transparent;
+  height: 46px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 320px;
+}
+
+.basiccomponentpageindicatorscrollbar .x2-death-title-D8W8vC {
+  color: var(--sonic-silver);
+  font-weight: 400;
+}
+
+.basiccomponentpageindicatorscrollbar .web-index-contents2dpeth-copy-6-Cxyuxo {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentpageindicatorscrollbar .group-NbSOxk {
+  background-color: transparent;
+  height: 46px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 320px;
+}
+
+.basiccomponentpageindicatorscrollbar .x2-death-title-nm3XCz {
+  color: var(--sonic-silver);
+  font-weight: 400;
+}
+
+.basiccomponentpageindicatorscrollbar .web-index-contents2dpeth-copy-11-Cxyuxo {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentpageindicatorscrollbar .group-Ne3l9W {
+  background-color: transparent;
+  height: 46px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 320px;
+}
+
+.basiccomponentpageindicatorscrollbar .x2-death-title-xRKRR1 {
+  color: var(--sonic-silver);
+  font-weight: 400;
+}
+
+.basiccomponentpageindicatorscrollbar .web-index-contents2dpeth-copy-Cxyuxo {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentpageindicatorscrollbar .group-7bSxQF {
+  background-color: transparent;
+  height: 46px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 320px;
+}
+
+.basiccomponentpageindicatorscrollbar .x2-death-title-RUxDJC {
+  color: var(--sonic-silver);
+  font-weight: 400;
+}
+
+.basiccomponentpageindicatorscrollbar .web-index-contents2dpeth-copy-7-Cxyuxo {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentpageindicatorscrollbar .group-AwZZGM {
+  background-color: transparent;
+  height: 46px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 320px;
+}
+
+.basiccomponentpageindicatorscrollbar .x2-death-title-TwVXM3 {
+  color: var(--sonic-silver);
+  font-weight: 400;
+}
+
+.basiccomponentpageindicatorscrollbar .web-index-contents2dpeth-copy-4-Cxyuxo {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentpageindicatorscrollbar .group-EmXWV0 {
+  background-color: transparent;
+  height: 46px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 320px;
+}
+
+.basiccomponentpageindicatorscrollbar .x2-death-title-ezUDnH {
+  color: var(--sonic-silver);
+  font-weight: 400;
+}
+
+.basiccomponentpageindicatorscrollbar .web-index-contents2dpeth-copy-8-Cxyuxo {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentpageindicatorscrollbar .group-XxtfWy {
+  background-color: transparent;
+  height: 46px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 320px;
+}
+
+.basiccomponentpageindicatorscrollbar .x2-death-title-1DftgD {
+  color: var(--curious-blue);
+  font-weight: 500;
+}
+
+.basiccomponentpageindicatorscrollbar .group-txEVCJ {
+  background-color: transparent;
+  height: 46px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 320px;
+}
+
+.basiccomponentpageindicatorscrollbar .x2-death-title-lKQcxC {
+  color: var(--sonic-silver);
+  font-weight: 400;
+}
+
+.basiccomponentpageindicatorscrollbar .web-index-contents2dpeth-copy-9-Cxyuxo {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentpageindicatorscrollbar .group-VqPXIx {
+  background-color: transparent;
+  height: 46px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 320px;
+}
+
+.basiccomponentpageindicatorscrollbar .x2-death-title-XLG9tf {
+  color: var(--sonic-silver);
+  font-weight: 400;
+}
+
+.basiccomponentpageindicatorscrollbar .web-index-contents2dpeth-copy-5-Cxyuxo {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentpageindicatorscrollbar .group-2MjeAG {
+  background-color: transparent;
+  height: 46px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 320px;
+}
+
+.basiccomponentpageindicatorscrollbar .x2-death-title-1aYiAY {
+  color: var(--sonic-silver);
+  font-weight: 400;
+}
+
+.basiccomponentpageindicatorscrollbar .group-HpMubi {
+  background-color: transparent;
+  height: 46px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 320px;
+}
+
+.basiccomponentpageindicatorscrollbar .x2-death-title-bTZu4S {
+  color: var(--sonic-silver);
+  font-weight: 400;
+}
+
+.basiccomponentpageindicatorscrollbar .web-index-contents2dpeth-copy-3-Cxyuxo {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentpageindicatorscrollbar .group-DJvq7r {
+  background-color: transparent;
+  height: 46px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 320px;
+}
+
+.basiccomponentpageindicatorscrollbar .x2-death-title-cblvU3 {
+  color: var(--sonic-silver);
+  font-weight: 400;
+}
+
+.basiccomponentpageindicatorscrollbar .web-index-contents2dpeth-copy-12-Cxyuxo {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentpageindicatorscrollbar .group-nBNdXc {
+  background-color: transparent;
+  height: 46px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 320px;
+}
+
+.basiccomponentpageindicatorscrollbar .x2-death-title-4jLIwW {
+  color: var(--sonic-silver);
+  font-weight: 400;
+}
+
+.basiccomponentpageindicatorscrollbar .web-index-contents2dpeth-copy-15-Cxyuxo {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentpageindicatorscrollbar .group-0Bz25x {
+  background-color: transparent;
+  height: 46px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 320px;
+}
+
+.basiccomponentpageindicatorscrollbar .x2-death-title-rxFNQR {
+  color: var(--sonic-silver);
+  font-weight: 400;
+}
+
+.basiccomponentpageindicatorscrollbar .web-index-contents2dpeth-copy-13-Cxyuxo {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentpageindicatorscrollbar .group-YT6g0v {
+  background-color: transparent;
+  height: 46px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 320px;
+}
+
+.basiccomponentpageindicatorscrollbar .x2-death-title-Q3wJzc {
+  color: var(--sonic-silver);
+  font-weight: 400;
+}
+
+.basiccomponentpageindicatorscrollbar .group-VduEO3 {
+  background-color: transparent;
+  height: 46px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.basiccomponentpageindicatorscrollbar .x1-depth-title-nO39JX {
+  color: var(--shark);
+  font-weight: 500;
+}
+
+.basiccomponentpageindicatorscrollbar .button-HUK2Bn {
+  left: -1px;
+  top: -1px;
+}
+
+.basiccomponentpageindicatorscrollbar .web-index-contents1dpeth_open_selected-Cxyuxo {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentpageindicatorscrollbar .group-mah15j {
+  background-color: transparent;
+  height: 46px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.basiccomponentpageindicatorscrollbar .x1-depth-title-Z365E5 {
+  color: var(--shark);
+  font-weight: 500;
+}
+
+.basiccomponentpageindicatorscrollbar .button-6OG66y {
+  left: -1px;
+  top: -1px;
+}
+
+.basiccomponentpageindicatorscrollbar .group-copy-Cxyuxo {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentpageindicatorscrollbar .empty-xsV9jQ {
+  top: 21px;
+}
+
+.basiccomponentpageindicatorscrollbar .empty-xpcP5f {
+  top: 0px;
+}
+
+.basiccomponentpageindicatorscrollbar .web-index-title-common-copy-Cxyuxo {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentpageindicatorscrollbar .group-x8v6iY {
+  background-color: transparent;
+  height: 46px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.basiccomponentpageindicatorscrollbar .title-hA4ZMx {
+  color: var(--shark);
+  height: auto;
+  left: 30px;
+  line-height: 22px;
+  top: 12px;
+  width: auto;
+}
+
+.basiccomponentpageindicatorscrollbar .group-9e72nc {
+  background-color: transparent;
+  height: 46px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.basiccomponentpageindicatorscrollbar .x1-depth-title-vXla9J {
+  color: var(--shark);
+  font-weight: 500;
+}
+
+.basiccomponentpageindicatorscrollbar .button-C0MITg {
+  left: -1px;
+  top: -1px;
+}
+
+.basiccomponentpageindicatorscrollbar .group-FA8D4c {
+  background-color: transparent;
+  height: 46px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.basiccomponentpageindicatorscrollbar .x1-depth-title-dkr4X3 {
+  color: var(--shark);
+  font-weight: 500;
+}
+
+.basiccomponentpageindicatorscrollbar .button-1aKFVX {
+  left: -1px;
+  top: -1px;
+}
+
+.basiccomponentpageindicatorscrollbar .group-Cxyuxo {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentpageindicatorscrollbar .empty-ETOZTp {
+  top: 21px;
+}
+
+.basiccomponentpageindicatorscrollbar .empty-A8gGlh {
+  top: 0px;
+}
+
+.basiccomponentpageindicatorscrollbar .web-index-title-common-oNeP7f {
+  margin: 0px 0 0 0;
+}
+
+.basiccomponentpageindicatorscrollbar .group-sgFNBS {
+  background-color: transparent;
+  height: 46px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.basiccomponentpageindicatorscrollbar .title-JvuYDJ {
+  color: var(--shark);
+  height: auto;
+  left: 30px;
+  line-height: 22px;
+  top: 12px;
+  width: auto;
+}
+
+.basiccomponentpageindicatorscrollbar .group-copy-2-Cxyuxo {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentpageindicatorscrollbar .empty-eRG46n {
+  top: 21px;
+}
+
+.basiccomponentpageindicatorscrollbar .empty-S4NSdG {
+  top: 0px;
+}
+
+.basiccomponentpageindicatorscrollbar .web-index-title-common-copy-2-Cxyuxo {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentpageindicatorscrollbar .group-1FZ8Ba {
+  background-color: transparent;
+  height: 46px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.basiccomponentpageindicatorscrollbar .title-7aLDmI {
+  color: var(--shark);
+  height: auto;
+  left: 30px;
+  line-height: 22px;
+  top: 12px;
+  width: auto;
+}
+
+.basiccomponentpageindicatorscrollbar .line-tjxliV {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 154px;
+  width: 275px;
+}
+
+.basiccomponentpageindicatorscrollbar .home-net-gui-guidelin-tjxliV {
+  background-color: transparent;
+  cursor: pointer;
+  font-weight: 700;
+  height: auto;
+  left: 24px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: left;
+  top: 100px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.basiccomponentpageindicatorscrollbar .webgnb-8xizdC {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: fixed;
+  top: 0px;
+  width: 1920px;
+}
+
+.basiccomponentpageindicatorscrollbar .rectangle-J3vxfX {
+  background-color: var(--shark);
+  height: 64px;
+  width: 1920px;
+}
+
+.basiccomponentpageindicatorscrollbar .background-J3vxfX {
+  background-color: var(--shark);
+  height: 64px;
+  width: 1920px;
+}
+
+.basiccomponentpageindicatorscrollbar .index-J3vxfX {
+  background-color: transparent;
+  height: 22px;
+  left: 427px;
+  position: absolute;
+  top: 21px;
+  width: 116px;
+}
+
+.basiccomponentpageindicatorscrollbar .web-index-select-jse70I {
+  background-color: transparent;
+  cursor: pointer;
+  height: 22px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 17px;
+}
+
+.basiccomponentpageindicatorscrollbar .web-index-unselect-jse70I {
+  background-color: transparent;
+  cursor: pointer;
+  height: 22px;
+  left: 87px;
+  position: absolute;
+  top: 0px;
+  width: 29px;
+}
+
+.basiccomponentpageindicatorscrollbar .web-index-unelect_main-J3vxfX {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 18px;
+  position: absolute;
+  top: 20px;
+  width: 293px;
+}
+
+.basiccomponentpageindicatorscrollbar .logo-ezekpp {
+  background-color: transparent;
+  height: 24px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 293px;
+}
+
+.basiccomponentpageindicatorscrollbar .content {
+  background-color: transparent;
+  font-style: normal;
+  font-weight: 400;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+}
+
+.basiccomponentpageindicatorscrollbar .table-guide-text1line {
+  background-color: transparent;
+  left: 410px;
+  position: absolute;
+  top: 0px;
+  width: 270px;
+}
+
+.basiccomponentpageindicatorscrollbar .table-guide-text2line_m {
+  background-color: transparent;
+  height: 53px;
+  left: 60px;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.basiccomponentpageindicatorscrollbar .table-title-text {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 700;
+  height: 22px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 16px;
+  white-space: nowrap;
+}
+
+.basiccomponentpageindicatorscrollbar .title {
+  background-color: transparent;
+  font-style: normal;
+  font-weight: 600;
+  letter-spacing: 0.00px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+}
+
+.basiccomponentpageindicatorscrollbar .web-index-contents1dpeth_close {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentpageindicatorscrollbar .web-index-title-common {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentpageindicatorscrollbar .x2-death-title {
+  background-color: transparent;
+  font-style: normal;
+  height: 46px;
+  left: 70px;
+  letter-spacing: 0.00px;
+  line-height: 17px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 252px;
+}

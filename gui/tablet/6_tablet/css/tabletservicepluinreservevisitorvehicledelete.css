@@ -1,0 +1,899 @@
+/* screen - tabletservicepluinreservevisitorvehicledelete */
+
+.tabletservicepluinreservevisitorvehicledelete {
+  background-color: var(--white);
+  height: 1944px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.tabletservicepluinreservevisitorvehicledelete .group-2-x57znV {
+  background-color: transparent;
+  height: 746px;
+  left: 420px;
+  position: absolute;
+  top: 342px;
+  width: 670px;
+}
+
+.tabletservicepluinreservevisitorvehicledelete .group-3-x57znV {
+  background-color: transparent;
+  height: 506px;
+  left: 420px;
+  position: absolute;
+  top: 1238px;
+  width: 670px;
+}
+
+.tabletservicepluinreservevisitorvehicledelete .group-5-x57znV {
+  background-color: transparent;
+  height: 135px;
+  left: 1140px;
+  position: absolute;
+  top: 342px;
+  width: 680px;
+}
+
+.tabletservicepluinreservevisitorvehicledelete .group-4-Ogfdb4 {
+  background-color: transparent;
+  height: 79px;
+  left: 0px;
+  position: absolute;
+  top: 56px;
+  width: 680px;
+}
+
+.tabletservicepluinreservevisitorvehicledelete .table-guide-text2line_m-copy-6-GacufA {
+  background-color: transparent;
+  cursor: pointer;
+  height: 73px;
+  left: 60px;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.tabletservicepluinreservevisitorvehicledelete .rectangle-rBxw4r {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 340px;
+}
+
+.tabletservicepluinreservevisitorvehicledelete .group-rBxw4r {
+  background-color: transparent;
+  height: 62px;
+  left: 6px;
+  position: absolute;
+  top: 11px;
+  width: 328px;
+}
+
+.tabletservicepluinreservevisitorvehicledelete .title-skpVdl {
+  background-color: transparent;
+  color: var(--persian-green);
+  font-style: normal;
+  font-weight: 600;
+  height: 20px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: 328px;
+}
+
+.tabletservicepluinreservevisitorvehicledelete .contents-skpVdl {
+  color: var(--lochmara);
+  font-weight: 400;
+  height: 40px;
+  left: 0px;
+  text-decoration: underline;
+  top: 22px;
+  width: 328px;
+}
+
+.tabletservicepluinreservevisitorvehicledelete .table-guide-text1line-copy-8-GacufA {
+  background-color: transparent;
+  height: 31px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.tabletservicepluinreservevisitorvehicledelete .rectangle-prKtcP {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 50px;
+}
+
+.tabletservicepluinreservevisitorvehicledelete .contents-prKtcP {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  top: 11px;
+  white-space: nowrap;
+  width: 38px;
+}
+
+.tabletservicepluinreservevisitorvehicledelete .table-guide-text1line-copy-GacufA {
+  background-color: transparent;
+  height: 31px;
+  left: 410px;
+  position: absolute;
+  top: 0px;
+  width: 270px;
+}
+
+.tabletservicepluinreservevisitorvehicledelete .rectangle-ak0X7x {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 270px;
+}
+
+.tabletservicepluinreservevisitorvehicledelete .contents-ak0X7x {
+  color: var(--science-blue);
+  font-weight: 600;
+  height: 20px;
+  left: 6px;
+  top: 11px;
+  white-space: nowrap;
+  width: 258px;
+}
+
+.tabletservicepluinreservevisitorvehicledelete .descriptiontabletop-copy-Ogfdb4 {
+  background-color: transparent;
+  height: 38px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 680px;
+}
+
+.tabletservicepluinreservevisitorvehicledelete .table-guide-title-3qgKm7 {
+  left: 410px;
+  width: 270px;
+}
+
+.tabletservicepluinreservevisitorvehicledelete .rectangle-TpGx8o {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 270px;
+}
+
+.tabletservicepluinreservevisitorvehicledelete .table-title-text-TpGx8o {
+  width: 258px;
+}
+
+.tabletservicepluinreservevisitorvehicledelete .table-guide-title-qe0xBS {
+  left: 60px;
+  width: 340px;
+}
+
+.tabletservicepluinreservevisitorvehicledelete .rectangle-BibwAq {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 340px;
+}
+
+.tabletservicepluinreservevisitorvehicledelete .table-title-text-BibwAq {
+  width: 328px;
+}
+
+.tabletservicepluinreservevisitorvehicledelete .table-guide-title-S3qUmS {
+  left: 0px;
+  width: 50px;
+}
+
+.tabletservicepluinreservevisitorvehicledelete .rectangle-pRn5FL {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 50px;
+}
+
+.tabletservicepluinreservevisitorvehicledelete .table-title-text-pRn5FL {
+  width: 38px;
+}
+
+.tabletservicepluinreservevisitorvehicledelete .group-7-x57znV {
+  background-color: transparent;
+  height: 133px;
+  left: 1140px;
+  position: absolute;
+  top: 1238px;
+  width: 680px;
+}
+
+.tabletservicepluinreservevisitorvehicledelete .descriptiontabletop-copy-4-R0oxvB {
+  background-color: transparent;
+  height: 38px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 680px;
+}
+
+.tabletservicepluinreservevisitorvehicledelete .table-guide-title-AINEKB {
+  left: 410px;
+  width: 270px;
+}
+
+.tabletservicepluinreservevisitorvehicledelete .rectangle-OCPy0T {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 270px;
+}
+
+.tabletservicepluinreservevisitorvehicledelete .table-title-text-OCPy0T {
+  width: 258px;
+}
+
+.tabletservicepluinreservevisitorvehicledelete .table-guide-title-yhhCWF {
+  left: 60px;
+  width: 340px;
+}
+
+.tabletservicepluinreservevisitorvehicledelete .rectangle-2yu1br {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 340px;
+}
+
+.tabletservicepluinreservevisitorvehicledelete .table-title-text-2yu1br {
+  width: 328px;
+}
+
+.tabletservicepluinreservevisitorvehicledelete .table-guide-title-gGtj7u {
+  left: 0px;
+  width: 50px;
+}
+
+.tabletservicepluinreservevisitorvehicledelete .rectangle-j0F5QD {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 50px;
+}
+
+.tabletservicepluinreservevisitorvehicledelete .table-title-text-j0F5QD {
+  width: 38px;
+}
+
+.tabletservicepluinreservevisitorvehicledelete .group-6-R0oxvB {
+  background-color: transparent;
+  height: 77px;
+  left: 0px;
+  position: absolute;
+  top: 56px;
+  width: 680px;
+}
+
+.tabletservicepluinreservevisitorvehicledelete .table-guide-text1line-copy-7-ZolfA2 {
+  background-color: transparent;
+  height: 31px;
+  left: 410px;
+  position: absolute;
+  top: 0px;
+  width: 270px;
+}
+
+.tabletservicepluinreservevisitorvehicledelete .rectangle-YPla2W {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 270px;
+}
+
+.tabletservicepluinreservevisitorvehicledelete .contents-YPla2W {
+  color: var(--science-blue);
+  font-weight: 600;
+  height: 20px;
+  left: 6px;
+  top: 11px;
+  white-space: nowrap;
+  width: 258px;
+}
+
+.tabletservicepluinreservevisitorvehicledelete .table-guide-text1line-copy-24-ZolfA2 {
+  background-color: transparent;
+  height: 31px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.tabletservicepluinreservevisitorvehicledelete .rectangle-O6W0NL {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 50px;
+}
+
+.tabletservicepluinreservevisitorvehicledelete .contents-O6W0NL {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  top: 11px;
+  white-space: nowrap;
+  width: 38px;
+}
+
+.tabletservicepluinreservevisitorvehicledelete .table-guide-text2line_m-copy-28-ZolfA2 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 71px;
+  left: 60px;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.tabletservicepluinreservevisitorvehicledelete .rectangle-AFD4k3 {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 340px;
+}
+
+.tabletservicepluinreservevisitorvehicledelete .contents-AFD4k3 {
+  color: var(--lochmara);
+  font-weight: 400;
+  height: 60px;
+  left: 6px;
+  text-decoration: underline;
+  top: 11px;
+  width: 328px;
+}
+
+.tabletservicepluinreservevisitorvehicledelete .web-sub_-title-x57znV {
+  background-color: transparent;
+  height: 57px;
+  left: 320px;
+  position: absolute;
+  top: 284px;
+  width: 360px;
+}
+
+.tabletservicepluinreservevisitorvehicledelete .sub-title-2Rszw2 {
+  background-color: transparent;
+  font-weight: 700;
+  height: auto;
+  left: 100px;
+  letter-spacing: 0.00px;
+  line-height: 28px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.tabletservicepluinreservevisitorvehicledelete .web-title-area-x57znV {
+  background-color: transparent;
+  height: 170px;
+  left: 320px;
+  position: fixed;
+  top: 64px;
+  width: 1600px;
+}
+
+.tabletservicepluinreservevisitorvehicledelete .web-tabtablet_service-plug-inems-x57znV {
+  background-color: transparent;
+  height: 47px;
+  left: 320px;
+  position: fixed;
+  top: 187px;
+  width: 1600px;
+}
+
+.tabletservicepluinreservevisitorvehicledelete .x3rd-depth-ZoieSw {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1600px;
+}
+
+.tabletservicepluinreservevisitorvehicledelete .tab-ZoieSw {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  height: 17px;
+  justify-content: flex-start;
+  left: 100px;
+  position: absolute;
+  top: 0px;
+  width: auto;
+}
+
+.tabletservicepluinreservevisitorvehicledelete .feature-4p3KBx {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0;
+  position: relative;
+  width: 48px;
+}
+
+.tabletservicepluinreservevisitorvehicledelete .feature-register-4p3KBx {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 112px;
+}
+
+.tabletservicepluinreservevisitorvehicledelete .feature-_-delete-lis-4p3KBx {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 129px;
+}
+
+.tabletservicepluinreservevisitorvehicledelete .feature-_-no-item-4p3KBx {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 111px;
+}
+
+.tabletservicepluinreservevisitorvehicledelete .lnbtablet_serviceplugin-x57znV {
+  background-color: transparent;
+  height: 1351px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.tabletservicepluinreservevisitorvehicledelete .rectangle-uaoY9u {
+  background-color: var(--concrete);
+  height: 1351px;
+  width: 320px;
+}
+
+.tabletservicepluinreservevisitorvehicledelete .line-uaoY9u {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 154px;
+  width: 275px;
+}
+
+.tabletservicepluinreservevisitorvehicledelete .home-net-gui-guidelin-uaoY9u {
+  background-color: transparent;
+  cursor: pointer;
+  font-weight: 700;
+  height: auto;
+  left: 24px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: left;
+  top: 100px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.stackedgroup29 {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 170px;
+  width: 320px;
+}
+
+.stackedgroup29 .web-index-title-reference-copy-2-cvTi9E {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup29 .group-cvTi9E {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup29 .empty-KG6xcF {
+  bottom: 0px;
+}
+
+.stackedgroup29 .empty-AcNrD6 {
+  top: 0px;
+}
+
+.stackedgroup29 .web-index-title-reference-copy-cvTi9E {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup29 .group-copy-cvTi9E {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup29 .empty-v4KI4A {
+  bottom: 0px;
+}
+
+.stackedgroup29 .empty-WGbGFu {
+  top: 0px;
+}
+
+.stackedgroup29 .web-index-title-reference-cvTi9E {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup29 .group-copy-2-cvTi9E {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup29 .empty-copy-xZAYwN {
+  background-color: transparent;
+  bottom: 0px;
+  height: 48.78%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  width: 100%;
+}
+
+.stackedgroup29 .line-copy-2-xZAYwN {
+  background-color: transparent;
+  height: 2.44%;
+  left: 7.19%;
+  opacity: 0.2;
+  position: absolute;
+  top: 48.78%;
+  width: 85.62%;
+}
+
+.stackedgroup29 .empty-copy-2-xZAYwN {
+  background-color: transparent;
+  height: 48.78%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.stackedgroup29 .web-index-title-reference-copy-3-cvTi9E {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup29 .web-index-contents2dpeth-copy-3-cvTi9E {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup29 .web-index-contents2dpeth-copy-2-cvTi9E {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup29 .web-index-contents2dpeth-copy-cvTi9E {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup29 .web-index-contents2dpeth-copy-4-cvTi9E {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup29 .web-index-contents2dpeth-copy-5-cvTi9E {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup29 .web-index-contents2dpeth-copy-6-cvTi9E {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup29 .web-index-contents2dpeth-copy-16-cvTi9E {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup29 .web-index-contents2dpeth-copy-15-cvTi9E {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup29 .web-index-contents2dpeth-copy-14-cvTi9E {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup29 .web-index-contents2dpeth-copy-13-cvTi9E {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup29 .web-index-contents2dpeth-copy-12-cvTi9E {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup29 .web-index-contents2dpeth-copy-11-cvTi9E {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup29 .web-index-contents2dpeth-copy-10-cvTi9E {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup29 .web-index-contents2dpeth-copy-18-cvTi9E {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup29 .web-index-contents2dpeth-copy-17-cvTi9E {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup29 .web-index-contents2dpeth-copy-19-cvTi9E {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup29 .web-index-contents2dpeth-copy-21-cvTi9E {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup29 .web-index-contents2dpeth-copy-20-cvTi9E {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup29 .web-index-contents2dpeth-copy-22-cvTi9E {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.tabletservicepluinreservevisitorvehicledelete .webgnb-x57znV {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.tabletservicepluinreservevisitorvehicledelete .rectangle-Qefqxd {
+  background-color: var(--shark);
+  height: 64px;
+  width: 1920px;
+}
+
+.tabletservicepluinreservevisitorvehicledelete .background-Qefqxd {
+  background-color: var(--shark);
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.tabletservicepluinreservevisitorvehicledelete .index-Qefqxd {
+  background-color: transparent;
+  height: 64px;
+  left: 420px;
+  position: absolute;
+  top: 0px;
+  width: 123px;
+}
+
+.tabletservicepluinreservevisitorvehicledelete .web-index-select-SlgxvJ {
+  background-color: transparent;
+  cursor: pointer;
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 32px;
+}
+
+.tabletservicepluinreservevisitorvehicledelete .web-index-unselect-SlgxvJ {
+  background-color: transparent;
+  cursor: pointer;
+  height: 64px;
+  left: 92px;
+  position: absolute;
+  top: 0px;
+  width: 31px;
+}
+
+.tabletservicepluinreservevisitorvehicledelete .web-index-unelect_main-Qefqxd {
+  background-color: transparent;
+  cursor: pointer;
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.tabletservicepluinreservevisitorvehicledelete .logo-W1YAiQ {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.tabletservicepluinreservevisitorvehicledelete .contents {
+  background-color: transparent;
+  font-style: normal;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+}

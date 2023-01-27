@@ -1,0 +1,1442 @@
+/* screen - tabletserviceplugintutorial */
+
+.tabletserviceplugintutorial {
+  background-color: var(--white);
+  height: 1894px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.tabletserviceplugintutorial .group-8-a1G0mB {
+  background-color: transparent;
+  height: 506px;
+  left: 400px;
+  position: absolute;
+  top: 1188px;
+  width: 700px;
+}
+
+.tabletserviceplugintutorial .group-6-a1G0mB {
+  background-color: transparent;
+  height: 696px;
+  left: 400px;
+  position: absolute;
+  top: 342px;
+  width: 690px;
+}
+
+.tabletserviceplugintutorial .group-10-a1G0mB {
+  background-color: transparent;
+  height: 402px;
+  left: 1140px;
+  position: absolute;
+  top: 342px;
+  width: 680px;
+}
+
+.tabletserviceplugintutorial .group-4-LpooqM {
+  background-color: transparent;
+  height: 79px;
+  left: 0px;
+  position: absolute;
+  top: 56px;
+  width: 680px;
+}
+
+.tabletserviceplugintutorial .table-guide-text1line-blA0lw {
+  left: 0px;
+  width: 50px;
+}
+
+.tabletserviceplugintutorial .rectangle-glCxmM {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 50px;
+}
+
+.tabletserviceplugintutorial .contents-glCxmM {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  top: 11px;
+  white-space: nowrap;
+  width: 38px;
+}
+
+.tabletserviceplugintutorial .table-guide-text1line-y0YCil {
+  left: 410px;
+  width: 270px;
+}
+
+.tabletserviceplugintutorial .rectangle-AebILw {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 270px;
+}
+
+.tabletserviceplugintutorial .contents-AebILw {
+  color: var(--science-blue);
+  font-weight: 600;
+  height: 20px;
+  left: 6px;
+  top: 11px;
+  white-space: nowrap;
+  width: 258px;
+}
+
+.tabletserviceplugintutorial .table-guide-text2line_m-blA0lw {
+  background-color: transparent;
+  cursor: pointer;
+  height: 73px;
+  left: 60px;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.tabletserviceplugintutorial .rectangle-rZzNlm {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 340px;
+}
+
+.tabletserviceplugintutorial .group-rZzNlm {
+  height: 62px;
+  left: 6px;
+  top: 11px;
+  width: 328px;
+}
+
+.tabletserviceplugintutorial .contents-kUxMlZ {
+  color: var(--lochmara);
+  font-weight: 400;
+  height: 40px;
+  left: 0px;
+  text-decoration: underline;
+  top: 22px;
+  width: 328px;
+}
+
+.tabletserviceplugintutorial .group-3-LpooqM {
+  background-color: transparent;
+  height: 79px;
+  left: 0px;
+  position: absolute;
+  top: 145px;
+  width: 680px;
+}
+
+.tabletserviceplugintutorial .table-guide-text2line_m-copy-YcztF6 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 73px;
+  left: 60px;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.tabletserviceplugintutorial .rectangle-YzAZqX {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 340px;
+}
+
+.tabletserviceplugintutorial .group-YzAZqX {
+  height: 62px;
+  left: 6px;
+  top: 11px;
+  width: 328px;
+}
+
+.tabletserviceplugintutorial .contents-aXshwY {
+  color: var(--lochmara);
+  font-weight: 400;
+  height: 40px;
+  left: 0px;
+  text-decoration: underline;
+  top: 22px;
+  width: 328px;
+}
+
+.tabletserviceplugintutorial .table-guide-text1line-copy-YcztF6 {
+  background-color: transparent;
+  height: 31px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.tabletserviceplugintutorial .rectangle-tD6nKl {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 50px;
+}
+
+.tabletserviceplugintutorial .contents-tD6nKl {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  top: 11px;
+  white-space: nowrap;
+  width: 38px;
+}
+
+.tabletserviceplugintutorial .table-guide-text1line-copy-2-YcztF6 {
+  background-color: transparent;
+  height: 31px;
+  left: 410px;
+  position: absolute;
+  top: 0px;
+  width: 270px;
+}
+
+.tabletserviceplugintutorial .rectangle-jjRFiC {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 270px;
+}
+
+.tabletserviceplugintutorial .contents-jjRFiC {
+  color: var(--science-blue);
+  font-weight: 600;
+  height: 20px;
+  left: 6px;
+  top: 11px;
+  white-space: nowrap;
+  width: 258px;
+}
+
+.tabletserviceplugintutorial .group-2-LpooqM {
+  background-color: transparent;
+  height: 79px;
+  left: 0px;
+  position: absolute;
+  top: 234px;
+  width: 680px;
+}
+
+.tabletserviceplugintutorial .table-guide-text2line_m-copy-2-rlZhE6 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 73px;
+  left: 60px;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.tabletserviceplugintutorial .rectangle-7MEXHh {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 340px;
+}
+
+.tabletserviceplugintutorial .group-7MEXHh {
+  height: 62px;
+  left: 6px;
+  top: 11px;
+  width: 328px;
+}
+
+.tabletserviceplugintutorial .contents-x2PdxI {
+  color: var(--lochmara);
+  font-weight: 400;
+  height: 40px;
+  left: 0px;
+  text-decoration: underline;
+  top: 22px;
+  width: 328px;
+}
+
+.tabletserviceplugintutorial .table-guide-text1line-copy-3-rlZhE6 {
+  background-color: transparent;
+  height: 31px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.tabletserviceplugintutorial .rectangle-5nd3Ty {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 50px;
+}
+
+.tabletserviceplugintutorial .contents-5nd3Ty {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  top: 11px;
+  white-space: nowrap;
+  width: 38px;
+}
+
+.tabletserviceplugintutorial .table-guide-text1line-copy-4-rlZhE6 {
+  background-color: transparent;
+  height: 31px;
+  left: 410px;
+  position: absolute;
+  top: 0px;
+  width: 270px;
+}
+
+.tabletserviceplugintutorial .rectangle-J9BKn6 {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 270px;
+}
+
+.tabletserviceplugintutorial .contents-J9BKn6 {
+  color: var(--science-blue);
+  font-weight: 600;
+  height: 20px;
+  left: 6px;
+  top: 11px;
+  white-space: nowrap;
+  width: 258px;
+}
+
+.tabletserviceplugintutorial .group-LpooqM {
+  height: 79px;
+  left: 0px;
+  top: 323px;
+  width: 680px;
+}
+
+.tabletserviceplugintutorial .table-guide-text2line_m-copy-3-pvrJbE {
+  background-color: transparent;
+  cursor: pointer;
+  height: 73px;
+  left: 60px;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.tabletserviceplugintutorial .rectangle-NxbZLm {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 340px;
+}
+
+.tabletserviceplugintutorial .group-NxbZLm {
+  height: 62px;
+  left: 6px;
+  top: 11px;
+  width: 328px;
+}
+
+.tabletserviceplugintutorial .contents-BWdxxh {
+  color: var(--lochmara);
+  font-weight: 400;
+  height: 40px;
+  left: 0px;
+  text-decoration: underline;
+  top: 22px;
+  width: 328px;
+}
+
+.tabletserviceplugintutorial .table-guide-text1line-copy-5-pvrJbE {
+  background-color: transparent;
+  height: 31px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.tabletserviceplugintutorial .rectangle-B9ZUIu {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 50px;
+}
+
+.tabletserviceplugintutorial .contents-B9ZUIu {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  top: 11px;
+  white-space: nowrap;
+  width: 38px;
+}
+
+.tabletserviceplugintutorial .table-guide-text1line-copy-6-pvrJbE {
+  background-color: transparent;
+  height: 31px;
+  left: 410px;
+  position: absolute;
+  top: 0px;
+  width: 270px;
+}
+
+.tabletserviceplugintutorial .rectangle-gTcz0Z {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 270px;
+}
+
+.tabletserviceplugintutorial .contents-gTcz0Z {
+  color: var(--science-blue);
+  font-weight: 600;
+  height: 20px;
+  left: 6px;
+  top: 11px;
+  white-space: nowrap;
+  width: 258px;
+}
+
+.tabletserviceplugintutorial .descriptiontabletop-LpooqM {
+  background-color: transparent;
+  height: 38px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 680px;
+}
+
+.tabletserviceplugintutorial .table-guide-title-fGEAPW {
+  left: 410px;
+  width: 270px;
+}
+
+.tabletserviceplugintutorial .rectangle-QITGRA {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 270px;
+}
+
+.tabletserviceplugintutorial .table-title-text-QITGRA {
+  width: 258px;
+}
+
+.tabletserviceplugintutorial .table-guide-title-wT4Vrk {
+  left: 60px;
+  width: 340px;
+}
+
+.tabletserviceplugintutorial .rectangle-ON6L1a {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 340px;
+}
+
+.tabletserviceplugintutorial .table-title-text-ON6L1a {
+  width: 328px;
+}
+
+.tabletserviceplugintutorial .table-guide-title-u0xhSC {
+  left: 0px;
+  width: 50px;
+}
+
+.tabletserviceplugintutorial .rectangle-Hqb3mQ {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 50px;
+}
+
+.tabletserviceplugintutorial .table-title-text-Hqb3mQ {
+  width: 38px;
+}
+
+.tabletserviceplugintutorial .group-9-a1G0mB {
+  background-color: transparent;
+  height: 402px;
+  left: 1140px;
+  position: absolute;
+  top: 1188px;
+  width: 680px;
+}
+
+.tabletserviceplugintutorial .group-4-copy-2-Z48iQB {
+  background-color: transparent;
+  height: 79px;
+  left: 0px;
+  position: absolute;
+  top: 56px;
+  width: 680px;
+}
+
+.tabletserviceplugintutorial .table-guide-text1line-copy-21-g9vOIO {
+  background-color: transparent;
+  height: 31px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.tabletserviceplugintutorial .rectangle-xtxqkc {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 50px;
+}
+
+.tabletserviceplugintutorial .contents-xtxqkc {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  top: 11px;
+  white-space: nowrap;
+  width: 38px;
+}
+
+.tabletserviceplugintutorial .table-guide-text1line-copy-22-g9vOIO {
+  background-color: transparent;
+  height: 31px;
+  left: 410px;
+  position: absolute;
+  top: 0px;
+  width: 270px;
+}
+
+.tabletserviceplugintutorial .rectangle-OoAQBI {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 270px;
+}
+
+.tabletserviceplugintutorial .contents-OoAQBI {
+  color: var(--science-blue);
+  font-weight: 600;
+  height: 20px;
+  left: 6px;
+  top: 11px;
+  white-space: nowrap;
+  width: 258px;
+}
+
+.tabletserviceplugintutorial .table-guide-text2line_m-copy-11-g9vOIO {
+  background-color: transparent;
+  cursor: pointer;
+  height: 73px;
+  left: 60px;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.tabletserviceplugintutorial .rectangle-dBWdZS {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 340px;
+}
+
+.tabletserviceplugintutorial .group-dBWdZS {
+  height: 62px;
+  left: 6px;
+  top: 11px;
+  width: 328px;
+}
+
+.tabletserviceplugintutorial .contents-yQhZkf {
+  color: var(--lochmara);
+  font-weight: 400;
+  height: 40px;
+  left: 0px;
+  text-decoration: underline;
+  top: 22px;
+  width: 328px;
+}
+
+.tabletserviceplugintutorial .group-3-copy-2-Z48iQB {
+  background-color: transparent;
+  height: 79px;
+  left: 0px;
+  position: absolute;
+  top: 145px;
+  width: 680px;
+}
+
+.tabletserviceplugintutorial .table-guide-text2line_m-copy-10-qJo6Yb {
+  background-color: transparent;
+  cursor: pointer;
+  height: 73px;
+  left: 60px;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.tabletserviceplugintutorial .rectangle-FvmRqY {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 340px;
+}
+
+.tabletserviceplugintutorial .group-FvmRqY {
+  height: 62px;
+  left: 6px;
+  top: 11px;
+  width: 328px;
+}
+
+.tabletserviceplugintutorial .contents-CJB7k0 {
+  color: var(--lochmara);
+  font-weight: 400;
+  height: 40px;
+  left: 0px;
+  text-decoration: underline;
+  top: 22px;
+  width: 328px;
+}
+
+.tabletserviceplugintutorial .table-guide-text1line-copy-19-qJo6Yb {
+  background-color: transparent;
+  height: 31px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.tabletserviceplugintutorial .rectangle-WCqKGQ {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 50px;
+}
+
+.tabletserviceplugintutorial .contents-WCqKGQ {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  top: 11px;
+  white-space: nowrap;
+  width: 38px;
+}
+
+.tabletserviceplugintutorial .table-guide-text1line-copy-20-qJo6Yb {
+  background-color: transparent;
+  height: 31px;
+  left: 410px;
+  position: absolute;
+  top: 0px;
+  width: 270px;
+}
+
+.tabletserviceplugintutorial .rectangle-YbR5CN {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 270px;
+}
+
+.tabletserviceplugintutorial .contents-YbR5CN {
+  color: var(--science-blue);
+  font-weight: 600;
+  height: 20px;
+  left: 6px;
+  top: 11px;
+  white-space: nowrap;
+  width: 258px;
+}
+
+.tabletserviceplugintutorial .group-2-copy-2-Z48iQB {
+  background-color: transparent;
+  height: 79px;
+  left: 0px;
+  position: absolute;
+  top: 234px;
+  width: 680px;
+}
+
+.tabletserviceplugintutorial .table-guide-text2line_m-copy-9-C6GFPr {
+  background-color: transparent;
+  cursor: pointer;
+  height: 73px;
+  left: 60px;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.tabletserviceplugintutorial .rectangle-7WkhVg {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 340px;
+}
+
+.tabletserviceplugintutorial .group-7WkhVg {
+  height: 62px;
+  left: 6px;
+  top: 11px;
+  width: 328px;
+}
+
+.tabletserviceplugintutorial .contents-K6x0Kt {
+  color: var(--lochmara);
+  font-weight: 400;
+  height: 40px;
+  left: 0px;
+  text-decoration: underline;
+  top: 22px;
+  width: 328px;
+}
+
+.tabletserviceplugintutorial .table-guide-text1line-copy-17-C6GFPr {
+  background-color: transparent;
+  height: 31px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.tabletserviceplugintutorial .rectangle-xRbEmL {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 50px;
+}
+
+.tabletserviceplugintutorial .contents-xRbEmL {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  top: 11px;
+  white-space: nowrap;
+  width: 38px;
+}
+
+.tabletserviceplugintutorial .table-guide-text1line-copy-18-C6GFPr {
+  background-color: transparent;
+  height: 31px;
+  left: 410px;
+  position: absolute;
+  top: 0px;
+  width: 270px;
+}
+
+.tabletserviceplugintutorial .rectangle-V2f0wX {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 270px;
+}
+
+.tabletserviceplugintutorial .contents-V2f0wX {
+  color: var(--science-blue);
+  font-weight: 600;
+  height: 20px;
+  left: 6px;
+  top: 11px;
+  white-space: nowrap;
+  width: 258px;
+}
+
+.tabletserviceplugintutorial .group-copy-2-Z48iQB {
+  background-color: transparent;
+  height: 79px;
+  left: 0px;
+  position: absolute;
+  top: 323px;
+  width: 680px;
+}
+
+.tabletserviceplugintutorial .table-guide-text2line_m-copy-8-Y3guHY {
+  background-color: transparent;
+  cursor: pointer;
+  height: 73px;
+  left: 60px;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.tabletserviceplugintutorial .rectangle-jJbBBw {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 340px;
+}
+
+.tabletserviceplugintutorial .group-jJbBBw {
+  height: 62px;
+  left: 6px;
+  top: 11px;
+  width: 328px;
+}
+
+.tabletserviceplugintutorial .contents-MOZPa5 {
+  color: var(--lochmara);
+  font-weight: 400;
+  height: 40px;
+  left: 0px;
+  text-decoration: underline;
+  top: 22px;
+  width: 328px;
+}
+
+.tabletserviceplugintutorial .table-guide-text1line-copy-15-Y3guHY {
+  background-color: transparent;
+  height: 31px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.tabletserviceplugintutorial .rectangle-nkSAby {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 50px;
+}
+
+.tabletserviceplugintutorial .contents-nkSAby {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  top: 11px;
+  white-space: nowrap;
+  width: 38px;
+}
+
+.tabletserviceplugintutorial .table-guide-text1line-copy-16-Y3guHY {
+  background-color: transparent;
+  height: 31px;
+  left: 410px;
+  position: absolute;
+  top: 0px;
+  width: 270px;
+}
+
+.tabletserviceplugintutorial .rectangle-gmz7nf {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.08;
+  width: 270px;
+}
+
+.tabletserviceplugintutorial .contents-gmz7nf {
+  color: var(--science-blue);
+  font-weight: 600;
+  height: 20px;
+  left: 6px;
+  top: 11px;
+  white-space: nowrap;
+  width: 258px;
+}
+
+.tabletserviceplugintutorial .descriptiontabletop-copy-2-Z48iQB {
+  background-color: transparent;
+  height: 38px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 680px;
+}
+
+.tabletserviceplugintutorial .table-guide-title-x5MR6v {
+  left: 410px;
+  width: 270px;
+}
+
+.tabletserviceplugintutorial .rectangle-56YtpA {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 270px;
+}
+
+.tabletserviceplugintutorial .table-title-text-56YtpA {
+  width: 258px;
+}
+
+.tabletserviceplugintutorial .table-guide-title-xKQmTK {
+  left: 60px;
+  width: 340px;
+}
+
+.tabletserviceplugintutorial .rectangle-wDTJYp {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 340px;
+}
+
+.tabletserviceplugintutorial .table-title-text-wDTJYp {
+  width: 328px;
+}
+
+.tabletserviceplugintutorial .table-guide-title-4SksdR {
+  left: 0px;
+  width: 50px;
+}
+
+.tabletserviceplugintutorial .rectangle-E5VrAi {
+  background-color: var(--black);
+  height: 1px;
+  opacity: 0.3;
+  width: 50px;
+}
+
+.tabletserviceplugintutorial .table-title-text-E5VrAi {
+  width: 38px;
+}
+
+.tabletserviceplugintutorial .web-sub_-title-a1G0mB {
+  background-color: transparent;
+  height: 57px;
+  left: 320px;
+  position: absolute;
+  top: 284px;
+  width: 561px;
+}
+
+.tabletserviceplugintutorial .sub-title-xqeU5d {
+  background-color: transparent;
+  font-weight: 700;
+  height: auto;
+  left: 100px;
+  letter-spacing: 0.00px;
+  line-height: 28px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.tabletserviceplugintutorial .web-title-area-a1G0mB {
+  background-color: transparent;
+  height: 170px;
+  left: 320px;
+  position: fixed;
+  top: 64px;
+  width: 1600px;
+}
+
+.tabletserviceplugintutorial .web-tabtablet_service-plug-in-tutorial-a1G0mB {
+  background-color: transparent;
+  height: 47px;
+  left: 320px;
+  position: absolute;
+  top: 187px;
+  width: 1600px;
+}
+
+.tabletserviceplugintutorial .x3rd-depth-lyYY8v {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1600px;
+}
+
+.tabletserviceplugintutorial .tab-lyYY8v {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  height: 17px;
+  justify-content: flex-start;
+  left: 100px;
+  position: absolute;
+  top: 0px;
+  width: auto;
+}
+
+.tabletserviceplugintutorial .service-introduction-sbMpxS {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0;
+  position: relative;
+  width: 268px;
+}
+
+.tabletserviceplugintutorial .lnbtablet_serviceplugin-a1G0mB {
+  background-color: transparent;
+  height: 1351px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.tabletserviceplugintutorial .rectangle-T6Y9PV {
+  background-color: var(--concrete);
+  height: 1351px;
+  width: 320px;
+}
+
+.tabletserviceplugintutorial .line-T6Y9PV {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 154px;
+  width: 275px;
+}
+
+.tabletserviceplugintutorial .home-net-gui-guidelin-T6Y9PV {
+  background-color: transparent;
+  cursor: pointer;
+  font-weight: 700;
+  height: auto;
+  left: 24px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: left;
+  top: 100px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.stackedgroup21 {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 170px;
+  width: 320px;
+}
+
+.stackedgroup21 .web-index-title-reference-copy-2-ibgyaL {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup21 .group-ibgyaL {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup21 .empty-nD5UIm {
+  bottom: 0px;
+}
+
+.stackedgroup21 .empty-GjtevS {
+  top: 0px;
+}
+
+.stackedgroup21 .web-index-title-reference-copy-ibgyaL {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup21 .group-copy-ibgyaL {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup21 .empty-2S0zjK {
+  bottom: 0px;
+}
+
+.stackedgroup21 .empty-B8Ufwd {
+  top: 0px;
+}
+
+.stackedgroup21 .web-index-title-reference-ibgyaL {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup21 .group-copy-2-ibgyaL {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup21 .empty-copy-UuxoE2 {
+  background-color: transparent;
+  bottom: 0px;
+  height: 48.78%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  width: 100%;
+}
+
+.stackedgroup21 .line-copy-2-UuxoE2 {
+  background-color: transparent;
+  height: 2.44%;
+  left: 7.19%;
+  opacity: 0.2;
+  position: absolute;
+  top: 48.78%;
+  width: 85.62%;
+}
+
+.stackedgroup21 .empty-copy-2-UuxoE2 {
+  background-color: transparent;
+  height: 48.78%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.stackedgroup21 .web-index-title-reference-copy-3-ibgyaL {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup21 .web-index-contents2dpeth-copy-3-ibgyaL {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup21 .web-index-contents2dpeth-copy-2-ibgyaL {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup21 .web-index-contents2dpeth-copy-ibgyaL {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup21 .web-index-contents2dpeth-copy-4-ibgyaL {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup21 .web-index-contents2dpeth-copy-5-ibgyaL {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup21 .web-index-contents2dpeth-copy-6-ibgyaL {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup21 .web-index-contents2dpeth-copy-16-ibgyaL {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup21 .web-index-contents2dpeth-copy-15-ibgyaL {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup21 .web-index-contents2dpeth-copy-14-ibgyaL {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup21 .web-index-contents2dpeth-copy-13-ibgyaL {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup21 .web-index-contents2dpeth-copy-12-ibgyaL {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup21 .web-index-contents2dpeth-copy-11-ibgyaL {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup21 .web-index-contents2dpeth-copy-10-ibgyaL {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup21 .web-index-contents2dpeth-copy-18-ibgyaL {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup21 .web-index-contents2dpeth-copy-17-ibgyaL {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup21 .web-index-contents2dpeth-copy-19-ibgyaL {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup21 .web-index-contents2dpeth-copy-21-ibgyaL {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup21 .web-index-contents2dpeth-copy-20-ibgyaL {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup21 .web-index-contents2dpeth-copy-22-ibgyaL {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.tabletserviceplugintutorial .webgnb-a1G0mB {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.tabletserviceplugintutorial .rectangle-l61alx {
+  background-color: var(--shark);
+  height: 64px;
+  width: 1920px;
+}
+
+.tabletserviceplugintutorial .background-l61alx {
+  background-color: var(--shark);
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.tabletserviceplugintutorial .index-l61alx {
+  background-color: transparent;
+  height: 64px;
+  left: 420px;
+  position: absolute;
+  top: 0px;
+  width: 123px;
+}
+
+.tabletserviceplugintutorial .web-index-select-eip682 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 32px;
+}
+
+.tabletserviceplugintutorial .web-index-unselect-eip682 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 64px;
+  left: 92px;
+  position: absolute;
+  top: 0px;
+  width: 31px;
+}
+
+.tabletserviceplugintutorial .web-index-unelect_main-l61alx {
+  background-color: transparent;
+  cursor: pointer;
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.tabletserviceplugintutorial .logo-ffaGgL {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.tabletserviceplugintutorial .contents {
+  background-color: transparent;
+  font-style: normal;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+}
+
+.tabletserviceplugintutorial .group {
+  background-color: transparent;
+  position: absolute;
+}
+
+.tabletserviceplugintutorial .title {
+  background-color: transparent;
+  color: var(--persian-green);
+  font-style: normal;
+  font-weight: 600;
+  height: 20px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: 328px;
+}
